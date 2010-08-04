@@ -7,7 +7,7 @@ Bio::GO::Phenote_GOA.parser(data) do |entry|
   str = str.sub(/rwst1/, 'ralf@ark.in-berlin.de')
   str = str.sub(/rwst/, 'ralf@ark.in-berlin.de')
   unless entry.taxon !~ /organism:1773/      # only M.tb.
-    p "TBGO" + str
+    $stdout.print('TBGO' + str + "\n")
   end
 end
 
