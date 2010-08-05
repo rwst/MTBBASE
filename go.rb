@@ -3,11 +3,14 @@ require 'bio'
 
 data = File.open('TBGO.tab').read
 Bio::GO::Phenote_GOA.parser(data) do |entry|
-  str = entry.to_str
-  str = str.sub(/rwst1/, 'ralf@ark.in-berlin.de')
-  str = str.sub(/rwst/, 'ralf@ark.in-berlin.de')
+  entry.db = 'UniProt'
+  entry.assigned_by = 'ralf@ark.in-berlin.de'
   unless entry.taxon !~ /organism:1773/      # only M.tb.
-    $stdout.print('TBGO' + str + "\n")
+    entry.taxon = 'taxon:1773'
+    if entry.date =~ /20100701[3-8]/
+      entry.date = entry.date.sub(/20100701([3-8])/, '2010071\1')
+    end
+    $stdout.print(entry.to_str + "\n")
   end
 end
 
