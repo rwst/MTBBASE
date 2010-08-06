@@ -9,6 +9,10 @@ Bio::GO::Phenote_GOA.parser(data) do |entry|
     $stderr.print 'Error: IEP+P violated:' + "\n"
     $stderr.print(entry.to_str + "\n")
   end
+  if entry.goid == '0005515' and entry.with.empty? then
+    $stderr.print 'Error: protein binding+with violated:' + "\n"
+    $stderr.print(entry.to_str + "\n")
+  end
   unless entry.taxon !~ /organism:1773/      # only M.tb.
     entry.taxon = 'taxon:1773'
     if entry.date =~ /20100701[3-8]/
