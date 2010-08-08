@@ -46,7 +46,7 @@ h = Hash.new
 data = File.open('TBGO.tab').read
 Bio::GO::Phenote_GOA.parser(data) do |entry|
   entry.db = 'UniProt'
-  entry.assigned_by = 'ralf@ark.in-berlin.de'
+  entry.assigned_by = 'UniProt'
   if entry.evidence == 'IEP' and entry.aspect != 'P' then
     $stderr.print 'Error: IEP+P violated:' + "\n"
     $stderr.print(entry.to_str + "\n")
@@ -81,15 +81,18 @@ Bio::GO::Phenote_GOA.parser(data) do |entry|
         entry.db_object_synonym = syns.flatten
       end
     end
-    with = entry.with
-    if with =~ /^Rv/
-      if !syn.has_key?(with)
-        $stderr.print('Error: Unknown With RvID:' + with + "\n")
-      else
-        syns = syn[with]
-        entry.with = 'UniProt:' + syns[-2]
-      end
-    end
+    withs = []
+    entry.with.each {|with|
+      if !with.empty? then
+        if !syn.has_key?(with)
+          $stderr.print('Error: Unknown With RvID:' + with + "\n")
+        else
+          syns = syn[with]
+          withs << ['UniProt:' + syns[-2]]
+#          $stderr.print("With RvID: '" + with + "'\n")
+        end
+      end }
+    entry.with = withs
     $stdout.print(entry.to_str + "\n")
   end
 end
