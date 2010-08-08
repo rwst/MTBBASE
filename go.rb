@@ -56,6 +56,7 @@ Bio::GO::Phenote_GOA.parser(data) do |entry|
       $stderr.print 'Error: protein binding+with violated:' + "\n"
       $stderr.print(entry.to_str + "\n")
     else
+      entry.evidence = 'IPI'
       key = entry.db_object_id.to_s + "\t" +
             entry.with.join('|') + "\t" +
             entry.db_reference.join('|')
