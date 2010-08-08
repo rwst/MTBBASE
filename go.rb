@@ -5,37 +5,38 @@ require 'bio'
 syn = Hash.new
 synfile = File.open('1773.txt').read
 $stderr.print("Reading names from UniProt file...\n")
-id = ac = ""
+id = ""
+ac = ""
+keys = []
 names = []
 synfile.each_line("\n") {|line|
   next if /^ID|^AC|^GN/ !~ line
   case line[0,2]
-    when 'ID'
+    when 'ID' then
+      if !keys.empty? then
+        keys.each {|key|
+          if syn.has_key?(key)
+            $stderr.print("Error: duplicate name: '" + key + "'\n")
+          else
+            syn[key] = (names << ac << id)
+          end }
+        id = ""    # never assume id = ac = "" will succeed
+        ac = ""
+        keys = []
+        names = []
+      end
       id = line.sub(/ID +/, '').sub(/ +.*\n/, '')
-    when 'AC'
+    when 'AC' then
       ac = line.sub(/AC +/, '').sub(/[,;].*\n/, '')
-    when 'GN'
-      key = ""
+    when 'GN' then
       gn = line.chomp.split(/[= ,;\/]/)
-      names = []
       gn.each {|word|
         if !word.empty? and
-           word !~ /GN|Name|Synonyms|OrderedLocusNames|ORFNames/ then
+           word !~ /GN|and|Name|Synonyms|OrderedLocusNames|ORFNames/ then
           if word =~ /^Rv/
-            key = word
-#            $stderr.print("'" + key + "'\n")
-          else
-            names << word
+            keys << word
           end
-        end }
-      if !key.empty? and !names.include?(key) then names << key end
-#      $stderr.print("Log: Unknown RvID: '#{names.join('|')}', size:#{names.size}\n")
-      names.each {|name|
-        if name =~ /Rv/
-          if syn.has_key?(name)
-            $stderr.print("Error: duplicate name: " + name + "\n")
-          end
-          syn[name] = names << ac << id
+          names << word
         end }
     else $stderr.print("Can't happen: " + line[0,2] + "\n")
   end
