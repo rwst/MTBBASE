@@ -87,6 +87,7 @@ Bio::GO::Phenote_GOA.parser(data) do |entry|
       if !with.empty? then
         if !syn.has_key?(with)
           $stderr.print('Error: Unknown With RvID:' + with + "\n")
+          withs << with
         else
           syns = syn[with]
           withs << ['UniProt:' + syns[-2]]
