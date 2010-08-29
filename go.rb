@@ -51,16 +51,15 @@ Bio::GO::Phenote_GOA.parser(data) do |entry|
     $stderr.print 'Error: IEP+P violated:' + "\n"
     $stderr.print(entry.to_str + "\n")
   end
-  # homodimerization
-  if entry.goid == '0042803' and entry.evidence == 'IDA' then     
-    $stderr.print 'Adding With and IPI to homodimer' + "\n"
-    entry.evidence = 'IPI'
+  # homodi-, oligomerization
+  if ["0042803", "0070207", "0051289", "0051260"].include?(entry.goid) 
+  then
+    entry.evidence = 'IPI' if entry.evidence == 'IDA'
+    $stderr.print 'Adding With and IPI to homodi-/oligomer' + "\n"
     entry.with = entry.db_object_id
   end
   # protein binding and children
-  if entry.goid == '0005515' or
-      entry.goid == '0046982' or
-      entry.goid == '0046789' then
+  if ["0005515", "0046982", "0046789"].include?(entry.goid) then
     if entry.with.empty? then
       $stderr.print 'Error: protein binding+with violated:' + "\n"
       $stderr.print(entry.to_str + "\n")
