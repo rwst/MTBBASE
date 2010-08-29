@@ -57,7 +57,10 @@ Bio::GO::Phenote_GOA.parser(data) do |entry|
     entry.evidence = 'IPI'
     entry.with = entry.db_object_id
   end
-  if entry.goid == '0005515' or entry.goid == '00046982' then
+  # protein binding and children
+  if entry.goid == '0005515' or
+      entry.goid == '0046982' or
+      entry.goid == '0046789' then
     if entry.with.empty? then
       $stderr.print 'Error: protein binding+with violated:' + "\n"
       $stderr.print(entry.to_str + "\n")
