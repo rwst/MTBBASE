@@ -51,7 +51,7 @@ Bio::GO::Phenote_GOA.parser(data) do |entry|
     $stderr.print 'Error: IEP+P violated:' + "\n"
     $stderr.print(entry.to_str + "\n")
   end
-  if entry.goid == '0005515' then
+  if entry.goid == '0005515' or entry.goid == '00046982' then
     if entry.with.empty? then
       $stderr.print 'Error: protein binding+with violated:' + "\n"
       $stderr.print(entry.to_str + "\n")
