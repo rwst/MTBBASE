@@ -62,6 +62,14 @@ Bio::GO::Phenote_GOA.parser(data) do |entry|
             entry.db_reference.join('|')
       h[key] = true
     end
+  else
+    if entry.evidence == 'IDA' or entry.evidence == 'IEP' then
+      if !entry.with.empty? then
+        $stderr.print 'Warning: IDA/IEP+!with violated:' + "\n"
+        $stderr.print(entry.to_str + "\n")
+        entry.with = ''
+      end
+    end
   end
   unless entry.taxon !~ /organism:1773/      # only M.tb.
     entry.taxon = 'taxon:1773'
