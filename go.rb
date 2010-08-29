@@ -46,7 +46,7 @@ h = Hash.new
 data = File.open('TBGO.tab').read
 Bio::GO::Phenote_GOA.parser(data) do |entry|
   entry.db = 'UniProt'
-  entry.assigned_by = 'UniProt'
+  entry.assigned_by = 'MTBBASE'
   if entry.evidence == 'IEP' and entry.aspect != 'P' then
     $stderr.print 'Error: IEP+P violated:' + "\n"
     $stderr.print(entry.to_str + "\n")
