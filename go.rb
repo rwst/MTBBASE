@@ -45,7 +45,7 @@ synfile.each_line("\n") {|line|
 h = Hash.new
 data = File.open('TBGO.tab').read
 Bio::GO::Phenote_GOA.parser(data) do |entry|
-  entry.db = 'UniProt'
+  entry.db = 'UniProtKB'
   entry.assigned_by = 'MTBBASE'
   if entry.evidence == 'IEP' and entry.aspect != 'P' then
     $stderr.print 'Error: IEP+P violated:' + "\n"
@@ -93,7 +93,7 @@ Bio::GO::Phenote_GOA.parser(data) do |entry|
         id = syns[-1]
         ac = syns[-2]
         syns = syns[0..-3]
-        entry.db_object_id = 'UniProt:' + ac
+        entry.db_object_id = ac
         entry.db_object_symbol = id
         entry.db_object_synonym = syns.flatten
       end
@@ -106,7 +106,7 @@ Bio::GO::Phenote_GOA.parser(data) do |entry|
           withs << with
         else
           syns = syn[with]
-          withs << ['UniProt:' + syns[-2]]
+          withs << ['UniProtKB:' + syns[-2]]
 #          $stderr.print("With RvID: '" + with + "'\n")
         end
       end }
