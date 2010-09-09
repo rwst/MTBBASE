@@ -13,6 +13,7 @@ goa :
 	cp out.tab gene_association.MTBBASE
 
 upl :
-	scp -o "IdentityFile ../.ssh/kudu" MTB-GOA.zip ark@kudu.in-berlin.de:
+	sh add_version.sh
+	scp -o "IdentityFile ../.ssh/kudu" MTB-GOA.zip MTB-GOA.html ark@kudu.in-berlin.de:
 	ssh -o "IdentityFile ../.ssh/kudu" ark@kudu.in-berlin.de ./newmtbgoa.sh
 	
