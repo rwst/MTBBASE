@@ -5,8 +5,10 @@ all: goa pkg upl
 pkg :
 	rm -f MTB-GOA.zip
 	zip MTB-GOA gene_association.MTBBASE README.txt Changelog.txt Caveat.txt
+	cp MTB-GOA.zip archiv/MTB-GOA-`cat version`-`date +%Y-%m-%d`.zip
 
 goa :
+	echo Making version `cat version`
 	ruby go.rb >t
 	sort -u t >out.tab
 	perl filter-gene-association.pl -p MTBBASE -d <out.tab >perllog
