@@ -7,24 +7,15 @@ synfile = File.open('1773.txt').read
 $stderr.print("Reading names from UniProt file...\n")
 id = ""
 ac = ""
-keys = []
 names = []
 synfile.each_line("\n") {|line|
   next if /^ID|^AC|^GN/ !~ line
   case line[0,2]
     when 'ID' then
-      if !keys.empty? then
-        keys.each {|key|
-          if syn.has_key?(key)
-            $stderr.print("Error: duplicate name: '" + key + "'\n")
-          else
-            syn[key] = (names << ac << id)
-          end }
-        id = ""    # never assume id = ac = "" will succeed
-        ac = ""
-        keys = []
-        names = []
-      end
+		  n = (names << ac << id)
+      names.each {|key| syn[key] = n if key =~ /^Rv/ or key =~ /^MT/ }
+      ac = ""
+      names = []
       id = line.sub(/ID +/, '').sub(/ +.*\n/, '')
     when 'AC' then
       ac = line.sub(/AC +/, '').sub(/[,;].*\n/, '')
@@ -33,9 +24,6 @@ synfile.each_line("\n") {|line|
       gn.each {|word|
         if !word.empty? and
            word !~ /GN|and|Name|Synonyms|OrderedLocusNames|ORFNames/ then
-          if word =~ /^Rv/
-            keys << word
-          end
           names << word
         end }
     else $stderr.print("Can't happen: " + line[0,2] + "\n")
@@ -85,7 +73,7 @@ Bio::GO::Phenote_GOA.parser(data) do |entry|
       entry.date = entry.date.sub(/20100701([3-8])/, '2010071\1')
     end
     obid = entry.db_object_id
-    if obid =~ /^Rv/
+    if obid =~ /^Rv/ or obid =~ /^MT/ then
       if !syn.has_key?(obid)
         $stderr.print("Error: Unknown RvID: '" + obid + "'\n")
       else
@@ -97,7 +85,9 @@ Bio::GO::Phenote_GOA.parser(data) do |entry|
         entry.db_object_symbol = id
         entry.db_object_synonym = syns.flatten
       end
-    end
+    else
+        $stderr.print('Error: Empty RvID' + "\n")
+		end
     withs = []
     entry.with.each {|with|
       if !with.empty? then
