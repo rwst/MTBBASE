@@ -1,0 +1,13 @@
+Known Problems
+==============
+2-Some IMP evidences may be really IDA
+3-is there really only one phagocytosis annotation?
+4-while every protein with F now has P too, not every F is associated with a P
+X-Following article PDFs are needed for annotation:
+
+[5]	J. Mattow, F. Siejak, K. Hagens, D. Becher, D. Albrecht, A. Krah, F. Schmidt, P. R. Jungblut, S. H. E. Kaufmann, and U. E. Schaible. Proteins unique to intraphagosomally grown mycobacterium tuberculosis. Proteomics, 6(8):2485–94, Apr 2006. PMID 16548060
+[8]	V. Natarajan and K. P. Gopinathan. Purification & properties of valyl-trna synthetase from mycobacterium tuberculosis h37rv. Indian J Biochem Biophys, 17(5):330–4, Oct 1980. PMID 6788678
+[9]	R. O’Toole and H. D. Williams. Universal stress proteins and mycobacterium tuberculosis. Res Microbiol, 154(6):387–92, 2003. PMID 12892844
+[10]	M. d. l. P. Santangelo, F. Blanco, E. Campos, M. Soria, M. V. Bianco, L. Klepp, A. Alito, O. Zabal, A. Cataldi, and F. Bigi. Mce2r from mycobacterium tuberculosis represses the expression of the mce2 operon. Tuberculosis (Edinb), 89(1):22–8, Jan 2009. PMID 19027363
+
+

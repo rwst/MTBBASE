@@ -1,0 +1,4000 @@
+Reading names from UniProt file...
+    Rv0954  MT0981   MTCY10D7.20c
+    Rv2744c  MT2815   MTV002.09c
+    Rv1688  MT1727.1   MTCI125.10
+    pgl   devB   Rv1445c  MT1492
+    fbpA   mpt44   Rv3804c  MT3911
+    fbpB   Rv1886c  MT1934   MTCY180.32
+    fbpC   mpt45   Rv0129c  MT0137
+    aac   Rv0262c  MT0275   MTCY06A4.06c
+    aspC   Rv0337c  MT0351   MTCY279.04c
+    accD3   Rv0904c  MT0927   MTCY31.32c
+    fadE12   Rv0972c  MT1000   MTCY10D7.02
+    mhpF   Rv3535c  MT3639
+    fadE25   acd   Rv3274c  MT3374
+    icl   Rv0467  MT0483   MTV038.11
+    acg   Rv2032  MT2091
+    ackA   Rv0409  MT0422   MTCY22G10.05
+    acpM   Rv2244  MT2304   MTCY427.25
+    acpS   Rv2523c  MT2599   MTV009.08c
+    hspX   acr   Rv2031c  MT2090
+    acsA   acs   Rv3667  MT3768
+    MT2686  Rv2611c
+    acyP   Rv2922.1c  MT2991
+    MTCY338.11Bc  Rv2922A
+    ada   alkA   Rv1317c  MT1358
+    add   Rv3313c   MTV016.13
+    adhA   Rv1862  MT1911
+    adhB   Rv0761c  MT0786   MTCY369.06c
+    adhC   adh   Rv3045  MT3130
+    adh   Rv1530  MT1581
+    adoK   cbhK   Rv2202c  MT2258
+    aftA   Rv3792  MT3899.1
+    ag84   wag31   Rv2145c  MT2204
+    ahpC   Rv2428  MT2503
+    ahpD   Rv2429  MT2504   MTCY428.17c
+    ask   Rv3709c  MT3812   MTV025.057c
+    Rv0458  MT0474   MTV038.02
+    fba   Rv0363c  MT0379   MTCY13E10.25c
+    alr   Rv3423c  MT3532   MTCY78.06
+    amiC   Rv2888c  MT2956   MTCY274.19c
+    amiD   Rv3375  MT3485   MTV004.33
+    amiA2   Rv2363  MT2432   MTCY27.17c
+    amiB2   Rv1263  MT1301   MTCY50.19c
+    pepA   pepB   Rv2213  MT2269
+    map   mapB   Rv2861c  MT2929
+    amt   Rv2920c  MT2988   MTCY338.09c
+    ansP1   ansP   Rv2127  MT2186
+    ansP2   Rv0346c  MT0361   MTCY13E10.06c
+    aofH   Rv3170  MT3259   MTV014.14
+    MT2688  Rv2613c
+    apa   modD   Rv1860  MT1908
+    apeB   pepC   Rv0800  MT0821
+    apt   Rv2584c  MT2661   MTCY227.17
+    arcA   Rv1001  MT1030   MTCI237.16
+    argB   Rv1654  MT1692   MTCY06H11.19
+    argC   Rv1652  MT1690   MTCY06H11.17
+    argD   Rv1655  MT1693   MTCY06H11.20
+    argJ   Rv1653  MT1691   MTCY06H11.18
+    argR   ahrC   Rv1657  MT1695
+    argH   Rv1659  MT1697   MTCY06H11.24
+    aroA   Rv3227  MT3324   MTCY20B11.02
+    aroB   Rv2538c  MT2613   MTCY159.18
+    aroC   aroF   Rv2540c  MT2615
+    aroK   Rv2539c  MT2614   MTCY159.17
+    aroQ   aroD   Rv2537c  MT2612
+    asnB   Rv2201  MT2257   MTCY190.12
+    ansA   Rv1538c  MT1590   MTCY48.27
+    argG   Rv1658  MT1696   MTCY06H11.23
+    kdpA   Rv1029  MT1058   MTCY10G2.20c
+    kdpB   Rv1030  MT1059   MTCY10G2.19c
+    kdpC   Rv1031  MT1060   MTCY10G2.18c
+    atpB   Rv1304  MT1344   MTCY373.24
+    atpA   Rv1308  MT1348   MTCY373.28
+    atpD   Rv1310  MT1350   MTCY373.30
+    atpC   Rv1311  MT1351   MTCY373.31
+    atpFH   atpF  atpH   Rv1307  MT1347
+    atpF   Rv1306  MT1346   MTCY373.26
+    atpG   Rv1309  MT1349   MTCY373.29
+    atpE   Rv1305  MT1345   MTCY373.25
+    accA1   bccA   Rv2501c  MT2576
+    bfrB   ftn   Rv3841  MT3949
+    bfr   bfrA   Rv1876  MT1925
+    Rv1569  MT1620   MTCY336.34c
+    bioA   Rv1568  MT1619   MTCY336.35c
+    bioB   Rv1589  MT1624   MTCY336.15c
+    bioD   Rv1570  MT1621   MTCY336.33c
+    blaA   blaC   Rv2068c  MT2128
+    blaI   MT1894  Rv1846c
+    Rv3221c  MT3317   MTCY07D11.05
+    CYP135A1   Rv0327c  MT0342   MTCY63.32c
+    CYP135B1   Rv0568  MT0594   MTV039.06
+    Rv0433  MT0448   MTCY22G10.30
+    cadI   Rv2641  MT2719   MTCY441.11
+    carA   Rv1383  MT1427   MTCY02B12.17
+    carB   Rv1384  MT1428
+    Rv2294  MT2351   MTCY339.16c
+    cdh   Rv2289  MT2346   MTCY339.21c
+    cdsA   Rv2881c  MT2948   MTCY274.12c
+    cfp10A   Rv1335  MT1376.1   MTCY130.20
+    cfp30B   TB27.3   Rv0577  MT0606
+    cmaA1   cma1   Rv3392c  MT3499
+    cmaA2   cma2   Rv0503c  MT0524
+    cfp6   Rv3004  MT3084.1   MTV012.18
+    Rv3418c  MT3527   MTCY78.11
+    Rv3417c  MT3526   MTCY78.12
+    Rv0440  MT0456   MTV037.04
+    cinA   Rv1901  MT1952   MTCY180.17c
+    gltA2   gltA   Rv0896  MT0920
+    citA   Rv0889c  MT0912   MTCY31.17c
+    citE   Rv2498c  MT2573
+    clpB   Rv0384c  MT0397   MTV036.19c
+    clpC   Rv3596c  MT3703   MTCY07H7B.26
+    clpP1   clpP   Rv2461c  MT2536
+    clpP2   Rv2460c  MT2535   MTV008.16c
+    clpS   Rv1331  MT1373   MTCY130.16
+    clpX   Rv2457c  MT2532   MTV008.13c
+    cmtR   Rv1994c  MT2050   MTCY39.25
+    coaA   Rv1092c  MT1124   MTV017.45c
+    coaBC   dfp   Rv1391  MT1436
+    coaD   kdtB   Rv2965c  MT3043
+    coaE   Rv1631  MT1667   MTCY01B2.23
+    coaX   Rv3600c  MT3706
+    cobB   Rv2848c  MT2914   MTCY24A1.09
+    cobD   Rv2236c  MT2295   MTCY427.17c
+    cobH   Rv2065  MT2125   MTCY49.04
+    cobIJ   cobI   Rv2066  MT2126
+    cobK   Rv2070c  MT2130   MTCY49.09c
+    cobL   Rv2072c  MT2132   MTCY49.11c
+    cobM   Rv2071c  MT2131   MTCY49.10c
+    cobQ   cbiP   Rv0255c  MT0268
+    cobS   Rv2208  MT2264   MTCY190.19
+    cobT   Rv2207  MT2263   MTCY190.18
+    cofD   fbiA   Rv3261  MT3359
+    cofE   fbiB   Rv3262  MT3361
+    ctaD   Rv3043c  MT3128   MTV012.58c
+    ctaC   Rv2200c  MT2256   MTCY190.11c
+    ctaE   Rv2193  MT2249   MTCY190.04
+    ctaF   Rv2199c  MT2255   MTCY190.10c
+    ctaB   Rv1451  MT1498
+    cyp121   Rv2276  MT2336   MTCY339.34c
+    cyp123   Rv0766c  MT0790   MTCY369.11c
+    cyp124   Rv2266  MT2328   MTCY339.44c
+    cyp125   Rv3545c  MT3649   MTCY03C7.11
+    cyp126   Rv0778  MT0802   MTCY369.22
+    cyp128   Rv2268c  MT2330   MTCY339.42
+    cyp130   Rv1256c  MT1295   MTCY50.26
+    cyp132   Rv1394c  MT1439   MTCY21B4.11c
+    cyp136   Rv3059  MT3145   MTCY22D7.22c
+    cyp137   Rv3685c  MT3787   MTV025.033c
+    cyp138   Rv0136  MT0144   MTCI5.10
+    cyp139   Rv1666c  MT1706   MTV047.02c
+    cyp140   Rv1880c  MT1929   MTCY180.38
+    cyp141   Rv3121  MT3203   MTCY164.31
+    cyp142   Rv3518c  MT3619   MTV023.25c
+    cyp143   Rv1785c  MT1834   MTV049.07c
+    cyp144   Rv1777  MT1827   MTCY25C11.04
+    cyp51   Rv0764c  MT0788   MTCY369.09c
+    cpsY   Rv0806c  MT0826
+    crcB1   Rv3069  MT3153.1   MTCY22D7.12c
+    crcB2   Rv3070  MT3154   MTCY22D7.11c
+    crtB   phyA   Rv3397c  MT3505
+    csd   Rv1464  MT1511   MTV007.11
+    csoR   Rv0967  MT0995
+    cspA   Rv3648c  MT3750.1   MTCY15C10.04
+    cstA   Rv3063  MT3149   MTCY22D7.18c
+    ctpA   Rv0092  MT0101   MTCY251.11
+    ctpB   Rv0103c  MT0112   MTCY251.22c
+    ctpC   mtaA   Rv3270  MT3370
+    ctpD   Rv1469  MT1515   MTV007.16
+    ctpE   Rv0908  MT0931   MTCY21C12.02
+    ctpF   Rv1997  MT2053
+    ctpG   Rv1992c  MT2048   MTCY39.27
+    ctpI   Rv0107c  MT0116   MTCY251.26c
+    ctpV   Rv0969  MT0997   MTCY10D7.05c
+    Rv1984c  MT2037   MTCY39.35
+    cut2   Rv2301  MT2358   MTCY339.08c
+    cut3   Rv3451  MT3557   MTCY13E12.04
+    cya   Rv1625c  MT1661   MTCY01B2.17c
+    cysA   Rv2397c  MT2468   MTCY253.24
+    cysD   Rv1285  MT1323   MTCY373.04
+    cysH   Rv2392  MT2462   MTCY253.29c
+    cysK   Rv2334  MT2397   MTCY98.03
+    cysM   Rv1336  MT1377   MTCY130.21
+    cysNC   cysN   Rv1286  MT1324
+    dagK   Rv2252  MT2312
+    aao   Rv1905c  MT1956
+    dapA   Rv2753c  MT2823   MTV002.18c
+    dapB   Rv2773c  MT2843   MTV002.38c
+    dapF   Rv2726c  MT2798   MTCY154.06c
+    Rv2986c  MT3064   MTCY349.01
+    lysA   Rv1293  MT1332   MTCY373.13
+    dcd   Rv0321  MT0336   MTCY63.26
+    hemE   Rv2678c  MT2752   MTV010.02c
+    ddl   ddlA   Rv2981c  MT3059
+    deaD   csdA   Rv1253  MT1292
+    def   Rv0429c  MT0444   MTCY22G10.26c
+    deoC   Rv0478  MT0496   MTCY20G9.04
+    desA1   des   Rv0824c  MT0846
+    desA2   MT1126  Rv1094
+    desA3   Rv3229c  MT3326
+    Rv3230c  MT3327
+    devR   dosR   Rv3133c  MT3219
+    devS   dosS   Rv3132c  MT3218
+    dgt   Rv2344c  MT2409   MTCY98.13c
+    dhaA   Rv2579  MT2656   MTCY227.22c
+    asd   Rv3708c  MT3811   MTV025.056c
+    ald   Rv2780  MT2850   MTV002.45
+    dhmA1   Rv2296  MT2353   MTCY339.14c
+    dhmA2   Rv1833c  MT1881   MTCY1A11.10
+    hom   thrA   Rv1294  MT1333
+    folP1   Rv3608c  MT3712   MTCY07H7B.14
+    folP2   Rv1207  MT1245   MTCI364.19
+    dinG   Rv1329c  MT1371   MTCY130.14c
+    dipZ   Rv2874  MT2942   MTCY274.05
+    lpd   Rv0462  MT0478   MTV038.06
+    dnaA   Rv0001  MT0001   MTV029.01
+    dnaB   Rv0058  MT0064   MTCY21D4.21
+    dnaE2   Rv3370c  MT3480
+    dnaJ1   Rv0352  MT0367   MTCY13E10.12
+    dnaJ2   Rv2373c  MT2442   MTCY27.07
+    dnaK   Rv0350  MT0365   MTCY13E10.10
+    lig   Rv3062  MT3148
+    ligA   lig   Rv3014c  MT3094
+    dop   pafD   Rv2112c  MT2172
+    dosT   Rv2027c  MT2086
+    polA   Rv1629  MT1665   MTCY01B2.21
+    dnaE1   dnaE   Rv1547  MT1598
+    dnaN   Rv0002  MT0002
+    dnaX   dnaZX   Rv3721c  MT3824
+    dinB1   dinX   Rv1537  MT1589
+    dinB2   dinP   Rv3056  MT3142
+    dprE1   Rv3790  MT3898
+    Rv3791  MT3899   MTCY13D12.25
+    drrA   Rv2936  MT3006
+    drrB   Rv2937  MT3007
+    drrC   Rv2938  MT3008
+    dtd   Rv1897c  MT1948   MTCY180.21
+    dus   Rv0823c  MT0845   MTV043.15c
+    dut   Rv2697c  MT2771   MTCY05A6.18c
+    dxr   Rv2870c  MT2938   MTCY274.01c
+    dxs   Rv2682c  MT2756   MTCY05A6.03c
+    folA   dfrA   Rv2763c  MT2833
+    eccCa1   snm1   Rv3870  MT3983
+    eccCb1   snm2   Rv3871  MT3985
+    eccCa5   Rv1783
+    eccCb5   Rv1784
+    eccA1   Rv3868  MT3981   MTV027.03
+    eccA2   Rv3884c  MT3999   MTCY15F10.28
+    eccA3   Rv0282  MT0295   MTV035.10
+    eccA5   Rv1798  MT1847   MTV049.20
+    eccB1   Rv3869  MT3982
+    eccB2   Rv3895c  MT4011
+    eccB3   Rv0283  MT0296
+    eccB4   Rv3450c  MT3556
+    eccB5   Rv1782  MT1832
+    eccC3   Rv0284  MT0297
+    eccC4   Rv3447c  MT3553
+    eccD1   snm4   Rv3877  MT3991
+    eccD2   Rv3887c  MT4002
+    eccD3   Rv0290  MT0303
+    eccD4   Rv3448  MT3554
+    eccD5   Rv1795  MT1844
+    eccE1   snm7   Rv3882c  MT3997
+    eccE2   Rv3885c  MT4000
+    eccE3   Rv0292  MT0305
+    eccE5   Rv1797  MT1846
+    echA12   fadB2   Rv1472  MT1518
+    echA14   Rv2486  MT2560   MTV008.42
+    echA17   Rv3039c  MT3124
+    Rv0130  MT0138
+    echA6   Rv0905  MT0928   MTCY31.33
+    echA8   Rv1070c  MT1100   MTV017.23c
+    Rv0120c  MT0128   MTCI418B.02c
+    fusA   Rv0684  MT0712
+    efpA   Rv2846c  MT2912
+    efp   Rv2534c  MT2609   MTCY159.22
+    tsf   Rv2889c  MT2957   MTCY274.20c
+    tuf   Rv0685  MT0713   MTCY210.02
+    eis   Rv2416c  MT2489   MTCY253.04
+    embA   Rv3794  MT3901   MTCY13D12.28
+    embB   Rv3795  MT3902   MTCY13D12.29
+    embC   Rv3793  MT3900   MTCY13D12.27
+    embR   Rv1267c  MT1305   MTCY50.15
+    emrB   Rv0783c  MT0807
+    nth   Rv3674c  MT3775   MTV025.022c
+    nfo   end   Rv0670  MT0699
+    engA   Rv1713  MT1753   MTCI125.35
+    eno   Rv1023  MT1051   MTCY10G2.26c
+    ephD   Rv2214c  MT2270   MTCY190.25c
+    era   Rv2364c  MT2433   MTCY27.16
+    erg3   Rv1814  MT1862   MTCY1A11.29c
+    erp   pirG   Rv3810  MT3917
+    Rv2346c  MT2411   MTCY98.15c
+    Rv2347c  MT2412   MTCY98.16c
+    Rv3620c  MT3722
+    Rv3890c  MT4005   MTCY15F10.22
+    Rv3904c  MT4023   MTCY15F10.07
+    Rv3905c  MT4024   MTCY15F10.06
+    espA   Rv3616c  MT3718
+    espB   mtb48   Rv3881c  MT3996
+    espC   snm9   Rv3615c  MT3717
+    espD   snm10   Rv3614c  MT3716
+    espE   Rv3864  MT3978
+    espF   Rv3865  MT3979
+    espG1   snm5   Rv3866
+    espG2   Rv3889c  MT4004
+    espG3   Rv0289  MT0302
+    espH   Rv3867
+    espI   Rv3876  MT3990
+    espJ   Rv3878  MT3992
+    espK   Rv3879c  MT3993
+    espL   Rv3880c  MT3995
+    espR   Rv3849  MT3964
+    esxA   esaT6   Rv3875  MT3989
+    Rv3874  MT3988   MTV027.09
+    esxH   cfp7   Rv0288  MT0301
+    Rv1037c  MT1066   MTCY10G2.12
+    Rv3619c  MT3721
+    esxJ   Rv1038c  MT1067   MTCY10G2.11
+    esxK   Rv1197  MT1235   MTCI364.09
+    esxL   Rv1198  MT1236   MTCI364.10
+    esxN   Rv1793  MT1842   MTV049.15
+    esxQ   Rv3017c  MT3097   MTV012.31c
+    esxR   Rv3019c  MT3104   MTV012.33c
+    etfA   fixB   Rv3028c  MT3112
+    etfB   fixA   Rv3029c  MT3113
+    Rv2090  MT2151   MTCY49.30
+    recD   Rv0629c  MT0657
+    recB   Rv0630c  MT0658   MTCY20H10.11c
+    recC   Rv0631c  MT0659   MTCY20H10.12c
+    xseA   Rv1108c  MT1139   MTV017.61c
+    xseB   Rv1107c  MT1138   MTV017.60c
+    kasA   Rv2245  MT2305   MTCY427.26
+    kasB   Rv2246  MT2306   MTCY427.27
+    fabD   Rv2243  MT2303   MTCY427.24
+    fabG   fabG1   Rv1483  MT1530
+    fabH   Rv0533c  MT0557   MTCY25D10.12c
+    fadD11   Rv1550  MT1600   MTCY48.15c
+    fadD21   Rv1185c  MT1222   MTV005.21c
+    fadD25   Rv1521  MT1572   MTCY19G5.07
+    fadD26   Rv2930  MT2999   MTCY338.19
+    fbiC   Rv1173  MT1210
+    fdhD   Rv2899c  MT2967   MTCY274.30c
+    fdxA   Rv2007c  MT2063   MTCY39.10
+    Rv2688c  MT2762
+    Rv2686c  MT2760
+    Rv2687c  MT2761
+    fmt   Rv1406  MT1450   MTCY21B4.23
+    folB   Rv3607c  MT3712.1   MTCY07H7B.15
+    folD   Rv3356c  MT3464
+    mutM   fpg   Rv2924c  MT2994
+    fprA   Rv3106  MT3189   MTCY164.16
+    fprB   Rv0886  MT0909   MTCY31.14
+    frdA   Rv1552  MT1603   MTCY48.13c
+    frdB   Rv1553  MT1604   MTCY48.12c
+    frdC   Rv1554  MT1605   MTCY48.11c
+    frdD   Rv1555  MT1606   MTCY48.10c
+    ftsH   Rv3610c  MT3714   MTCY07H7B.12
+    ftsK   Rv2748c  MT2819   MTV002.13c
+    ftsQ   Rv2151c  MT2210   MTCY270.17
+    ftsW   rodA   Rv0017c  MT0020
+    ftsX   Rv3101c  MT3185   MTCY164.12c
+    ftsY   Rv2921c  MT2989   MTCY338.10c
+    ftsZ   Rv2150c  MT2209   MTCY270.18
+    Rv2154c  MT2213   MTCY270.14
+    fumC   fum   Rv1098c  MT1130
+    fur   furA   Rv1909c  MT1960
+    gap   Rv1436  MT1480   MTCY493.18c
+    zwf2   zwf   Rv1121  MT1153
+    zwf   zwf2   Rv1447c  MT1494
+    pgi   Rv0946c  MT0972   MTCY10D7.28
+    gabD1   Rv0234c  MT0245
+    gabD2   Rv1731  MT1772
+    gabT   Rv2589  MT2666   MTCY227.12c
+    galK   Rv0620  MT0648
+    gatA   Rv3011c  MT3091   MTV012.25c
+    gatB   Rv3009c  MT3089   MTV012.23c
+    gatC   Rv3012c  MT3092   MTV012.26c
+    folE   gchA   Rv3609c  MT3713
+    gcp   Rv3419c  MT3528   MTCY78.10
+    gcvH   Rv1826  MT1874   MTCY1A11.17c
+    gcvP   gcvB   Rv1832  MT1880
+    gcvT   Rv2211c  MT2267   MTCY190.22
+    Rv3398c  MT3506   MTCY78.30
+    glfT1   Rv3782  MT3891
+    glfT2   Rv3808c
+    glgB   Rv1326c  MT1368   MTCY130.11c
+    glgC   Rv1213  MT1251   MTCI364.25
+    glgE   Rv1327c  MT1369   MTCY130.12c
+    glgX   treX   Rv1564c  MT1615
+    glmM   Rv3441c  MT3546
+    glmS   Rv3436c  MT3542   MTCY77.08c
+    glmU   Rv1018c  MT1046
+    glnA1   glnA   Rv2220  MT2278
+    glnA2   Rv2222c  MT2280
+    glnB   Rv2919c  MT2987   MTCY338.08c
+    glnD   Rv2918c  MT2986   MTCY338.07c
+    glnE   Rv2221c  MT2279
+    glpD1   glpD   Rv2249c  MT2309
+    glpD2   Rv3302c  MT3401
+    glpK   Rv3696c  MT3798   MTV025.044c
+    glpQ1   Rv3842c  MT3950
+    Rv1373  MT1418
+    Rv2957  MT3031   MTCY349.31c  u0002kc
+    Rv2958c  MT3034
+    glyA1   glyA   Rv1093  MT1125
+    glyA2   Rv0070  MT0076   MTV030.13c
+    pimF   MT1549  Rv1500
+    gmhA   lpcA   Rv0113  MT0122
+    gmhB   Rv0114  MT0122.1   MTV031.08
+    gpsA2   gpdA1   Rv0564c  MT0590
+    gpsA   gpdA2   Rv2982c  MT3060
+    gpmA   gpm  gpm1  pgm   Rv0489  MT0508
+    greA   Rv1080c  MT1111   MTV017.33c
+    grpE   Rv0351  MT0366   MTCY13E10.11
+    hemL   Rv0524  MT0546   MTCY25D10.03
+    guaA   Rv3396c  MT3504   MTCY78.32
+    gyrA   Rv0006  MT0006   MTCY10H4.04
+    gyrB   Rv0005  MT0005   MTCY10H4.03
+    hbhA   Rv0475  MT0493   MTCY20G9.01
+    helY   Rv2092c  MT2153   MTCY49.32c
+    hemA   Rv0509  MT0530   MTCY20G9.36
+    hemB   Rv0512  MT0533   MTCY20G10.02
+    hemC   Rv0510  MT0531   MTCY20G9.37
+    hemH   hemZ   Rv1485  MT1532
+    hemK   Rv1300  MT1339   MTCY373.20
+    hemN   Rv2388c  MT2457   MTCY253.33
+    hisG   Rv2121c  MT2181   MTCY261.17c
+    hisE   Rv2122c  MT2182   MTCY261.18
+    hisI   Rv1606  MT1641.1   MTV046.04
+    priA   hisA   Rv1603  MT1639
+    hisH   Rv1602  MT1638   MTCY336.02c
+    hisF   Rv1605  MT1641   MTV046.03
+    hisB   Rv1601  MT1637   MTCY336.03c
+    hisC   hisC1   Rv1600  MT1636
+    hisD   Rv1599  MT1635   MTCY336.05c
+    Rv0600c
+    Rv0601c
+    Rv3534c  MT3638
+    folK   Rv3606c  MT3711   MTCY07H7B.16
+    hpt   hprT   Rv3624c  MT3726
+    hrcA   Rv2374c  MT2443   MTCY27.06
+    Rv2626c  MT2701
+    fabG3   Rv2002  MT2058   MTCY39.16c
+    htpG   Rv2299c  MT2356   MTCY339.11
+    htpX   Rv0563  MT0589
+    ideR   dtxR   Rv2711  MT2784
+    icd   Rv3339c  MT3442   MTV016.39c
+    idi   Rv1745c  MT1787
+    infA   Rv3462c  MT3568
+    infB   Rv2839c  MT2905   MTCY16B7.03
+    infC   Rv1641  MT1679   MTCY06H11.05
+    ilvB   Rv3003c  MT3083   MTV012.17c
+    ilvC   Rv3001c  MT3081   MTV012.15c
+    ilvD   Rv0189c  MT0199   MTCI28.28c
+    ilvE   Rv2210c  MT2266   MTCY190.21c
+    ilvG   Rv1820  MT1868   MTCY1A11.23c
+    ilvH   ilvN   Rv3002c  MT3082
+    guaB   Rv3411c  MT3519   MTCY78.17
+    inhA   Rv1484  MT1531   MTCY277.05
+    iniA   Rv0342  MT0357
+    iniB   Rv0341  MT0356
+    iniC   Rv0343  MT0357.1
+    Rv2659c  MT2735
+    ppa   Rv3628  MT3730   MTCY15C10.24
+    ispD   Rv3582c  MT3688   MTCY06G11.29c
+    ispE   Rv1011  MT1040   MTCI237.28
+    ispF   Rv3581c  MT3687   MTCY06G11.28c
+    ispG   gcpE   Rv2868c  MT2936
+    ispH1   lytB1   Rv1110  MT1141
+    ispH2   lytB2   Rv3382c  MT3490
+    pfkA   Rv3010c  MT3090   MTV012.24c
+    adk   Rv0733  MT0757   MTV041.07
+    katG   Rv1908c  MT1959   MTCY180.10
+    cmk   Rv1712  MT1752   MTCI125.34
+    kdc   Rv0853c  MT0876
+    kdpD   Rv1028c  MT1057   MTCY10G2.21
+    kgd   Rv1248c  MT1286
+    gmk   Rv1389  MT1434   MTCY21B4.06
+    thrB   Rv1296  MT1335   MTCY373.16
+    prs   prsA   Rv1017c  MT1045
+    pyk   pykA   Rv1617  MT1653
+    tmk   Rv3247c  MT3345
+    lat   Rv3290c  MT3389   MTCY71.30
+    lepA   Rv2404c  MT2476   MTCY253.16
+    lepB   Rv2903c  MT2971   MTCY274.34c
+    leuA   Rv3710  MT3813   MTV025.058
+    leuB   Rv2995c  MT3073   MTV012.09
+    leuC   Rv2988c  MT3066   MTV012.02c
+    leuD   Rv2987c  MT3065   MTV012.01c
+    lexA   Rv2720  MT2793   MTCY05A6.41
+    lgt   Rv1614  MT1649   MTCY01B2.06
+    lipA   Rv2218  MT2275   MTCY190.29
+    lipB   Rv2217  MT2274   MTCY190.28
+    lldD1   Rv0694  MT0721
+    lldD2   lldD   Rv1872c  MT1921
+    lpdA   lpdA-2   Rv3303c  MT3402
+    lppA   Rv2543  MT2618
+    lppB   Rv2544  MT2620
+    lppJ   Rv2080  MT2141   MTCY49.19
+    lppK   Rv2116  MT2176   MTCY261.12
+    lppN   Rv2270  MT2331   MTCY339.40c
+    lppO   Rv2290  MT2347   MTCY339.20c
+    lppP   Rv2330c  MT2392   MTCY3G12.04
+    lppW   Rv2905  MT2973   MTCY274.36
+    lppX   Rv2945c  MT3017   MTCY24G1.04
+    lpqB   Rv3244c  MT3342
+    lpqE   Rv3584  MT3690   MTV024.02
+    lpqH   Rv3763  MT3870   MTV025.111
+    lpqT   Rv1016c  MT1044   MTCY10G2.33
+    lpqV   Rv1064c  MT1094   MTV017.17c
+    lpqW   MT1203  Rv1166
+    lprA   Rv1270c  MT1308   MTCY50.12
+    lprB   Rv1274  MT1312   MTCY50.08c
+    lprE   Rv1252c  MT1291   MTCY50.30
+    lprF   Rv1368  MT1415   MTCY02B12.02
+    lprG   lpp-27   Rv1411c  MT1455
+    lprH   Rv1418  MT1461   MTCY21B4.36
+    lprI   Rv1541c  MT1593   MTCY48.24
+    lprP   Rv0962c  MT0990   MTCY10D7.12
+    lspA   Rv1539  MT1591   MTCY48.26c
+    lsr2   Rv3597c  MT3704   MTCY07H7B.25
+    Rv1640c  MT1678   MTCY06H11.04c
+    malQ   Rv1781c  MT1831   MTV049.03c
+    mez   Rv2332  MT2394
+    glcB   Rv1837c  MT1885   MTCY1A11.06
+    mbtB   Rv2383c  MT2451
+    mbtG   Rv2378c  MT2446
+    mbtH   Rv2377c  MT2445.1   MTCY27.03
+    mbtI   Rv2386c  MT2454
+    mbtK   Rv1347c  MT1389   MTCY02B10.11c
+    mbtL   Rv1344  MT1385   MTCY02B10.08
+    mbtM   fadD33   Rv1345  MT1387
+    mbtN   fadE14   Rv1346  MT1388
+    mdh   Rv1240  MT1278   MTV006.12
+    menA   Rv0534c  MT0558   MTCY25D10.13c
+    menC   Rv0553  MT0579   MTCY25D10.32
+    menD   Rv0555  MT0581
+    metB   Rv1079  MT1110   MTV017.32
+    metE   Rv1133c  MT1165   MTC22G8.22
+    metH   Rv2124c   MTCY261.20c
+    metK   Rv1392  MT1437   MTCY21B4.09
+    metX   metA   Rv3341  MT3444
+    mfd   Rv1020  MT1048   MTCY10G2.29c
+    Rv1410c  MT1454
+    mgtA   pimB   MT0583  Rv0557
+    miaA   Rv2727c  MT2799   MTCY154.07c
+    miaB   Rv2733c  MT2803   MTCY154.13c
+    mkl   Rv0655  MT0684   MTCI376.21
+    mma1   cmaD  mmaA1   Rv0645c  MT0673
+    mmpL1   Rv0402c  MT0412   MTCY04D9.15c
+    mmpL2   Rv0507  MT0528   MTCY20G9.34
+    mmpL3   Rv0206c  MT0216
+    mmpL4   Rv0450c  MT0466   MTV037.14c
+    mmpL5   Rv0676c  MT0705   MTV040.04c
+    mmpL6   Rv1557  MT1608   MTCY48.08c
+    mmpL7   Rv2942  MT3012   MTCY24G1.07c
+    mmpL8   Rv3823c  MT3931   MTCY409.07
+    mmpL9   Rv2339  MT2402   MTCY98.08
+    mmpL10   Rv1183  MT1220   MTV005.19
+    mmpL11   Rv0202c  MT0212   MTV033.10c
+    mmpL12   Rv1522c  MT1573   MTCY19G5.06
+    mmpS1   Rv0403c  MT0415   MTCY04D9.16c
+    mmpS2   Rv0506  MT0527   MTCY20G9.33
+    mmpS3   Rv2198c  MT2254   MTCY190.09c
+    mmpS4   Rv0451c  MT0467   MTV037.15c
+    mmpS5   Rv0677c  MT0706   MTV040.05c
+    mmr   Rv3065  MT3150.1   MTCY22D7.17c
+    mmsB   Rv0751c  MT0775   MTV041.25c
+    mnmA   trmU   Rv3024c  MT3108
+    mntH   Rv0924c  MT0951   MTCY21C12.18c
+    moaA1   moaA   Rv3109  MT3192
+    moaA2   Rv0869c  MT0892   MTV043.62c
+    moaC1   moaC   Rv3111  MT3194
+    moaC2   Rv0864  MT0887   MTV043.57
+    moaC3   Rv3324c  MT3425   MTV016.24c
+    moaE1   moaE   Rv3119  MT3201
+    moaE2   Rv0866  MT0889   MTV043.59
+    mobA   Rv2453c  MT2528   MTV008.09c
+    modA   Rv1857  MT1905   MTCY359.16c
+    modB   Rv1858  MT1906   MTCY359.15c
+    modC   Rv1859  MT1907   MTCY359.14
+    moeA1   moeA   Rv0994  MT1023
+    moaE2   Rv0438c  MT0454   MTV037.02c
+    mpt63   Rv1926c  MT1977   MTCY09F9.38
+    mpt64   Rv1980c  MT2032   MTCY39.39
+    mpt70   Rv2875  MT2943   MTCY274.06
+    mpt83   Rv2873  MT2940   MTCY274.04
+    mpa   Rv2115c  MT2175   MTCY261.11c
+    mprA   Rv0981  MT1009
+    mprB   Rv0982  MT1010
+    mpt51   fbpD  mpb51   Rv3803c  MT3910
+    mpt53   mpb53   Rv2878c  MT2946
+    mqo   Rv2852c  MT2918   MTCY24A1.05
+    mraY   murX   Rv2156c  MT2215
+    mraZ   Rv2166c  MT2224   MTCY270.02
+    mrp   Rv1229c  MT1267
+    mscL   Rv0985c  MT1013   MTV044.13c
+    msrA   Rv0137c  MT0145   MTCI5.11c
+    mtb12   cfp2   Rv2376c  MT2445
+    mtnN   mtn   Rv0091  MT0100
+    mtrA   Rv3246c  MT3344   MTCY20B11.21c
+    mtrB   Rv3245c  MT3343   MTCY20B11.20c
+    murA   murZ   Rv1315  MT1355
+    murB   Rv0482  MT0500   MTCY20G9.08
+    murC   Rv2152c  MT2211   MTCY270.16
+    murD   Rv2155c  MT2214   MTCY270.13
+    murE   Rv2158c  MT2217   MTCY270.10
+    murF   Rv2157c  MT2216   MTCY270.11
+    murG   Rv2153c  MT2212   MTCY270.15
+    murI   Rv1338  MT1379
+    mutA   Rv1492  MT1539   MTCY277.14
+    mutB   Rv1493  MT1540   MTCY277.15
+    mutT1   Rv2985  MT3063
+    mutT2   Rv1160  MT1197
+    mutT3   Rv0413  MT0426
+    muT4   Rv3908  MT4027
+    nadA   Rv1594  MT1630   MTCY336.10c
+    nadB   Rv1595  MT1631   MTCY336.09c
+    nadC   Rv1596  MT1632   MTCY336.08c
+    nadD   Rv2421c  MT2494   MTCY428.26
+    nadE   Rv2438c  MT2513   MTCY428.08
+    narG   Rv1161  MT1198
+    narK2   narK-3   Rv1737c  MT1779
+    narX   Rv1736c  MT1778
+    nat   Rv3566c  MT3671   MTCY06G11.13c
+    ndkA   ndk   Rv2445c  MT2521
+    npdA   Rv1151c  MT1185   MTCI65.18c
+    nrdI   Rv3052c  MT3138   MTCY22D7.30
+    nrdR   Rv2718c  MT2791   MTCY05A6.39c
+    nrdZ   Rv0570  MT0596
+    Rv1341  MT1382   MTCY130.26  MTCY02B10.05
+    nudC   Rv3199c  MT3293   MTV014.43c
+    nuoA   Rv3145  MT3233   MTCY03A2.13c
+    nuoB   Rv3146  MT3234   MTCY03A2.12c
+    nuoC   Rv3147  MT3235   MTCY03A2.11c
+    nuoD   Rv3148  MT3236   MTCY03A2.10c
+    nuoE   Rv3149  MT3237   MTCY03A2.09c
+    nuoF   Rv3150  MT3238   MTCY03A2.08c
+    nuoG   Rv3151  MT3239   MTCY03A2.07c
+    nuoH   Rv3152  MT3240   MTCY03A2.06c
+    nuoI   Rv3153  MT3241   MTCY03A2.05c
+    nuoK   Rv3155  MT3243   MTCY03A2.03c
+    nuoL   Rv3156  MT3244   MTCY03A2.02c
+    nuoM   Rv3157  MT3245
+    nuoN   Rv3158  MT3246   MTV014.02c
+    nusA   Rv2841c  MT2907
+    nusB   Rv2533c  MT2608   MTCY159.23
+    nusG   Rv0639  MT0668   MTCY20H10.20
+    obg   Rv2440c  MT2516
+    dltA   sucB   Rv2215  MT2272
+    aceE   Rv2241  MT2301   MTCY427.22
+    ogt   Rv1316c  MT1357   MTCY130.01c
+    Rv1698  MT1737   MTCI125.20
+    orn   Rv2511  MT2586   MTCY07A7.17
+    argF   Rv1656  MT1694   MTCY06H11.21
+    otsA   Rv3490  MT3594
+    otsB   otsB2   MT3482  Rv3372
+    oxaA   Rv3921c  MT4040   MTV028.12c
+    proC   Rv0500  MT0520   MTCY20G9.26
+    pafA   paf   Rv2097c  MT2158
+    pafB   Rv2096c  MT2157   MTCY49.36c
+    pafC   Rv2095c  MT2156   MTCY49.35c
+    panB   Rv2225  MT2284   MTCY427.06
+    panC   Rv3602c  MT3707   MTCY07H7B.20
+    panD   Rv3601c  MT3706.1   MTCY07H7B.21
+    Rv2573  MT2649   MTCY227.28c
+    papA1   Rv3824c  MT3932
+    papA2   Rv3820c  MT3928
+    papA5   Rv2939  MT3009   MTCY19H9.07
+    parB   Rv3917c  MT4036   MTV028.08c
+    pat   hisC2   Rv3772  MT3881
+    pbpA   Rv0016c  MT0019   MTCY10H4.16c
+    accD5   pccB   Rv3280  MT3379.1
+    accD6   Rv2247  MT2307   MTCY427.28
+    pckG   pck1  pckA   Rv0211  MT0221
+    pcp   Rv0319  MT0334   MTCY63.24
+    pcrA   ivrD   Rv0949  MT0976
+    pdtaR   Rv1626  MT1662
+    pdtaS   Rv3220c  MT3316
+    Rv1314c  MT1354   MTCY373.34c
+    pdxH   Rv2607  MT2682   MTCY1A10.26c
+    pdxS   Rv2606c  MT2681   MTCY1A10.27
+    pdxT   Rv2604c  MT2679
+    PE15   Rv1386  MT1430   MTCY21B4.03
+    PE23   Rv2328  MT2390   MTCY3G12.06
+    PE35   Rv3872  MT3986
+    pepE   Rv2089c  MT2150   MTCY49.29c
+    PE_PGRS3   Rv0278c  MT0291   MTV035.06c
+    PE_PGRS10   Rv0747  MT0772.5
+    PE_PGRS20   Rv1068c  MT1097
+    PE_PGRS24   Rv1325c  MT1367
+    PE_PGRS33   Rv1818c  MT1866
+    PE_PGRS34   Rv1840c  MT1888
+    PE_PGRS35   Rv1983  MT2036   MTCY39.36c
+    PE_PGRS36   Rv2098c  MT2159
+    PE_PGRS44   Rv2591  MT2668.1
+    PE_PGRS46   Rv2634c  MT2712
+    PE_PGRS54   Rv3508   MTV023.15
+    pgk   Rv1437  MT1481   MTCY493.17c
+    pgsA1   pgsA  pgsA2   Rv1822  MT1870
+    pgsA2   pgsA-2  pgsA3   MT2817  Rv2746c
+    pks2   msl-2   Rv3825c  MT3933
+    Rv2949c  MT3022
+    pheA   Rv3838c  MT3946
+    Rv2951c  MT3025
+    plcA   mpcA  mtp40   Rv2351c  MT2416
+    plcB   mpcB   Rv2350c  MT2415
+    plcC   Rv2349c  MT2414   MTCY98.18c
+    plcD   Rv1755c  MT1799   MTCY28.21c
+    Rv2952  MT3026
+    Rv2368c  MT2437   MTCY27.12
+    phoU1   phoY1   Rv3301c  MT3400
+    phoU2   phoY2   Rv0821c  MT0843
+    Rv0230c  MT0240   MTCY08D5.26c
+    glgP   Rv1328  MT1370   MTCY130.13
+    Rv1159.1  MT1196   Rv1159A
+    mtp   Rv3312.1  MT3413   Rv3312A
+    pimA   Rv2610c  MT2685   MTCY01A10.23
+    pimB   MT2243  Rv2188c
+    pimC   RvD2-ORF1   MT1800
+    pimE   MT1195  Rv1159
+    MT2236  Rv2181
+    pgsA1   MT2687  Rv2612c
+    pit   pitA   Rv0545c  MT0570
+    pfkB   Rv2029c  MT2088
+    pknA   Rv0015c  MT0018   MTCY10H4.15c
+    pknB   Rv0014c  MT0017   MTCY10H4.14c
+    pknD   Rv0931c  MT0958   MTCY08C9.08
+    pknE   Rv1743  MT1785   MTCY28.05
+    pknF   Rv1746  MT1788   MTCY28.09
+    pknG   Rv0410c  MT0423   MTCY22G10.06c
+    pknH   Rv1266c  MT1304   MTCY50.16
+    pknI   Rv2914c  MT2982   MTCY338.02c
+    pknJ   Rv2088  MT2149   MTCY49.28
+    pknK   Rv3080c  MT3165
+    pknL   Rv2176  MT2232   MTV021.09
+    plsB1   Rv1551  MT1601   MTCY48.14c
+    plsB   plsB2   Rv2482c  MT2555
+    pncB1   Rv1330c  MT1372   MTCY130.15c
+    pncB2   Rv0573c  MT0601
+    pnp   Rv2783c  MT2853
+    ppe1   Rv0096  MT0105   MTCY251.15
+    ppe2   Rv0256c  MT0269
+    ppe3   Rv0280  MT0292
+    ppe4   Rv0286  MT0299
+    ppe10   Rv0442c  MT0458   MTV037.06c
+    ppe11   Rv0453  MT0469
+    ppe12   Rv0755c  MT0779
+    ppe13   Rv0878c  MT0901   MTCY31.06c
+    ppe14   Rv0915c  MT0940
+    ppe15   Rv1039c  MT1068
+    ppe16   Rv1135c  MT1168
+    ppe17   Rv1168c  MT1205
+    ppe19   Rv1361c  MT1406   MTCY02B10.25c
+    ppe20   Rv1387  MT1431
+    ppe21   Rv1548c  MT1599   MTCY48.17
+    ppe22   Rv1705c  MT1745
+    ppe23   Rv1706c  MT1746
+    ppe24   Rv1753c  MT1796
+    ppe25   Rv1787  MT1836
+    ppe28   Rv1800  MT1849
+    ppe29   Rv1801  MT1850
+    ppe30   Rv1802  MT1851   MTV049.24
+    ppe32   Rv1808  MT1856.1
+    ppe33   Rv1809  MT1857
+    ppe36   p27   Rv2108  MT2167
+    ppe37   Rv2123
+    ppe38   Rv2352c  MT2419
+    ppe40   Rv2356c  MT2425
+    ppe42   Rv2608  MT2683
+    ppe44   Rv2770c  MT2840
+    ppe45   Rv2892c  MT2959   MTCY274.23c
+    ppe46   Rv3018c  MT3098/MT3101
+    ppe47/ppe48   Rv3021c/Rv3022c  MT3106
+    ppe49   Rv3125c  MT3209
+    ppe50   Rv3135
+    ppe51   Rv3136  MT3221
+    ppe54   Rv3343c
+    ppe57   Rv3425   MTCY78.04c
+    ppe58   Rv3426   MTCY78.03c
+    ppe59   Rv3429  MT3533   MTCY77.01
+    ppe61   Rv3532  MT3636
+    ppe62   Rv3533c  MT3637
+    ppe63   Rv3539  MT3643
+    ppe65   Rv3621c  MT3723
+    ppe66   Rv3738c  MT3844
+    ppe68   Rv3873  MT3987
+    ppe69   Rv3892c  MT4007
+    ppgK   Rv2702  MT2776   MTCY05A6.23
+    ppiA   Rv0009  MT0011   MTCY10H4.08
+    ppiB   ppi   Rv2582  MT2659
+    ppk   Rv2984  MT3062   MTCY349.03c
+    ppnK   Rv1695  MT1734   MTCI125.17
+    hemY   Rv2677c  MT2751   MTV010.01c
+    ppsA   Rv2931  MT3000   MTCY338.20
+    ppsB   Rv2932  MT3002
+    mtc28   Rv0040c  MT0046   MTCY21D4.03c
+    pra   Rv1078  MT1109   MTV017.31
+    priA   Rv1402  MT1446   MTCY21B4.19
+    dnaG   Rv2343c  MT2408   MTCY98.12c
+    proA   Rv2427c  MT2500   MTCY428.20
+    proB   Rv2439c  MT2515   MTCY428.07
+    prrA   Rv0903c  MT0926   MTCY31.31c
+    prrB   Rv0902c  MT0925   MTCY31.30c
+    prcA   Rv2109c  MT2169
+    prcB   Rv2110c  MT2170
+    psd   Rv0437c  MT0453   MTV037.01c
+    pssA   Rv0436c  MT0452   MTCY22G10.33c
+    pstA1   Rv0930  MT0957   MTCY21C12.24
+    pstA2   Rv0936  MT0963   MTCY08D9.03c
+    pstB1   phoT   Rv0820  MT0842
+    pstB2   pstB   Rv0933  MT0960
+    pstC1   pstC   Rv0935  MT0962
+    pstC2   Rv0929  MT0956   MTCY21C12.23
+    pstP   mstp  ppp   Rv0018c  MT0021
+    pstS1   phoS1   Rv0934  MT0961
+    pstS2   Rv0932c  MT0959   MTCY08D9.07
+    pstS3   phoS2   Rv0928  MT0955
+    pta   Rv0408  MT0421   MTCY22G10.04
+    pth   Rv1014c  MT1042   MTCY10G2.35
+    ptpA   Rv2234  MT2293   MTCY427.15
+    punA   deoD   Rv3307  MT3406
+    pup   Rv2111c  MT2171
+    purF   Rv0808  MT0829   MTCY07H7A.01c
+    purD   Rv0772  MT0796   MTCY369.17
+    purE   Rv3275c  MT3375   MTCY71.15c
+    purC   Rv0780  MT0804   MTCY369.24
+    purH   Rv0957  MT0984   MTCY10D7.17c
+    purA   Rv0357c  MT0373   MTCY13E10.19c
+    purK   Rv3276c  MT3376   MTCY71.16c
+    purL   Rv0803  MT0823   MTCY07H7A.06c
+    purQ   Rv0788  MT0813   MTCY369.32
+    purU   Rv2964  MT3041   MTCY349.23c
+    pyrB   Rv1380  MT1424   MTCY02B12.14
+    pyrC   Rv1381  MT1425   MTCY02B12.15
+    pyrD   Rv2139  MT2197   MTCY270.29c
+    pyrE   umpA   Rv0382c  MT0395
+    pyrF   uraA   Rv1385  MT1429
+    pyrG   Rv1699  MT1738   MTCI125.21
+    pyrH   Rv2883c  MT2951   MTCY274.14c
+    pyrR   Rv1379  MT1423   MTCY02B12.13
+    qcrA   Rv2195  MT2251   MTCY190.06
+    qcrB   Rv2196  MT2252   MTCY190.07
+    qcrC   Rv2194  MT2250   MTCY190.05
+    radA   Rv3585  MT3691   MTV024.03
+    rbfA   Rv2838c  MT2904   MTCY16B7.04
+    recA   Rv2737c  MT2806   MTV002.02c
+    recF   Rv0003  MT0003   MTCY10H4.01
+    recG   Rv2973c  MT3051   MTCY349.14
+    recN   Rv1696  MT1735   MTCI125.18
+    recO   Rv2362c  MT2431   MTCY27.18
+    recR   Rv3715c  MT3818   MTV025.063c
+    recX   Rv2736c  MT2805   MTV002.01c
+    regX3   Rv0491  MT0510   MTCY20G9.17
+    relA   Rv2583c  MT2660   MTCY227.18
+    prfA   Rv1299  MT1338   MTCY373.19
+    prfB   Rv3105c  MT3188   MTCY164.15c
+    rho   Rv1297  MT1336   MTCY373.17
+    ribBA   ribA  ribA2   Rv1415  MT1458
+    ribD   ribG   Rv1409  MT1453
+    rimM   Rv2907c  MT2975   MTCY274.38c
+    rimP   Rv2842c  MT2908   MTCY24A1.15
+    nrdE   Rv3051c  MT3137   MTV012.66c
+    nrdF1   Rv1981c  MT2033   MTCY39.38
+    nrdF2   Rv3048c  MT3133
+    Rv0233  MT0244
+    ribE   ribC   Rv1412  MT1456
+    ribH   Rv1416  MT1459   MTCY21B4.34
+    rplJ   Rv0651  MT0680   MTCY20H10.32
+    rplK   Rv0640  MT0669   MTCY20H11.21
+    rplM   Rv3443c  MT3548   MTCY77.15c
+    rplN   Rv0714  MT0741   MTCY210.33
+    rplO   Rv0723  MT0748   MTCY210.42
+    rplP   Rv0708  MT0735   MTCY210.27
+    rplQ   Rv3456c  MT3563   MTCY13E12.09c
+    rplR   Rv0720  MT0745   MTCY210.39
+    rplS   Rv2904c  MT2972   MTCY274.35c
+    rplA   Rv0641  MT0669.1   MTCY20H10.22
+    rplT   Rv1643  MT1681   MTCY06H11.07
+    rplU   Rv2442c  MT2518   MTCY428.04
+    rplV   Rv0706  MT0733   MTCY210.25
+    rplW   Rv0703  MT0730   MTCY210.22
+    rplX   Rv0715  MT0741.1   MTCY210.34
+    rplY   ctc   Rv1015c  MT1043
+    rpmA   Rv2441c  MT2517   MTCY428.05
+    rpmB1   rpmB   Rv0105c  MT0114
+    rpmB2   Rv2058c  MT2118   MTCY63A.02
+    rpmC   Rv0709  MT0736   MTCY210.28
+    rplB   Rv0704  MT0731   MTCY210.23
+    rpmD   Rv0722  MT0747   MTCY210.41
+    rpmE   Rv1298  MT1337   MTCY373.18
+    rpmF   Rv0979.1c  MT1007   Rv0979A
+    rpmG1   rpmG   Rv2057c  MT2117.1
+    rpmG2   Rv0634.1  MT0663
+    MTCY20H10.15A  Rv0634B
+    rpmH   Rv3924c  MT4041.1   MTV028.15
+    rpmI   Rv1642  MT1680   MTCY06H11.06
+    rpmJ   Rv3461c  MT3567.1
+    rplC   Rv0701  MT0728   MTCY210.20
+    rplD   Rv0702  MT0729   MTCY210.21
+    rplE   Rv0716  MT0742   MTCY210.35
+    rplF   Rv0719  MT0744   MTCY210.38
+    rplL   Rv0652  MT0681   MTCY20H10.33
+    rplI   Rv0056  MT0062   MTCY21D4.19
+    rlmN   Rv2880c/Rv2879c  MT2947
+    rmlA   rfbA   Rv0334  MT0348
+    rmlB   rfbB   Rv3464  MT3570
+    rmlC   strM   Rv3465  MT3571
+    rmlD   strL   Rv3266c  MT3366
+    rnc   Rv2925c  MT2995   MTCY338.14c
+    rnhB   Rv2902c  MT2970   MTCY274.33c
+    Rv2959c  MT3035
+    rnpA   Rv3923c  MT4041   MTV028.14c
+    rph   rphA   Rv1340  MT1381
+    Rv2962c  MT3038
+    rnz   Rv2407  MT2479   MTCY253.13c
+    rpe   Rv1408  MT1452   MTCY21B4.25
+    rpiB   Rv2465c  MT2540   MTV008.21c
+    rpoA   Rv3457c  MT3564   MTCY13E12.10c
+    rpoB   Rv0667  MT0695   MTCI376.08c
+    rpoC   Rv0668  MT0696   MTCI376.07c
+    Rv2703  MT2777   MTCY05A6.24
+    rpoE   sigH   Rv3223c  MT3320
+    rpoZ   Rv1390  MT1435   MTCY21B4.07
+    sigC   Rv2069  MT2129   MTCY49.08
+    sigD   Rv3414c  MT3523   MTCY78.15
+    rraA   menG   Rv3853  MT3968
+    frr   Rv2882c  MT2949   MTCY274.13c
+    rpsJ   rpsX   Rv0700  MT0727
+    rpsK   Rv3459c  MT3566   MTCY13E12.12c
+    rpsL   rps12   Rv0682  MT0710
+    rpsM   Rv3460c  MT3567   MTCY13E12.13c
+    rpsZ   rpsN1   Rv0717  MT0742.1
+    rpsN   rpsN2   Rv2056c  MT2117
+    rpsO   Rv2785c  MT2855   MTV002.50c
+    rpsP   Rv2909c  MT2977   MTCY274.41c
+    rpsQ   Rv0710  MT0737   MTCY210.29
+    rpsR1   rpsR   Rv0055  MT0061
+    rpsR2   Rv2055c  MT2116   MTCY63A.05
+    rpsS   Rv0705  MT0732   MTCY210.24
+    rpsA   Rv1630  MT1666   MTCY01B2.22
+    rpsT   Rv2412  MT2485   MTCY253.08c
+    rpsB   Rv2890c  MT2958   MTCY274.21c
+    rpsC   Rv0707  MT0734   MTCY210.26
+    rpsD   Rv3458c  MT3565   MTCY13E12.11c
+    rpsE   Rv0721  MT0746   MTCY210.40
+    rpsF   Rv0053  MT0059   MTCY21D4.16
+    rpsG   rps7   Rv0683  MT0711
+    rpsH   Rv0718  MT0743   MTCY210.37
+    rpsI   Rv3442c  MT3547   MTCY77.14c
+    rskA   Rv0444c  MT0460
+    rsmA   ksgA   Rv1010  MT1039
+    rsmE   Rv2372c  MT2441   MTCY27.08
+    rsmG   gidB   Rv3919c  MT4038
+    rsmH   mraW   Rv2165c  MT2223
+    rsmI   Rv1003  MT1032   MTCI237.19
+    ruvA   Rv2593c  MT2670   MTCY227.08
+    ruvB   Rv2592c  MT2669   MTCY227.09
+    ruvC   Rv2594c  MT2671   MTCY227.07
+    Rv2554c  MT2631   MTCY159.02
+    ahcY   sahH   Rv3248c  MT3346
+    scoA   Rv2504c  MT2579   MTCY07A7.10c
+    scoB   Rv2503c  MT2578   MTCY07A7.09c
+    sdaA   Rv0069c  MT0075   MTV030.12c
+    secA1   Rv3240c  MT3338   MTCY20B11.15c
+    secA2   Rv1821  MT1869   MTCY1A11.22c
+    secD   Rv2587c  MT2664   MTCY227.14
+    secE   Rv0638  MT0667   MTCY20H10.19
+    secF   Rv2586c  MT2663   MTCY227.15
+    secG   Rv1440  MT1485   MTCY493.14c
+    secY   Rv0732  MT0756.1   MTV041.06
+    senX3   Rv0490  MT0509   MTCY20G9.16
+    sepF   Rv2147c  MT2206
+    serA   Rv2996c  MT3074   MTV012.10
+    serC   Rv0884c  MT0907   MTCY31.12c
+    sigK   Rv0445c  MT0461
+    sir   nirA   Rv2391  MT2461
+    smc   Rv2922c  MT2990   MTCY338.11c
+    sodC   Rv0432  MT0447   MTCY22G10.29
+    sodB   sod  sodA   Rv3846  MT3960
+    speE   Rv2601  MT2675
+    ffh   Rv2916c  MT2984   MTCY338.04c
+    ssb   Rv0054  MT0060   MTCY21D4.17
+    smpB   Rv3100c  MT3184   MTCY164.11c
+    sthA   Rv2713  MT2786   MTCY05A6.34
+    stp   Rv2333c  MT2395
+    sucC   Rv0951  MT0978   MTCY10D7.23c
+    sucD   Rv0952  MT0979   MTCY10D7.22c
+    suhB   Rv2701c  MT2775   MTCY05A6.22c
+    alaS   Rv2555c  MT2632
+    cysS1   cysS   Rv3580c  MT3686
+    cysS2   Rv2130c  MT2188   MTCY261.29c
+    aspS   Rv2572c  MT2648   MTCY227.29
+    gltX   gltS   Rv2992c  MT3070
+    pheS   Rv1649  MT1687   MTCY06H11.14
+    pheT   Rv1650  MT1688   MTCY06H11.15
+    glyQS   glyS   Rv2357c  MT2426
+    hisS   Rv2580c  MT2657   MTCY227.21
+    ileS   Rv1536  MT1587   MTCY48.29c
+    lysS1   lysS   Rv3598c  MT3705
+    leuS   Rv0041  MT0047   MTCY21D4.04
+    metG   metS   Rv1007c  MT1036
+    proS   Rv2845c  MT2911   MTCY24A1.12
+    argS   Rv1292  MT1331   MTCY373.12
+    serS   Rv3834c  MT3942   MTCY01A6.35
+    thrS   Rv2614c  MT2689   MTCY1A10.20
+    valS   Rv2448c  MT2524   MTV008.04c
+    trpS   Rv3336c  MT3440   MTV016.36c
+    tyrS   Rv1689  MT1728   MTCI125.11
+    Rv2953  MT3027
+    tal   Rv1448c  MT1495   MTCY493.06
+    tam   Rv0294  MT0307   MTV035.22
+    tatA   Rv2094c  MT2155   MTCY49.34c
+    tatB   Rv1224  MT1262   MTCI61.07
+    tatC   Rv2093c  MT2154   MTCY49.33c
+    tcrA   Rv0602c
+    tesA   Rv2928  MT2998   MTCY338.17
+    tgs1   Rv3130c  MT3216
+    tgs2   Rv3734c  MT3839   MTV025.082c
+    tgs3   Rv3234c  MT3331   MTCY20B11.09c
+    tgs4   Rv3088  MT3173   MTV013.09
+    ilvA   Rv1559  MT1610   MTCY48.06c
+    thiC   Rv0423c  MT0437   MTCY22G10.20c
+    thiD   Rv0422c  MT0436   MTCY22G10.19c
+    thiE   Rv0414c  MT0427   MTCY22G10.11c
+    thiG   Rv0417  MT0430   MTCY22G10.14
+    fadA4   Rv1323  MT1365   MTCY130.08
+    trxA   trx  trxC   Rv3914  MT4033
+    thrC   Rv1295  MT1334   MTCY373.15
+    sseA   Rv3283  MT3382   MTCY71.23
+    sseB   Rv2291  MT2348   MTCY339.19c
+    cysA1   cysA   Rv3117  MT3199
+    cysA2   Rv0815c  MT0837   MTV043.07c
+    thyX   Rv2754c  MT2824   MTV002.19c
+    tig   Rv2462c  MT2537   MTV008.18c
+    tilS   Rv3625c  MT3727   MTCY15C10.27
+    tkt   Rv1449c  MT1496   MTCY493.05
+    topA   Rv3646c  MT3749   MTCY15C10.06
+    tpiA   tpi   Rv1438  MT1482
+    tpx   Rv1932  MT1982   MTCY09F9.32c
+    Rv1199c   MTCI364.11c
+    Rv2512c   MTCY07A7.18c
+    Rv0796   MTV042.06
+    Rv1369c   MTCY02B12.03c
+    Rv1756c  MT1803   MTCY28.22c
+    Rv1764   MTCY28.30
+    Rv2106   MTCY261.02
+    Rv2167c   MTCY270.01
+    Rv2279   MTCY339.31c
+    Rv2355   MTCY98.24
+    Rv2479c   MTV008.35c
+    Rv2649   MTCY441.18
+    Rv2814c  MT2881   MTCY16B7.29
+    Rv3185   MTV014.29
+    Rv3187   MTV014.31
+    Rv3326   MTV016.26
+    Rv3380c   MTV004.38c
+    Rv3475   MTCY13E12.28
+    treY   Rv1563c  MT1614   MTCY48.02
+    treZ   Rv1562c  MT1613   MTCY48.03
+    glbN   Rv1542c  MT1594   MTCY48.23
+    glbO   Rv2470  MT2546   MTV008.26
+    trkA   ceoC   Rv2692  MT2766
+    trmB   Rv0208c  MT0218   MTCY08D5.03c
+    trmD   Rv2906c  MT2974   MTCY274.37c
+    trpA   Rv1613  MT1648   MTCY01B2.05
+    trpB   Rv1612  MT1647   MTCY01B2.04
+    trpC   Rv1611  MT1646   MTCY01B2.03
+    trpD   Rv2192c  MT2248   MTCY190.03c
+    trpE   Rv1609  MT1644
+    trpG   Rv0013  MT0016
+    truA   Rv3455c  MT3562   MTCY13E12.08c
+    truB   Rv2793c  MT2862.1   MTV002.58c
+    trxB   Rv3913  MT4032   MTV028.04
+    Rv1313c  MT1353   MTCY373.33c
+    Rv3798  MT3905   MTV026.03
+    deoA   Rv3314c  MT3415   MTV016.14
+    thyA   Rv2764c  MT2834   MTV002.29c
+    ubiE   menH   Rv0558  MT0584
+    ung   Rv2976c  MT3053   MTCY349.11
+    uppP   bacA  upk   Rv2136c  MT2194
+    uppS   Rv2361c  MT2430   MTCY27.19
+    upp   Rv3309c  MT3408   MTV016.08c
+    ureC   Rv1850  MT1898   MTCY359.23c
+    ureB   Rv1849  MT1897   MTCY359.24c
+    ureA   Rv1848  MT1896   MTCY359.25c
+    ureF   Rv1851  MT1899   MTCY359.22c
+    ureG   Rv1852  MT1900   MTCY359.21c
+    uvrA   Rv1638  MT1675   MTCY06H11.02
+    uvrB   Rv1633  MT1669   MTCY01B2.25
+    uvrC   Rv1420  MT1463   MTCY21B4.38
+    uvrD   Rv3198c  MT3291   MTV014.42c
+    virS   Rv3082c  MT3167   MTV013.03c
+    wag22   wag22b   Rv1759c  MT1807
+    wbbL   wbbL1   Rv3265c  MT3365
+    wecA   rfe   Rv1302  MT1341
+    whiA   Rv1423  MT1466
+    xerC   Rv2894c  MT2962   MTCY274.25c
+    xerD   Rv1701  MT1740   MTCI125.23
+    Rv0026  MT0029   MTCY10H4.26
+    Rv0004  MT0004   MTCY10H4.02
+    Rv0079  MT0086
+    Rv0007  MT0007   MTCY10H4.05
+    Rv0080  MT0087
+    Rv0081  MT0088
+    Rv0008c  MT0010   MTCY10H4.07c
+    Rv0010c  MT0013   MTCY10H4.10c
+    Rv0011c  MT0014   MTCY10H4.11c
+    Rv0023  MT0026   MTCY10H4.23
+    Rv0025  MT0028   MTCY10H4.25
+    Rv0027  MT0030   MTCY10H4.27
+    Rv0028  MT0030.1   MTCY10H4.28
+    Rv0030  MT0034   MTCY10H4.30
+    Rv0034  MT0039   MTCY10H4.34
+    Rv0036c  MT0041   MTCY10H4.36c
+    Rv0037c  MT0042   MTCY10H4.37c
+    Rv0038  MT0043   MTCY10H4.38
+    Rv0039c  MT0044
+    Rv0043c  MT0049   MTCY21D4.06c
+    Rv0046c  MT0052   MTCY21D4.09c
+    Rv0048c  MT0054   MTCY21D4.11c
+    Rv0049  MT0055   MTCY21D4.12
+    Rv0083  MT0090   MTCY251.01  MTV030.27
+    Rv0569  MT0595
+    Rv0571c  MT0597
+    Rv0572c  MT0599
+    Rv0574c  MT0602
+    Rv0057  MT0063   MTCY21D4.20
+    Rv0064  MT0070   MTV030.07
+    Rv0085  MT0092   MTCY251.03
+    Rv0088  MT0096   MTCY251.06
+    Rv0089  MT0098   MTCY251.07
+    Rv0090  MT0099   MTCY251.08
+    Rv0093c  MT0102   MTCY251.12c
+    Rv0095c   MTCY251.14c
+    Rv0097  MT0106   MTCY251.16
+    Rv0098  MT0107   MTCY251.17
+    Rv1002c  MT1031   MTCI237.17c
+    Rv0100  MT0109   MTCY251.19
+    Rv0102  MT0111   MTCY251.21
+    Rv0104  MT0113   MTCY251.23
+    Rv1063c  MT1093   MTV017.16c
+    Rv0106  MT0115   MTCY251.25
+    Rv1085c  MT1117   MTV017.38c
+    Rv1101c  MT1133   MTV017.54c
+    Rv1128c  MT1160   MTCY22G8.17c
+    Rv1148c  MT1183   MTCI65.15c
+    Rv1220c  MT1258
+    Rv1250  MT1289
+    Rv1255c  MT1294   MTCY50.27
+    Rv1258c  MT1297   MTCY50.24
+    Rv1259  MT1297.1   MTCY50.23c
+    Rv1260  MT1298   MTCY50.22c
+    Rv1261c  MT1299   MTCY50.21
+    Rv1264  MT1302   MTCY50.18c
+    Rv1265  MT1303   MTCY50.17c
+    Rv1268c  MT1306   MTCY50.14
+    Rv1269c  MT1307   MTCY50.13
+    Rv1271c  MT1309   MTCY50.11
+    Rv1272c  MT1310   MTCY50.10
+    Rv1273c  MT1311   MTCY50.09
+    Rv1276c  MT1313   MTCY50.06
+    Rv1278  MT1315   MTCY50.04c
+    Rv1279  MT1316   MTCY50.03c
+    Rv1280c  MT1317   MTCY50.02
+    Rv1281c  MT1318   MTCY50.01
+    Rv1282c  MT1319   MTCY373.01c  MTCY3H3.01
+    Rv1283c  MT1320   MTCY373.02c
+    Rv1284  MT1322   MTCY373.03
+    Rv1287  MT1325   MTCY373.06
+    Rv1288  MT1326   MTCY373.07
+    Rv1289  MT1327   MTCY373.08
+    Rv1290c  MT1328   MTCY373.09c
+    Rv1291c  MT1330   MTCY373.10c
+    Rv1301  MT1340   MTCY373.21
+    Rv1303  MT1343   MTCY373.23
+    Rv1312  MT1352   MTCY373.32
+    Rv1318c  MT1359   MTCY130.03c
+    Rv1319c  MT1361   MTCY130.04c
+    Rv1320c  MT1362   MTCY130.05c
+    Rv1321  MT1363   MTCY130.06
+    Rv1322  MT1363.1   MTCY130.07
+    Rv1324  MT1366   MTCY130.09
+    Rv1332  MT1374   MTCY130.17
+    Rv1333  MT1375   MTCY130.18
+    Rv1334  MT1376   MTCY130.19
+    Rv1337  MT1378   MTCY130.22  MTCY02B10.01
+    Rv1339  MT1380   MTCY130.24  MTCY02B10.03
+    Rv1342c  MT1383   MTCY02B10.06c
+    Rv1343c  MT1384   MTCY02B10.07c
+    Rv1348  MT1390   MTCY02B10.12
+    Rv1349  MT1392   MTCY02B10.13
+    fabG2   Rv1350  MT1393   MTCY02B10.14
+    Rv1351  MT1394   MTCY02B10.15
+    Rv1352  MT1395   MTCY02B10.16
+    Rv1353c  MT1396   MTCY02B10.17c
+    Rv1354c  MT1397   MTCY02B10.18c
+    Rv1355c  MT1398   MTCY02B10.19c
+    Rv1356c  MT1399   MTCY02B10.20c
+    Rv1357c  MT1400   MTCY02B10.21c
+    Rv1359  MT1403   MTCY02B10.23
+    Rv1360  MT1405   MTCY02B10.24
+    Rv1362c  MT1407   MTCY02B10.26c
+    Rv1363c  MT1408   MTCY02B10.27c
+    Rv1364c  MT1410   MTCY02B10.28c
+    Rv1365c  MT1411   MTCY02B10.29c
+    Rv1366  MT1412   MTCY02B10.30
+    Rv1367c  MT1414
+    Rv1375  MT1419   MTCY02B12.09
+    Rv1395  MT1440   MTCY21B4.12
+    Rv1398c  MT1442   MTCY21B4.15c
+    Rv1401  MT1445   MTCY21B4.18
+    Rv1403c  MT1447   MTCY21B4.20c
+    Rv1405c  MT1449   MTCY21B4.22c
+    Rv1407  MT1451   MTCY21B4.24
+    Rv1413  MT1456.1   MTCY21B4.30
+    Rv1414  MT1457   MTCY21B4.31
+    Rv1417  MT1460   MTCY21B4.35
+    Rv1419  MT1462   MTCY21B4.37
+    Rv1421  MT1464   MTCY21B4.39
+    Rv1422  MT1465   MTCY21B4.40
+    Rv1424c  MT1467   MTCY21B4.42c  MTCY493.30
+    Rv1425  MT1468   MTCY21B4.43  MTCY493.29c
+    Rv1461  MT1508   MTV007.08
+    Rv1462  MT1509   MTV007.09
+    Rv0146  MT0154
+    Rv1480  MT1527   MTV007.27  MTCY277.01
+    Rv1481  MT1528   MTCY277.02
+    Rv1486c  MT1533   MTCY277.07c
+    Rv1488  MT1533.2   MTCY277.09
+    Rv1490  MT1536   MTCY277.12
+    Rv1491c  MT1538   MTCY277.13c
+    Rv1494  MT1541   MTCY277.16
+    Rv1495  MT1542   MTCY277.17
+    Rv1496  MT1543   MTCY277.18
+    Rv1498c  MT1546   MTCY277.20c
+    Rv1501  MT1550   MTCY277.23
+    Rv1502  MT1551   MTCY277.24
+    Rv1507c  MT1555   MTCY277.29c
+    Rv1509  MT1557   MTCY277.31
+    Rv1510  MT1558/MT1560   MTCY277.32
+    Rv1514c  MT1564   MTCY277.36c
+    Rv1518  MT1568   MTCY19G5.11c  MTCY277.40
+    Rv1519  MT1569   MTCY19G5.09c
+    Rv1520  MT1570   MTCY19G5.08c
+    Rv1524  MT1575   MTCY19G5.04c
+    wbbL2   Rv1525  MT1576   MTCY19G5.03c
+    Rv1526c  MT1577   MTCY19G5.02
+    Rv1533
+    Rv0145  MT0153
+    Rv1540  MT1592   MTCY48.25c
+    Rv1543  MT1595   MTCY48.22c
+    Rv1545  MT1596.1   MTCY48.20
+    Rv1546  MT1597   MTCY48.19c
+    Rv1549  MT1599.1   MTCY48.16c
+    Rv1556  MT1607   MTCY48.09c
+    Rv1558  MT1609   MTCY48.07c
+    Rv1560  MT1611   MTCY48.05c
+    Rv1561  MT1612   MTCY48.04c
+    Rv1583c  MT3573.2   MTCY336.21
+    Rv1588c  MT1623   MTCY336.16
+    Rv1590  MT1625   MTCY336.14c
+    Rv1591  MT1626   MTCY336.13c
+    Rv1592c  MT1628
+    Rv1634  MT1670
+    Rv1702c  MT1741   MTCI125.24c
+    Rv1708  MT1749
+    Rv1711  MT1751.1   MTCI125.33
+    Rv1733c  MT1774
+    Rv1734c  MT1774.1
+    Rv1735c  MT1776
+    Rv1738  MT1780   MTCY04C12.23
+    Rv1739c  MT1781
+    Rv1760  MT1809   MTCY28.26
+    Rv1729c  MT1770
+    Rv1812c  MT1860
+    Rv1813c  MT1861   MTCY1A11.30  MTY16F9.01
+    Rv1815  MT1863   MTCY1A11.28c
+    Rv1816  MT1864   MTCY1A11.27c
+    Rv1819c  MT1867   MTCY1A11.24c
+    Rv0181c  MT0190   MTCI28.21c
+    Rv1823  MT1871   MTCY1A11.20c
+    Rv1824  MT1872   MTCY1A11.19c
+    Rv1825  MT1873   MTCY1A11.18c
+    Rv1827  MT1875   MTCY1A11.16c
+    Rv1828  MT1876   MTCY1A11.15c
+    Rv1829  MT1877   MTCY1A11.14c
+    Rv1830  MT1879   MTCY1A11.13c
+    Rv1831  MT1879.1   MTCY1A11.12c
+    Rv1834  MT1882   MTCY1A11.09c
+    Rv1835c  MT1883   MTCY1A11.08
+    Rv1836c  MT1884   MTCY1A11.07
+    Rv1838c  MT1886   MTCY1A11.05  MTCY359.35
+    Rv1841c  MT1889   MTCY1A11.03  MTCY359.32
+    Rv1842c  MT1890   MTCY1A11.02  MTCY359.31
+    Rv1843c  MT1891   MTCY1A11.01  MTCY359.30
+    Rv1847  MT1895   MTCY359.26c
+    Rv1877  MT1926
+    Rv1898  MT1949   MTCY180.20c
+    Rv1899c  MT1950   MTCY180.19
+    Rv1910c  MT1961   MTCY180.08
+    Rv1911c  MT1962   MTCY180.07
+    Rv0191  MT0201
+    Rv1945  MT1995   MTCY09F9.19c
+    Rv1896c  MT1947
+    Rv1954c  MT2003.1   MTCY09F9.10
+    Rv1960c  MT2009   MTCY09F9.04
+    Rv0196  MT0206
+    Rv1979c  MT2031   MTCY39.40  MTV051.17c
+    Rv1982c  MT2034   MTCY39.37
+    Rv1985c  MT2039   MTCY39.34
+    Rv1986  MT2040   MTCY39.33c
+    Rv1987  MT2041   MTCY39.32c
+    Rv1989c  MT2043   MTCY39.30
+    Rv1990c  MT2044   MTCY39.29
+    Rv1991c  MT2046   MTCY39.28
+    Rv1993c  MT2049   MTCY39.26
+    Rv1995  MT2051   MTCY39.24c
+    Rv1996  MT2052   MTCY39.23c
+    Rv1998c  MT2054   MTCY39.20
+    Rv1999c  MT2055   MTCY39.19
+    Rv2000  MT2056   MTCY39.18c
+    Rv2001  MT2057   MTCY39.17c
+    Rv2003c  MT2059   MTCY39.14
+    Rv2004c  MT2060   MTCY39.13
+    Rv2005c  MT2061   MTCY39.12
+    Rv2006  MT2062   MTCY39.11c
+    Rv2008c  MT2064   MTCY39.09
+    Rv2009  MT2064.1   MTCY39.08c
+    Rv2010  MT2065   MTCY39.07c
+    Rv2011c  MT2066   MTCY39.06
+    Rv2012  MT2067   MTCY39.05c
+    Rv2028c  MT2087
+    Rv2030c  MT2089
+    Rv2047c  MT2107
+    Rv0205  MT0215   MTV033.13
+    Rv2067c  MT2127   MTCY49.06c
+    Rv2073c  MT2133   MTCY49.12c
+    Rv2074  MT2134   MTCY49.13
+    Rv2075c  MT2135   MTCY49.14c
+    Rv2076c  MT2136   MTCY49.15c
+    Rv2077c  MT2137   MTCY49.16c
+    Rv2078  MT2139   MTCY49.17
+    Rv2079  MT2140   MTCY49.18
+    Rv2081c  MT2143   MTCY49.20c
+    Rv2082   MTCY49.21
+    Rv2083  MT2145   MTCY49.22
+    Rv2084  MT2146   MTCY49.23
+    Rv2085  MT2147   MTCY49.24
+    Rv2086   MTCY49.27
+    Rv2087  MT2148   MTCY49.27
+    Rv2091c  MT2152   MTCY49.31c
+    Rv2100  MT2160   MTCY49.40
+    Rv2131c  MT2189   MTCY270.37
+    Rv2140c  MT2198   MTCY270.28
+    Rv2148c  MT2207   MTCY270.20
+    Rv2149c  MT2208   MTCY270.19
+    Rv2190c  MT2245   MTCY190.01c  MTV021.23c
+    Rv2191  MT2247   MTCY190.02
+    Rv2197c  MT2253   MTCY190.08c
+    Rv2203  MT2259   MTCY190.14
+    Rv2204c  MT2260   MTCY190.15c
+    Rv2205c  MT2261   MTCY190.16c
+    Rv2206  MT2262   MTCY190.17
+    Rv2209  MT2265   MTCY190.20
+    Rv2212  MT2268   MTCY190.23
+    Rv2216  MT2273   MTCY190.27
+    Rv2219  MT2276   MTCY190.30
+    Rv0221  MT0231   MTCY08D5.16
+    Rv2223c  MT2281   MTCY427.04c
+    Rv2224c  MT2282   MTCY427.05c
+    Rv2226  MT2285   MTCY427.07
+    Rv2227  MT2286   MTCY427.08
+    Rv2228c  MT2287   MTCY427.09c
+    Rv2229c  MT2288   MTCY427.10c
+    Rv2230c  MT2289   MTCY427.11c
+    Rv2231c  MT2290   MTCY427.12c
+    Rv2232  MT2292   MTCY427.13/MTCY427.14
+    Rv2235  MT2294   MTCY427.16
+    Rv2237  MT2296   MTCY427.18
+    Rv2238c  MT2298   MTCY427.19c
+    Rv2239c  MT2299   MTCY427.20c
+    Rv2240c  MT2300   MTCY427.21c
+    Rv2242  MT2302   MTCY427.23
+    Rv2248  MT2308   MTCY427.29
+    Rv0224c  MT0234
+    Rv2250c  MT2310   MTCY427.32c
+    Rv2265  MT2327   MTCY339.45c
+    Rv2267c  MT2329   MTCY339.43
+    Rv2269c  MT2330.2   MTCY339.41
+    Rv2271  MT2332   MTCY339.39c
+    Rv2272  MT2333   MTCY339.38c
+    Rv2273  MT2334   MTCY339.37c
+    Rv2274c  MT2334.2   MTCY339.36
+    Rv2277c  MT2337   MTCY339.33
+    Rv2281  MT2339   MTCY339.29c
+    Rv2282c  MT2340   MTCY339.28
+    Rv2283  MT2341.1   MTCY339.27c
+    Rv2285  MT2343   MTCY339.25c
+    Rv2286c  MT2344   MTCY339.24
+    Rv2287  MT2345   MTCY339.23c
+    Rv2288  MT2345.1   MTCY339.22c
+    Rv2292c  MT2349   MTCY339.18
+    Rv2293c  MT2350   MTCY339.17
+    Rv2295  MT2352   MTCY339.15c
+    Rv2297  MT2354   MTCY339.13c
+    Rv2298  MT2355   MTCY339.12c
+    Rv2300c  MT2357   MTCY339.09
+    Rv2302  MT2359   MTCY339.07c
+    Rv2304c  MT2361   MTCY339.05
+    Rv2305  MT2362   MTCY339.04c
+    Rv2306c  MT2363   MTCY339.03
+    Rv2307c  MT2364   MTCY339.02
+    Rv2308  MT2366   MTCY339.01c
+    Rv2310  MT2372   MTCY3G12.24c
+    Rv2311  MT2373   MTCY3G12.23c
+    Rv2312  MT2374   MTCY3G12.22c
+    Rv2313c  MT2376   MTCY3G12.21
+    Rv2319c  MT2382   MTCY3G12.15
+    Rv2325c  MT2387   MTCY3G12.09
+    Rv2326c  MT2388   MTCY3G12.08
+    Rv2331  MT2393   MTCY3G12.03c
+    Rv2345  MT2410
+    Rv2366c  MT2435   MTCY27.14
+    Rv2367c  MT2436   MTCY27.13
+    Rv0236.1  MT0250   Rv0236A
+    Rv2411c  MT2484   MTCY253.09
+    Rv2417c  MT2490   MTCY253.03
+    Rv2456c  MT2531
+    Rv2459  MT2534
+    Rv2464c  MT2539   MTV008.20c
+    Rv2484c  MT2557   MTV008.40c
+    Rv2556c  MT2633   MTCY9C4.12
+    Rv2557  MT2634   MTCY9C4.11c
+    Rv2558  MT2635   MTCY9C4.10c
+    Rv2559c  MT2636   MTCY9C4.09
+    Rv2560  MT2637   MTCY9C4.08c
+    Rv2561/Rv2562  MT2638
+    Rv2563  MT2639   MTCY9C4.05c
+    Rv2564  MT2640   MTCY9C4.04c
+    Rv2565  MT2641   MTCY9C4.03c
+    Rv2567  MT2643   MTCY227.34c  MTCY9C4.01c
+    Rv2568c  MT2644   MTCY227.33
+    Rv2569c  MT2645   MTCY227.32
+    Rv2570  MT2646   MTCY227.31c
+    Rv2571c  MT2647   MTCY227.30
+    Rv2574  MT2650   MTCY227.27c
+    Rv2575  MT2651   MTCY227.26c
+    Rv2576c  MT2652   MTCY227.25
+    Rv2577  MT2654   MTCY227.24c
+    Rv2578c  MT2655   MTCY227.23
+    Rv2581c  MT2658   MTCY227.20
+    Rv2585c  MT2662   MTCY227.16
+    Rv2588c  MT2665   MTCY227.13
+    Rv2595  MT2671.1   MTCY227.06c
+    Rv2596  MT2672   MTCY227.05c
+    Rv2597  MT2673   MTCY227.04c
+    Rv2598  MT2673.1   MTCY227.03c
+    Rv2599  MT2674   MTCY227.02c
+    Rv2600  MT2674.1   MTCY227.01c
+    Rv2603c  MT2678   MTCI270A.02
+    Rv2623  MT2698   TB31.7
+    Rv2624c  MT2699
+    Rv2625c  MT2700
+    Rv2627c  MT2702
+    Rv2628  MT2703
+    Rv2629  MT2704
+    Rv2630  MT2705
+    Rv2631  MT2707   MTCY441.01
+    Rv2632c  MT2708   MTCY441.02c
+    Rv2633c  MT2709   MTCY441.03c
+    Rv2635  MT2713   MTCY441.05
+    Rv2636  MT2714   MTCY441.06
+    Rv2637  MT2715   MTCY441.07
+    Rv2639c  MT2717   MTCY441.09c
+    Rv2644c  MT2721.1   MTCY441.14c
+    Rv2645  MT2723   MTCY441.15
+    Rv2656c  MT2733   MTCY441.25c
+    Rv2658c  MT2734.1   MTCY441.27c
+    Rv2667  MT2741   MTCY441.36
+    Rv2669  MT2743   MTCY441.38
+    Rv2684  MT2758   MTCY05A6.05
+    Rv2685  MT2759   MTCY05A6.06
+    Rv2715  MT2788   MTCY05A6.36
+    Rv2716  MT2789   MTCY05A6.37
+    Rv2717c  MT2790
+    Rv2723  MT2795   MTCY154.03
+    Rv2759c  MT2829   MTV002.24c
+    Rv2782c  MT2852   MTV002.47c
+    Rv2850c  MT2916   MTCY24A1.07
+    Rv2851c  MT2917   MTCY24A1.06
+    Rv2869c  MT2937   MTV003.15c
+    Rv2871  MT2938.1   MTCY274.02
+    Rv2872  MT2939   MTCY274.03
+    Rv2876  MT2944.1   MTCY274.07
+    Rv2885c  MT2953   MTCY274.16c
+    Rv2886c  MT2954   MTCY274.17c
+    Rv2887  MT2955   MTCY274.18
+    Rv2891  MT2958.2   MTCY274.22
+    Rv2895c  MT2963   MTCY274.26c
+    Rv2896c  MT2964   MTCY274.27c
+    Rv2897c  MT2965   MTCY274.28c
+    Rv2898c  MT2966   MTCY274.29c
+    Rv2900c  MT2968   MTCY274.31c
+    Rv2901c  MT2969   MTCY274.32c
+    Rv2908c  MT2976   MTCY274.40c
+    Rv2910c  MT2978   MTCY274.42c
+    Rv2912c  MT2980   MTCY274.44c
+    Rv2913c  MT2981   MTCY274.45c  MTCY338.01c
+    Rv2915c  MT2982.1   MTCY338.03c
+    Rv2917  MT2985   MTCY338.05
+    Rv2923c  MT2992   MTCY338.12c
+    Rv2926c  MT2996   MTCY338.15c
+    Rv2927c  MT2997   MTCY338.16c
+    Rv2929  MT2998.1   MTCY338.18
+    Rv0281  MT0293
+    Rv2971  MT3049
+    Rv2994  MT3072
+    Rv3073c  MT3158   MTCY22D7.08
+    Rv3087  MT3172   MTV013.08
+    Rv3095  MT3179   MTCY164.06
+    Rv3126c  MT3211
+    Rv3127  MT3212
+    Rv3129  MT3215
+    Rv3131  MT3217
+    Rv3134c  MT3220
+    Rv3193c  MT3285   MTV014.37c
+    Rv3198.1  MT3292   Rv3198A
+    Rv3282  MT3381   MTCY71.22
+    Rv3284  MT3383   MTCY71.24
+    Rv3292  MT3391   MTCY71.32
+    nei   Rv3297  MT3396   MTCY71.37
+    Rv3342  MT3445   MTV016.42
+    Rv3357  MT3465   MTV004.14
+    Rv3358  MT3466   MTV004.15
+    Rv3371  MT3481   MTV004.29
+    Rv3395c  MT3502   MTCY78.33
+    Rv3399  MT3507   MTCY78.29c
+    Rv3400  MT3508   MTCY78.28c
+    Rv3401  MT3509   MTCY78.27c
+    Rv3402c  MT3510   MTCY78.26
+    Rv3403c  MT3511   MTCY78.25
+    Rv3404c  MT3512   MTCY78.24
+    Rv3405c  MT3513   MTCY78.23
+    Rv3406  MT3514   MTCY78.22c
+    Rv3407  MT3515   MTCY78.21c
+    Rv3408  MT3516   MTCY78.20c
+    Rv3410c  MT3518   MTCY78.18
+    Rv3412  MT3521   MTCY78.16c
+    Rv3413c  MT3522   MTCY78.16
+    Rv3421c  MT3530   MTCY78.08
+    Rv3422c  MT3531   MTCY78.07
+    Rv3423.1  MT3532.1
+    Rv3424c  MT3532.2   MTCY78.05
+    Rv3427c   MTCY78.02
+    Rv3428c   MTCY78.01
+    Rv3433c  MT3539   MTCY77.05c
+    Rv3466  MT3572   MTCY13E12.19
+    Rv3480c  MT3584   MTCY13E12.33c
+    Rv3551  MT3655   MTCY03C7.05c
+    Rv3552  MT3656   MTCY03C7.03c
+    Rv3579c  MT3685
+    Rv3630  MT3732   MTCY15C10.22c
+    Rv3633  MT3735   MTCY15C10.19c
+    Rv0364  MT0380   MTCY13E10.26
+    Rv3659c  MT3759
+    Rv3660c  MT3760
+    Rv3661  MT3761   MTV025.009
+    Rv3679  MT3781   MTV025.027
+    Rv3716c  MT3819   MTV025.064c
+    Rv3740c  MT3848   MTV025.088c
+    Rv0377  MT0391   MTV036.12
+    Rv3780  MT3889   MTCY13D12.14
+    Rv3785  MT3893   MTCY13D12.19
+    Rv3786c  MT3894   MTCY13D12.20
+    Rv3788  MT3896   MTCY13D12.22
+    Rv3789  MT3897   MTCY13D12.23
+    Rv3835  MT3943
+    Rv3767c  MT3874
+    Rv3787c  MT3895
+    Rv3922c  MT4040.1   MTV028.13c
+    Rv0441c  MT0457   MTV037.05c
+    Rv0465c  MT0481
+    Rv0472c  MT0489
+    Rv0474  MT0491
+    Rv0476  MT0494.1   MTCY20G9.02
+    Rv0477  MT0495   MTCY20G9.03
+    Rv0479c  MT0497   MTCY20G9.05c
+    Rv0480c  MT0498   MTCY20G9.06c
+    Rv0481c  MT0499   MTCY20G9.07c
+    Rv0483  MT0501   MTCY20G9.09
+    Rv0484c  MT0502   MTCY20G9.10c
+    Rv0485  MT0503   MTCY20G9.11
+    Rv0486  MT0504   MTCY20G9.12
+    Rv0487  MT0505   MTCY20G9.13
+    Rv0488  MT0507   MTCY20G9.14
+    Rv0492c  MT0511/MT0512   MTCY20G9.18c
+    Rv0493c  MT0513   MTCY20G9.19c
+    Rv0494  MT0514   MTCY20G9.20
+    Rv0495c  MT0515   MTCY20G9.21c
+    Rv0496  MT0516   MTCY20G9.22
+    Rv0497  MT0517   MTCY20G9.23
+    Rv0498  MT0518   MTCY20G9.24
+    Rv0499  MT0519   MTCY20G9.25
+    Rv0500.1  MT0521.1   Rv0500B
+    Rv0501  MT0522   MTCY20G9.28
+    Rv0502  MT0523   MTCY20G9.29
+    Rv0504c  MT0525.1   MTCY20G9.31c
+    Rv0505c  MT0526   MTCY20G9.32c
+    Rv0508  MT0529   MTCY20G9.35
+    Rv0539  MT0564   MTCY25D10.18
+    Rv0566c  MT0592   MTV039.04c
+    Rv0586  MT0615   MTCY19H5.36c
+    Rv0609  MT0638   MTCY19H5.13c
+    Rv0624  MT0652   MTCY20H10.05
+    Rv0625c  MT0653   MTCY20H10.06c
+    Rv0628c  MT0656   MTCY20H10.09c
+    Rv0635  MT0664   MTCY20H10.16
+    Rv0637  MT0666   MTCY20H10.18
+    Rv0647c  MT0675   MTCY20H10.28c
+    Rv0739  MT0764   MTV041.13
+    Rv0726c  MT0751
+    Rv0731c  MT0756
+    Rv0767c  MT0791   MTCY369.12c
+    Rv0770  MT0794   MTCY369.15
+    Rv0813c  MT0834
+    Rv0849  MT0872
+    Rv0830  MT0851
+    fadE10   Rv0873  MT0896
+    Rv0874c  MT0897   MTCY31.02c
+    Rv0875c  MT0898   MTCY31.03c
+    Rv0876c  MT0899   MTCY31.04c
+    Rv0877  MT0900   MTCY31.05
+    Rv0879c  MT0902   MTCY31.07c
+    Rv0880  MT0903.1   MTCY31.08
+    Rv0881  MT0904   MTCY31.09
+    Rv0882  MT0905   MTCY31.10
+    Rv0883c  MT0906   MTCY31.11c
+    Rv0885  MT0908   MTCY31.13
+    Rv0887c  MT0910   MTCY31.15c
+    Rv0888  MT0911   MTCY31.16
+    Rv0890c  MT0914   MTCY31.18c
+    Rv0891c  MT0915   MTCY31.19c
+    Rv0892  MT0916   MTCY31.20
+    Rv0893c  MT0917   MTCY31.21c
+    Rv0894  MT0918   MTCY31.22
+    Rv0895  MT0919   MTCY31.23
+    Rv0897c  MT0921   MTCY31.25c
+    Rv0898c  MT0921.1   MTCY31.26c
+    Rv0899  MT0922   MTCY31.27
+    Rv0900  MT0923   MTCY31.28
+    Rv0901  MT0924   MTCY31.29
+    Rv0906  MT0929   MTCY31.34
+    Rv0917  MT0942   MTCY21C12.11
+    Rv0938  MT0965   MTCY08D9.01c  MTCY10D7.36c
+    Rv0940c  MT0967   MTCY10D7.34
+    Rv0942  MT0968.2   MTCY10D7.32c
+    Rv0943c  MT0969   MTCY10D7.31
+    Rv0945  MT0971   MTCY10D7.29c
+    Rv0948c  MT0975   MTCY10D7.26
+    Rv0953c  MT0980   MTCY10D7.21
+    Rv0955  MT0982   MTCY10D7.19c
+    Rv0959  MT0986   MTCY10D7.15c
+    Rv0960  MT0988   MTCY10D7.14c
+    Rv0961  MT0989   MTCY10D7.13c
+    Rv0963c  MT0992   MTCY10D7.11
+    Rv0964c  MT0992.1   MTCY10D7.10
+    Rv0965c  MT0993   MTCY10D7.09
+    Rv0966c  MT0994   MTCY10D7.08
+    Rv0968  MT0996   MTCY10D7.06c
+    Rv0970  MT0998   MTCY10D7.04c
+    Rv0986  MT1014   MTV044.14
+    Rv0759c  MT0784   MTCY369.04c
+    Rv1262c  MT1300   MTCY50.20
+    Rv0795   MTV042.05
+    Rv1370c   MTCY02B12.04c
+    Rv1757c  MT1804   MTCY28.23c
+    Rv1763   MTCY28.29
+    Rv2105   MTCY261.01
+    Rv2168c   MTV021.01c
+    Rv2278   MTCY339.32c
+    Rv2354   MTCY98.23
+    Rv2480c   MTV008.36c
+    Rv2648   MTCY441.17A
+    Rv2815c  MT2882   MTCY16B7.28
+    Rv3184   MYV014.28
+    Rv3186   MTV014.30
+    Rv3325   MTV016.25
+    Rv3381c   MTV004.39c
+    Rv3474   MTCY13E12.27
+    Rv1086  MT1118   MTV017.39
+    Rv1519'
+    RvD2-ORF3   MT1802
+    Rv3135'
+    Rv3737
+    Rv3516
+    Rv1917c
+    Rv1753c
+    Rv1917c
+    Rv1753c
+    RvD2-ORF2
+    Rv1753c
+    Rv3136
+    MT3578  Rv3472
+    MT1739  Rv1700
+    sigF   MT3385  Rv3286c
+    MT3632  Rv3529c
+    MT3312  Rv3216
+    bphC   MT3673  Rv3568c
+    pks13   MT3907  Rv3800c
+    MT0316  Rv0303
+    rpfB   MT1038  Rv1009
+    moeW   MT2401  Rv2338c
+    typA   MT1202  Rv1165
+    fdxD   MT3607  Rv3503c
+    MT3494  Rv3386
+    MT0255  Rv0241c
+    ndhA   ndh-1   MT0403  Rv0392c
+    PE25   MT2506  Rv2431c
+    menB   MT0573  Rv0548c
+    mycP5   MT1845  Rv1796
+    fadB4   MT3228  Rv3141
+    MT0793  Rv0769
+    serA2   MT0753  Rv0728c
+    MT3294  Rv3200c
+    MT3734  Rv3632
+    MT0587  Rv0561c
+    pncA   MT2103  Rv2043c
+    MT1417  Rv1372
+    MT0521  Rv0500.1   Rv0500A
+    MT0822  Rv0802c
+    MT2925  Rv2857c
+    fadD22   MT3021  Rv2948c
+    mrr   MT2603  Rv2528c
+    TlyA   tlyA   MT1733  Rv1694
+    fadD28   MT3011  Rv2941
+    MT0841  Rv0819
+    pks17   MT1703  Rv1663
+    MT1054  Rv1026
+    MT0147  Rv0139
+    cmaC   pcaA   MT0486  Rv0470c
+    MT3859  Rv3752c
+    lipM   MT2342  Rv2284
+    pmmB   manB-2   MT3407  Rv3308
+    MT0187  Rv0178
+    MT2769  Rv2695
+    moeB2   MT3198  Rv3116
+    MT3887  Rv3778c
+    MT3777  Rv3676
+    pntB   MT0165  Rv0157
+    lipR   bah   MT3169  Rv3084
+    MT3143  Rv3057c
+    MT2101  Rv2041c
+    MT3263  Rv3174
+    aroE   MT2629  Rv2552c
+    MT0798  Rv0774c
+    MT1238  Rv1200
+    lipH   MT1443  Rv1399c
+    MT1810  Rv1761c
+    glf   MT3916  Rv3809c
+    MT3857  Rv3750c
+    MT3272  Rv3181c
+    birA   MT3379  Rv3279c
+    oxcA   oxc   MT0126  Rv0118c
+    MT0389  Rv0374c
+    MT0654  Rv0626
+    MT0755  Rv0730
+    MT3422  Rv3321c
+    trcR   Rv1033c
+    lipQ   MT2559  Rv2485c
+    MT1171  Rv1138c
+    MT2734  Rv2657c
+    MT2716  Rv2638
+    MT3334  Rv3237c
+    ndh   ndh-2   MT1902  Rv1854c
+    MT2193  Rv2135c
+    cydB   MT1658  Rv1622c
+    hmp   MT3676  Rv3571
+    lrp   MT3390  Rv3291c
+    phoH2   MT1127  Rv1095
+    hycQ   MT0093  Rv0086
+    fabG4   fabG-1   MT0256  Rv0242c
+    TB11.2   MT3698  Rv3592
+    acpA   acp-1   MT0038  Rv0033
+    MT0800  Rv0776c
+    MT2496  Rv2423
+    ceoB   Rv2691
+    ppsE   MT3005  Rv2935
+    MT2880  Rv2813
+    echA3   MT0660  Rv0632c
+    MT1143  Rv1112
+    fadB2   MT0484  Rv0468
+    MT2787  Rv2714
+    narL   MT0866  Rv0844c
+    MT2192  Rv2134c
+    MT3496  Rv3389c
+    MT0131  Rv0123
+    MT0198  Rv0188
+    MT0314  Rv0301
+    MT0386  Rv0371c
+    sirR   MT2858  Rv2788
+    adhE2   MT2320  Rv2259
+    cspB   MT0893  Rv0871
+    MT2627  Rv2550c
+    mysB   sigB   MT2783  Rv2710
+    yrbE4B   MT3604  Rv3500c
+    MT2226  Rv2170
+    far   MT0878  Rv0855
+    MT1596  Rv1544
+    folC   MT2523  Rv2447c
+    Rv0794c
+    gltD   MT3973  Rv3858c
+    dsbF   MT1716  Rv1677
+    MT1229  Rv1192
+    mog   MT0888  Rv0865
+    MT1917  Rv1868
+    MT1931  Rv1882c
+    MT1914  Rv1865c
+    MT0259  Rv0245
+    galE3   MT0560  Rv0536
+    gorA   mtr   MT2922  Rv2855
+    MT1918  Rv1869c
+    MT0881  Rv0858c
+    MT2584  Rv2509
+    bpoC   MT0580  Rv0554
+    scpB   MT1751  Rv1710
+    ptbB   MT0162  Rv0153c
+    mitR   MT0068  Rv0063
+    bphD   MT3674  Rv3569c
+    icd2   icd-1   MT0072  Rv0066c
+    MT2122  Rv2063
+    fdxC   MT1214  Rv1177
+    MT3046  Rv2968c
+    MT3030  Rv2956
+    PE_PGRS8   Rv0742
+    echA21   ech   MT3883  Rv3774
+    arsC   MT2720  Rv2643
+    MT3474  Rv3365c
+    ccdA   MT0549  Rv0527
+    MT0229  Rv0219
+    ctpJ   MT3851  Rv3743c
+    MT0947  Rv0920c
+    MT0662  Rv0634c
+    MT3850  Rv3742c
+    MT3782  Rv3680
+    MT2842  Rv2772c
+    MT3015  Rv2943
+    MT3250  Rv3161c
+    cysT   cysU   MT2470  Rv2399c
+    MT0344  Rv0329c
+    MT1314  Rv1277
+    MT3230  Rv3143
+    MT1073  Rv1043c
+    fadD4   MT0224  Rv0214
+    rfbD   MT3892  Rv3783
+    pcd   MT3392  Rv3293
+    MT0210  Rv0200
+    echA9   MT1101  Rv1071c
+    MT3692  Rv3586
+    MT1095  Rv1065
+    MT2695  Rv2620c
+    MT3937  Rv3829c
+    moaD2   MT0891  Rv0868c
+    aldA   MT0792  Rv0768
+    MT2100  Rv2040c
+    MT3833  Rv3729
+    MT2389  Rv2327
+    ephE   MT3771  Rv3670
+    MT0385  Rv0370c
+    MT1616  Rv1565c
+    MT0948  Rv0921
+    moxR2   MT3794  Rv3692
+    lpqM   MT0433  Rv0419
+    pcnB   pcnA   MT4026  Rv3907c
+    MT3963  Rv3848
+    MT0964  Rv0937c
+    manA   MT3353  Rv3255c
+    MT1081  Rv1051c
+    MT3306  Rv3210c
+    MT1731  Rv1692
+    MT2868  Rv2800
+    MT0321  Rv0308
+    fadE30   MT3665  Rv3560c
+    MT2386  Rv2324
+    MT1986  Rv1936
+    MT3281  Rv3191c
+    MT0586  Rv0560c
+    sigG   MT0191  Rv0182c
+    MT3373  Rv3273
+    fadD13   MT3174  Rv3089
+    MT0795  Rv0771
+    mutY   MT3695  Rv3589
+    MT3971  Rv3856c
+    fadD12   MT1470  Rv1427c
+    MT0542  Rv0520
+    MT2427  Rv2358
+    MT2821  Rv2751
+    MT1924  Rv1875
+    MT3661  Rv3557c
+    fadE27   MT3609  Rv3505
+    sugA   MT1274  Rv1236
+    lpqI   MT0251  Rv0237
+    rocA   pruA   MT1224  Rv1187
+    nuoJ   MT3242  Rv3154
+    MT3262  Rv3173c
+    echA20   MT3654  Rv3550
+    MT1149  Rv1117
+    accA2   bccA-1   MT1001  Rv0973c
+    MT3333  Rv3236c
+    MT2102  Rv2042c
+    fadD8   MT0577  Rv0551c
+    MT3700  Rv3594
+    MT4034  Rv3915
+    MT3914  Rv3807c
+    echA15   MT2753  Rv2679
+    MT3325  Rv3228
+    ephA   MT3719  Rv3617
+    uspB   MT2380  Rv2317
+    MT3116  Rv3032
+    echA10   MT1175  Rv1142c
+    MT3303  Rv3208
+    MT1887  Rv1839c
+    MT1971  Rv1920
+    MT1173  Rv1140
+    MT0242  Rv0232
+    bioF2   MT0037  Rv0032
+    MT2509  Rv2435c
+    ugpA   MT2901  Rv2835c
+    pdhA   MT2572  Rv2497c
+    MT1712  Rv1674c
+    fadD36   MT1230  Rv1193
+    MT2368  Rv2309c
+    MT3123  Rv3038c
+    hab   habA   MT3163  Rv3078
+    MT0812  Rv0787.1   Rv0787A
+    MT2324  Rv2264c
+    MT1835  Rv1786
+    MT2591  Rv2515c
+    MT3835  Rv3730c
+    MT2098  Rv2038c
+    menE   MT0567  Rv0542c
+    MT0150  Rv0142
+    MT1186  Rv1152
+    MT2862  Rv2792c
+    MT0246  Rv0235c
+    ggtA   ggt-1   MT0797  Rv0773c
+    MT0262  Rv0248c
+    MT3423  Rv3322c
+    MT2952  Rv2884
+    dppB   MT3766  Rv3665c
+    MT2748  Rv2674
+    MT3202  Rv3120
+    MT2607  Rv2531c
+    MT3363  Rv3263
+    MT2084  Rv2025c
+    xylB   MT0754  Rv0729
+    ugpC   MT2898  Rv2832c
+    MT1128  Rv1096
+    spoU   MT3475  Rv3366
+    purT   MT0401  Rv0389
+    omt   MT1187  Rv1153c
+    lpqZ   MT1281  Rv1244
+    MT3923  Rv3814c
+    MT0350  Rv0336
+    pgmA   MT3153  Rv3068c
+    MT0434  Rv0420c
+    fadD2   MT0283  Rv0270
+    MT3790  Rv3688c
+    MT0411  Rv0401
+    fadD23   MT3934  Rv3826
+    MT2574  Rv2499c
+    dppD   MT3764  Rv3663c
+    MT2724  Rv2646
+    MT1180  Rv1147
+    MT3922  Rv3813c
+    MT0938  Rv0913c
+    MT3409  Rv3310
+    echA2   MT0472  Rv0456c
+    sdhB   MT3420  Rv3319
+    plsC   MT2556  Rv2483c
+    MT1663  Rv1627c
+    MT3820  Rv3717
+    ephF   MT0142  Rv0134
+    bisC   MT1487  Rv1442
+    MT2851  Rv2781c
+    MT2029  Rv1977
+    tagA   tag   MT1248  Rv1210
+    fadE33   MT3669  Rv3564
+    glnA4   MT2928  Rv2860c
+    MT1585  Rv1534
+    MT0326  Rv0312
+    MT3438  Rv3334
+    MT0080  Rv0074
+    MT3534  Rv3430c
+    MT3909  Rv3802c
+    MT3537  Rv3431c
+    MT0330  Rv0316
+    MT2360  Rv2303c
+    MT1438  Rv1393c
+    MT0081  Rv0075
+    MT2961  Rv2893
+    MT3791  Rv3689
+    atsD   MT0692  Rv0663
+    xthA   xth   MT0442  Rv0427c
+    MT3720  Rv3618
+    hycD   MT0091  Rv0084
+    MT0073  Rv0067c
+    fadD24   MT1580  Rv1529
+    MT0287  Rv0275c
+    MT3176  Rv3091
+    MT2042  Rv1988
+    ribA1   MT1990  Rv1940
+    MT0535  Rv0514
+    fadD6   MT1244  Rv1206
+    MT2697  Rv2622
+    MT0762  Rv0737
+    fadE16   MT1719  Rv1679
+    rhlE   deaD-2   MT3307  Rv3211
+    mce3R   MT2014  Rv1963c
+    lppZ   MT3086  Rv3006
+    iunH   MT3500  Rv3393
+    MT1152  Rv1120c
+    MT1510  Rv1463
+    mgtE   MT0378  Rv0362
+    echA5   MT0704  Rv0675
+    MT2684  Rv2609c
+    MT3830  Rv3727
+    fadA5   MT3650  Rv3546
+    MT2237  Rv2182c
+    fadD14   MT1088  Rv1058
+    MT0740  Rv0713
+    MT3785  Rv3683
+    glnH   MT0424  Rv0411c
+    MT0824  Rv0804
+    MT0723  Rv0696
+    MT3295  Rv3201c
+    MT1079  Rv1049
+    MT0966  Rv0939
+    sigI   MT1226  Rv1189
+    MT3772  Rv3671c
+    rpfD   MT2458  Rv2389c
+    MT3057  Rv2979c
+    MT1471  Rv1428c
+    proW   MT3864  Rv3757c
+    MT0084  Rv0078
+    treS   MT0134  Rv0126
+    echA4   MT0702  Rv0673
+    MT3110  Rv3026c
+    aph   MT3925.1  Rv3817
+    MT3748  Rv3645
+    MT1725  Rv1685c
+    MT2338  Rv2280
+    MT3296  Rv3202c
+    MT2794  Rv2721c
+    cobA   cobO   MT2915  Rv2849c
+    MT2864  Rv2795c
+    MT3689  Rv3583c
+    PE_PGRS39   MT2404  Rv2340c
+    MT0686  Rv0657c
+    MT1795  Rv1752
+    MT2527.1  Rv2452c
+    MT3586  Rv3482c
+    MT0377  Rv0361
+    fic   MT3743  Rv3641c
+    PE5   MT0298  Rv0285
+    PE14   MT1252  Rv1214c
+    MT1980.2  Rv1930c
+    MT0950  Rv0923c
+    MT3543  Rv3438
+    MT2317  Rv2256c
+    MT0186  Rv0177
+    MT1533.1  Rv1487
+    MT2222  Rv2164c
+    lppQ   MT2406  Rv2341
+    AT103   MT0446  Rv0431
+    MT0767  Rv0741
+    MT2318  Rv2257c
+    PE6   MT0349  Rv0335c
+    MT2495  Rv2422
+    MT3488  Rv3378c
+    MT3150  Rv3064c
+    MT2200  Rv2142c
+    MT0718  Rv0690c
+    MT1090  Rv1060
+    MT2871  Rv2803
+    MT1683  Rv1645c
+    MT0877  Rv0854
+    MT3882  Rv3773c
+    MT2718  Rv2640c
+    PE36   MT4008  Rv3893c
+    MT3779  Rv3678c
+    MT2930  Rv2862c
+    MT1732  Rv1693
+    MT0839  Rv0817c
+    lppI   MT2106  Rv2046
+    hns   MT3967  Rv3852
+    MT1783  Rv1741
+    MT0620  Rv0590.1   Rv0590A
+    lpqK   MT0409  Rv0399c
+    MT1660  Rv1624c
+    MT2749  Rv2675c
+    MT3368  Rv3268
+    MT2677  Rv2602
+    MT0690  Rv0661c
+    MT0934  Rv0910
+    MT0239  Rv0229c
+    MT2736  Rv2660c
+    MT2482  Rv2409c
+    MT0404.1  Rv0394c
+    MT2873  Rv2806
+    MT1114  Rv1083
+    MT3821  Rv3718c
+    PE_PGRS58   MT3696  Rv3590c
+    MT2731  Rv2654c
+    MT2075  Rv2019
+    MT2804  Rv2735c
+    MT1019  Rv0990c
+    MT4035  Rv3916c
+    MT1144  Rv1114
+    MT0237  Rv0227c
+    PE4   MT0169  Rv0160c
+    Rv1042c  Rv1149
+    mce4A   MT3603  Rv3499c
+    MT1782  Rv1740
+    MT2848  Rv2778c
+    MT2876  Rv2809
+    MT2491  Rv2418c
+    lpqX   MT1265  Rv1228
+    MT2593  Rv2516c
+    lprM   MT2022  Rv1970
+    MT1998.1  Rv1948c
+    MT1243  Rv1205
+    MT0289  Rv0277c
+    MT1085  Rv1056
+    MT3753  Rv3651
+    MT0022  Rv0019c
+    MT3323.1  Rv3226c
+    MT0815  Rv0790c
+    MT1169.1  Rv1136
+    MT2566  Rv2491
+    bglS   MT0195  Rv0186
+    MT2024.1  Rv1973
+    MT3947  Rv3839
+    MT3573.8  Rv1577c
+    MT1965  Rv1914c
+    MT0858  Rv0837c
+    MT0651  Rv0623
+    MT1652  Rv1616
+    MT2377  Rv2314c
+    MT1583  Rv1532c
+    MT3289  Rv3196.1   Rv3196A
+    MT3251  Rv3162c
+    MT1762  Rv1721c
+    MT0482  Rv0466
+    MT3595  Rv3491
+    MT2802  Rv2731
+    PPE18   MT1234  Rv1196
+    MT3629  Rv3528c
+    MT2932  Rv2863
+    MT2483  Rv2410c
+    Rv0094c  Rv3467
+    MT1634  Rv1598c
+    MT1944  Rv1894c
+    parE   MT2008  Rv1959c
+    MT2737  Rv2663
+    MT0739  Rv0712
+    MT2459  Rv2390c
+    MT3573.15  Rv1573
+    MT0158  Rv0150c
+    MT0308  Rv0295c
+    MT3068  Rv2990c
+    MT0362  Rv0347
+    MT3878  Rv3770.1   Rv3770A
+    lppF   MT1972  Rv1921c
+    MT3810  Rv3707c
+    MT2195  Rv2137c
+    MT2498  Rv2425c
+    MT0322  Rv0309
+    MT1255  Rv1217c
+    MT3838  Rv3733c
+    MT2830  Rv2760c
+    MT0374  Rv0358
+    MT1167  Rv1134
+    MT3741  Rv3639c
+    MT3252  Rv3163c
+    MT1078  Rv1048c
+    PE33   MT3752  Rv3650
+    MT0355  Rv0340
+    MT2244  Rv2189c
+    MT3624  Rv3524
+    MT0475  Rv0459
+    MT1555.1  Rv1507.1   Rv1507A
+    thiX   MT0838  Rv0816c
+    MT0479  Rv0463
+    MT3860  Rv3753c
+    MT3862  Rv3755c
+    usfY   MT3387  Rv3288c
+    MT2413  Rv2348c
+    lpqG   MT3725  Rv3623
+    MT1973  Rv1922
+    MT0071  Rv0065
+    yrbE2A   MT0616  Rv0587
+    mca   lmbE   MT1113  Rv1082
+    MT3356  Rv3258c
+    MT2800  Rv2728c
+    MT3300  Rv3205c
+    MT3646  Rv3542c
+    MT1035  Rv1006
+    lpqP   MT0700  Rv0671
+    MT1943  Rv1893
+    MT3651  Rv3547
+    MT2803.2  Rv2734
+    MT0693  Rv0665
+    whiB3   MT3525  Rv3416
+    lppT   MT1848  Rv1799
+    MT3715  Rv3612c
+    mce-3   mce3A   MT2018  Rv1966
+    MT4031  Rv3912
+    MT2218  Rv2159c
+    whiB4   MT3783  Rv3681c
+    amiB1   MT3405  Rv3306c
+    MT2177  Rv2117
+    MT1140  Rv1109c
+    MT1525  Rv1478
+    MT2828  Rv2758c
+    MT3877  Rv3770c
+    MT2493  Rv2420c
+    MT0717  Rv0689c
+    MT0065  Rv0059
+    MT1582  Rv1531
+    MT2872  Rv2804c
+    MT1920  Rv1871c
+    MT3808  Rv3705c
+    fadD1   MT1793  Rv1750c
+    MT1477  Rv1433
+    MT1910  Rv1861
+    MT3677  Rv3572
+    MT0773  Rv0749
+    MT0200  Rv0190
+    MT3645  Rv3541c
+    MT0880  Rv0857
+    MT3332  Rv3235
+    MT2365  Rv2307.1   Rv2307A
+    MT3879  Rv3770.2   Rv3770B
+    MT0363  Rv0348
+    MT2314  Rv2253
+    mce4C   MT3601  Rv3497c
+    MT0886  Rv0863
+    MT2241  Rv2186c
+    MT1162  Rv1130
+    MT1003.1  Rv0976c
+    MT0831  Rv0810c
+    idsA2   MT2229  Rv2173
+    MT1843  Rv1794
+    grcC1   MT0588  Rv0562
+    MT1083  Rv1052
+    MT3471  Rv3363c
+    MT0027  Rv0024
+    MT3056  Rv2978c
+    MT2601.2  Rv2526
+    MT2543  Rv2468c
+    MT2792  Rv2719c
+    PE_PGRS38   MT2220  Rv2162c
+    MT2025  Rv1974
+    lppL   MT2196  Rv2138
+    MT3061  Rv2983
+    MT2739  Rv2665
+    MT2365.2  Rv2307.4   Rv2307D
+    MT2887  Rv2820c
+    MT2801.1  Rv2730
+    MT2026  Rv1975
+    MT0066  Rv0060
+    MT0340  Rv0325
+    MT3468  Rv3360
+    MT1280  Rv1242
+    MT2750  Rv2676c
+    lprO   MT0188  Rv0179c
+    MT0820  Rv0799c
+    MT0435  Rv0421c
+    MT1784  Rv1742
+    MT2621  Rv2545
+    MT0787  Rv0762c
+    MT1736  Rv1697
+    MT1247  Rv1209
+    MT2003  Rv1953
+    MT1489  Rv1443c
+    MT3085  Rv3005c
+    papA4   MT1579  Rv1528c
+    MT1293  Rv1254
+    lprN   MT3599  Rv3495c
+    MT2725  Rv2647
+    MT1029  Rv1000c
+    MT2738  Rv2664
+    MT2335  Rv2275
+    arsB2   MT3684  Rv3578
+    MT0763  Rv0738
+    MT2808  Rv2738c
+    MT3972  Rv3857c
+    MT0167  Rv0158
+    MT0193  Rv0184
+    MT2028  Rv1976c
+    fadE15   MT1514  Rv1467c
+    MT0814  Rv0789c
+    MT2785  Rv2712c
+    MT1028  Rv0999
+    MT3271  Rv3180c
+    esxT   MT3549  Rv3444c
+    MT0649  Rv0621
+    MT0404  Rv0393
+    lprL   MT0623  Rv0593
+    MT2822  Rv2752c
+    MT2444  Rv2375
+    MT0219  Rv0209
+    PE_PGRS42   MT2561  Rv2487c
+    lpqY   MT1273  Rv1235
+    MT0934.1  Rv0911
+    MT0324  Rv0311
+    mce1D   MT0181  Rv0172
+    MT1063  Rv1034c
+    MT1150  Rv1118c
+    MT3544  Rv3439c
+    MT2886  Rv2819c
+    TB16.3   MT2240  Rv2185c
+    MT2550  Rv2475c
+    lpqJ   MT0359  Rv0344c
+    MT3774  Rv3673c
+    MT0270.1  Rv0257
+    MT2624  Rv2548
+    MT3393  Rv3294c
+    MT3780  Rv3678.1   Rv3678A
+    MT2606  Rv2530.1   Rv2530A
+    MT3671.1  Rv3566.1   Rv3566A
+    MT1724  Rv1684
+    MT0487  Rv0470.1   Rv0470A
+    MT1364  Rv1322.1   Rv1322A
+    MT0954  Rv0927c
+    purN   MT0983  Rv0956
+    gltA1   gltA-3   MT1163  Rv1131
+    MT0312  Rv0298
+    rimJ   MT1024  Rv0995
+    MT2935  Rv2867c
+    hsdS   MT2831  Rv2761c
+    MT0760  Rv0736
+    MT2891  Rv2824c
+    MT2114  Rv2054
+    MT0226  Rv0216
+    MT0785  Rv0760c
+    MT0575  Rv0550c
+    MT2601  Rv2525c
+    MT1904  Rv1856c
+    moeB1   MT3301  Rv3206c
+    acrA1   MT3498  Rv3391
+    MT0079  Rv0073
+    MT2508  Rv2434c
+    MT3597  Rv3493c
+    cdd   MT3416  Rv3315c
+    MT0789  Rv0765c
+    MT1710  Rv1672c
+    rimI   MT3529  Rv3420c
+    MT1989  Rv1939
+    MT1137  Rv1106c
+    MT3633  Rv3530c
+    subI   sbp   MT2471  Rv2400c
+    MMA3   mmaA3   Rv0643c
+    pmmA   manB-1   MT3355  Rv3257c
+    cydA   MT1659  Rv1623c
+    MT3829  Rv3726
+    mshB   MT1207  Rv1170
+    MT3841  Rv3736
+    ppsD   MT3004  Rv2934
+    mas   mas-2   MT3010  Rv2940c
+    MT2747  Rv2673
+    MT1753.1  Rv1714
+    MT0626  Rv0596c
+    gadB   MT3538  Rv3432c
+    rubB   MT3348  Rv3250c
+    MT2910  Rv2844
+    MT3740  Rv3638
+    cynT   MT3694  Rv3588c
+    MT3975  Rv3860
+    furB   fur-2   MT2428  Rv2359
+    MT3664  Rv3559c
+    cysG   MT2913  Rv2847c
+    pks9   MT1704  Rv1664
+    scpA   MT1750  Rv1709
+    sigL   MT0759  Rv0735
+    MT3493  Rv3385c
+    MT0953  Rv0926c
+    ephB   MT1988  Rv1938
+    pvdS   MT3329  Rv3232c
+    MT0604  Rv0575c
+    MT0572  Rv0547c
+    MT0703  Rv0674
+    udgA   ugdA   MT0337  Rv0322
+    MT1933  Rv1885c
+    MT1115  Rv1084
+    sigE   MT1259  Rv1221
+    MT1177  Rv1144
+    MT3653  Rv3549c
+    esxG   MT0300  Rv0287
+    ethR   MT3970  Rv3855
+    MT0278  Rv0265c
+    PE_PGRS63   Rv3097c
+    dacB   dacB2   MT2979  Rv2911
+    MT3470  Rv3362c
+    oxyS   Rv0117
+    MT0050  Rv0044c
+    MT1556  Rv1508c
+    MT2045.1  Rv1990.1   Rv1990A
+    adhE1   MT0171  Rv0162c
+    rsfB   MT3789  Rv3687c
+    MT1283  Rv1245c
+    pip   MT0862  Rv0840c
+    MT3321  Rv3224
+    MT0869  Rv0846c
+    pks7   MT1701  Rv1661
+    pepA   MT0133  Rv0125
+    MT0945  Rv0919
+    MT2909  Rv2843
+    MT0541  Rv0519c
+    MT2191  Rv2133c
+    MT1102  Rv1072
+    fadB3   MT1754  Rv1715
+    MT2777.1  Rv2704
+    MT1239  Rv1201c
+    MT0715  Rv0687
+    MT2820  Rv2750
+    MT0233  Rv0223c
+    MT2552  Rv2477c
+    purB   MT0801  Rv0777
+    MT3335  Rv3238c
+    dacB1   MT3433  Rv3330
+    MT0141  Rv0133
+    MT2836  Rv2766c
+    MT3170  Rv3085
+    MT1987  Rv1937
+    MT3675  Rv3570c
+    MT2323  Rv2263
+    gca   MT0121  Rv0112
+    MT0157  Rv0149
+    purM   MT0830  Rv0809
+    MT1991  Rv1941
+    kgtP   MT3580  Rv3476c
+    adhD   MT3171  Rv3086
+    MT2835  Rv2765
+    fgd1   fgd   MT0420  Rv0407
+    MT0382  Rv0366c
+    MT3455  MT3955  Rv3348  Rv3844
+    rsbW   MT3386  Rv3287c
+    MT3828  Rv3725
+    TB15.3   MT1672  Rv1636
+    MT2178  Rv2118c
+    MT3323  Rv3225c
+    lipC   MT0230  Rv0220
+    MT1714  Rv1675c
+    MT3672  Rv3567c
+    icc   MT0825  Rv0805
+    MT0281  Rv0268c
+    MT4003  Rv3888c
+    fadB5   MT1963  Rv1912c
+    MT1246  Rv1208
+    MT4039  Rv3920c
+    gnd2   MT1154  Rv1122
+    mycP4   MT3555  Rv3449
+    MT1651  Rv1615
+    MT3469  Rv3361c
+    MT3463  Rv3355c   Rv3346/55c
+    MT3039  Rv2963
+    trcS   tcrS   MT1061  Rv1032c
+    choD   MT3517  Rv3409c
+    MT2202  Rv2143
+    IrpA   Rv3269
+    Rv2954c
+    MT3136  Rv3050c
+    MT2755  Rv2681
+    narK1   narK-4   MT2391  Rv2329c
+    MT3769  Rv3668c
+    echA1   MT0232  Rv0222
+    pflA   MT3225  Rv3138
+    cfp29   MT0819  Rv0798c
+    echA7   MT0999.1  Rv0971c
+    moxR3   MT3253  Rv3164c
+    sugC   MT1276  Rv1238
+    fadD10   MT0108  Rv0099
+    MT0719  Rv0691c
+    MT0261  Rv0247c
+    MT2780  Rv2707
+    MT1118.2  Rv1087.1   Rv1087A
+    MT2463  Rv2393
+    fadD18   MT3615.2  Rv3513c
+    dppC   MT3765  Rv3664c
+    MT2465  Rv2395
+    cobQ2   cobQ-2   MT3816  Rv3713
+    MT0208  Rv0198c
+    tesB2   tesB-2   MT2680  Rv2605c
+    MT1673  Rv1637c
+    MT0343  Rv0328
+    echA13   MT1985  Rv1935c
+    MT0236  Rv0226c
+    MT1134  Rv1102c
+    MT3625  Rv3525c
+    MT1726  Rv1686c
+    ephC   MT1156  Rv1124
+    iscS   MT3109  Rv3025c
+    echA11   MT1174  Rv1141c
+    chaA   MT1642  Rv1607
+    MT1296  Rv1257c
+    MT2319  Rv2258c
+    MT2598  Rv2522c
+    MT3052  Rv2974c
+    accD1   pccB-3   MT2577  Rv2502c
+    MT3459  Rv3351c
+    MT0345  Rv0330c
+    fadE22   MT3147  Rv3061c
+    MT0665  Rv0636
+    ethA   MT3969  Rv3854c
+    MT1254  Rv1216c
+    cydC   MT1656  Rv1620c
+    pca   MT3045  Rv2967c
+    narU   narK-2   MT0280  Rv0267
+    fadD35   MT2580  Rv2505c
+    MT2385  Rv2323c
+    MT1017  Rv0988
+    MT3540  Rv3434c
+    mhpD   MT3640  Rv3536c
+    bluB   MT0319  Rv0306
+    ftsE   MT3186  Rv3102c
+    MT3164  Rv3079c
+    MT3080  Rv3000
+    MT0393  Rv0380c
+    MT3925  Rv3816c
+    pks10   MT1698  Rv1660
+    MT3938  Rv3830c
+    fadD30   MT0417  Rv0404
+    MT2945  Rv2877c
+    MT3913  Rv3806c
+    ltp2   MT3644  Rv3540c
+    MT2814  Rv2743c
+    MT3151  Rv3066
+    MT1773  Rv1732c
+    MT0939  Rv0914c
+    fadA2   MT0257  Rv0243
+    MT0708  Rv0680c
+    MT3825  Rv3722c
+    metC   MT3443  Rv3340
+    MT1264  Rv1226c
+    MT1727  Rv1687c
+    MT3095  Rv3015c
+    MT3936  Rv3828c
+    dppA   MT3767  Rv3666c
+    MT3486  Rv3376
+    fadE18   MT1983  Rv1933c
+    MT3180  Rv3096
+    rpfA   MT0890  Rv0867c
+    glpX   MT1131  Rv1099c
+    MT1091  Rv1061
+    MT3115  Rv3031
+    MT1937  Rv1889c
+    MT0451  Rv0435c
+    MT1893  Rv1845c
+    celA2b   MT1122  Rv1090
+    amiA1   MT3404  Rv3305c
+    pepQ   yqhT   MT2610  Rv2535c
+    fadE23   MT3227  Rv3140
+    MT2816  Rv2745c
+    MT1476  Rv1432
+    cut1   MT1805  Rv1758
+    MT3542.1  Rv3437
+    narK3   narK-1   MT0274  Rv0261c
+    trx-2   trxB1   MT1517  Rv1471
+    MT3778  Rv3677c
+    MT0388  Rv0373c
+    nicT   MT2923  Rv2856
+    MT3815  Rv3712
+    MT2077  Rv2021c
+    MT2119  Rv2059
+    fadE21   MT2859  Rv2789c
+    sdhA   MT3419  Rv3318
+    agpS   MT3190  Rv3107c
+    MT2095  Rv2035
+    MT3737  Rv3635
+    ribF   MT2856  Rv2786c
+    MT3114  Rv3030
+    MT2772  Rv2698
+    dctA   MT2519  Rv2443
+    MT3134  Rv3049c
+    fadD19   MT3616  Rv3515c
+    MT0724  Rv0697
+    MT1257  Rv1219c
+    lipP   MT2538  Rv2463
+    ggtB   ggt-2   MT2464  Rv2394
+    fadE36   MT3868  Rv3761c
+    MT3044  Rv2966c
+    MT1505  Rv1458c
+    rfbE   MT3890  Rv3781
+    ugpE   MT2900  Rv2834c
+    MT1964  Rv1913
+    glgA   MT1250  Rv1212c
+    MT3478  Rv3369
+    MT0832  Rv0811c
+    MT3394  Rv3295
+    MT0816  Rv0791c
+    MT0548  Rv0526
+    thiS   MT0429  Rv0416
+    glnA3   MT1927  Rv1878
+    MT1903  Rv1855c
+    sdhC   MT3417  Rv3316
+    MT2199  Rv2141c
+    MT0683  Rv0654
+    hddA   MT0123  Rv0115
+    fadE19   MT2575  Rv2500c
+    fadE1   MT0139  Rv0131c
+    MT0569  Rv0544c
+    MT3945  Rv3837c
+    MT1227  Rv1190
+    MT1204  Rv1167c
+    MT3460  Rv3352c
+    cbs   MT1108  Rv1077
+    thiL   MT3055  Rv2977c
+    MT0273  Rv0260c
+    Rv1047  Rv3023c  Rv3115
+    MT1272  Rv1234
+    MT2070  Rv2014
+    fadE13   MT1003  Rv0975c
+    echA16   MT2897  Rv2831
+    MT0235  Rv0225
+    MT0252  Rv0238
+    MT2545  Rv2469c
+    MT2005  Rv1956
+    MT3314  Rv3218
+    MT3614  Rv3510c
+    MT0136  Rv0128
+    MT1253  Rv1215c
+    fadD34   MT0040  Rv0035
+    MT4029  Rv3910
+    MT2225  Rv2169c
+    MT2315  Rv2254c
+    MT2219  Rv2161c
+    MT0381  Rv0365c
+    MT0679  Rv0650
+    MT3388  Rv3289c
+    MT2628  Rv2551c
+    MT0861  Rv0839
+    lhr   MT3395  Rv3296
+    MT0688  Rv0659c
+    hsp   MT0265  Rv0251c
+    fadE6   MT0284  Rv0271c
+    moaD   moaD1   MT3194.1  Rv3112
+    MT1161  Rv1129c
+    MT3071  Rv2993c
+    MT0633  Rv0605
+    MT2744  Rv2670c
+    MT0863  Rv0841
+    MT3773  Rv3672c
+    MT3477  Rv3368c
+    fadA6   MT3660  Rv3556c
+    lipE   MT3884  Rv3775
+    bcp   bcp-2   MT2597  Rv2521
+    MT1767  Rv1726
+    MT0534  Rv0513
+    bcpB   bcp-1   MT1643  Rv1608c
+    MT1191  Rv1156
+    cobG   MT2124  Rv2064
+    MT3160  Rv3075c
+    pdhB   MT2571  Rv2496c
+    MT2492  Rv2419c
+    alkB   MT3350  Rv3252c
+    accA3   bccA-3   MT3384  Rv3285
+    fadE24   MT3226  Rv3139
+    MT1821  Rv1771
+    MT1758  Rv1719
+    MT1912  Rv1863c
+    ltp3   MT3623  Rv3523
+    MT1512  Rv1465
+    hspR   MT0368  Rv0353
+    thiO   MT0428  Rv0415
+    MT1242  Rv1204c
+    MT0865  Rv0843
+    pon1   ponA2   MT3784  Rv3682
+    MT1826  Rv1776c
+    mbtA   entE   MT2452  Rv2384
+    fadA3   MT1104  Rv1074c
+    fadE35   MT3904  Rv3797
+    MT1748  Rv1707
+    MT3168  Rv3083
+    pks11   MT1705  Rv1665
+    MT1764  Rv1723
+    MT0315  Rv0302
+    fadE5   MT0258  Rv0244c
+    trxA   trx-1   MT1516  Rv1470
+    cobU   MT0267  Rv0254c
+    sugB   MT1275  Rv1237
+    MT0286  Rv0273c
+    MT1169  Rv1135.1   Rv1135A
+    map-1   mapA   MT0758  Rv0734
+    pqqE   MT0720  Rv0693
+    lpqC   MT3397  Rv3298c
+    dapE   MT1240  Rv1202
+    MT1622  Rv1571
+    pepN   MT2542  Rv2467
+    mgtC   MT1859  Rv1811
+    htrA   MT1261  Rv1223
+    MT1519  Rv1473
+    MT3951  Rv3843c
+    acn   acnA   MT1522  Rv1475c
+    MT2567  Rv2492
+    MT2499  Rv2426c
+    mpg1   manB   MT3364  Rv3264c
+    gshA   MT3807  Rv3704c
+    MT0189  Rv0180c
+    MT0353  Rv0339c
+    fadE4   MT0241  Rv0231
+    ccsA   MT0551  Rv0529
+    MT0539  Rv0518
+    MT1263  Rv1225c
+    proZ   MT3863  Rv3756c
+    MT3826  Rv3723
+    MT3275  Rv3183
+    nrdH   MT3139  Rv3053c
+    MT0977  Rv0950c
+    gabP   MT0544  Rv0522
+    MT3439  Rv3335c
+    MT1814  Rv2015c
+    MT0543  Rv0521
+    MT0051  Rv0045c
+    MT2782  Rv2709
+    MT0152  Rv0144
+    MT0341  Rv0326
+    MT0223  Rv0213c
+    MT1504  Rv1457c
+    MT1686  Rv1648
+    yfdE   MT3372  Rv3272
+    MT2203  Rv2144c
+    MT3351  Rv3253c
+    MT2676  Rv2601.1   Rv2601A
+    MT3318  Rv3221.1   Rv3221A
+    MT3587  Rv3483c
+    MT1441  Rv1397c
+    whiB6   MT3976  Rv3862c
+    cydD   MT1657  Rv1621c
+    MT1129  Rv1097c
+    MT2370.3  Rv2309.1   Rv2309A
+    MT1816  Rv1766
+    MT0773.1  Rv0749.1   Rv0749A
+    MT0085  Rv0078.1   Rv0078A
+    MT3161  Rv3076
+    MT3939  Rv3831
+    MT2234.1  Rv2179c
+    MT2757  Rv2683
+    MT2732  Rv2655c
+    fadE26   MT3608  Rv3504
+    MT1797  Rv1754c
+    MT3467  Rv3359
+    fadE9   MT0776  Rv0752c
+    MT0706.1  Rv0678
+    MT1513  Rv1466
+    baiE   MT0323  Rv0310c
+    TB8.4   MT1211  Rv1174c
+    MT1145  Rv1115
+    MT0769  Rv0743c
+    MT3758  Rv3658c
+    MT1618  Rv1567c
+    MT2773  Rv2699c
+    MT1942  Rv1892
+    MT0707  Rv0679c
+    MT3126  Rv3041c
+    MT3088  Rv3008
+    MT3254  Rv3165c
+    MT3856  Rv3749c
+    yrbE3A   MT2016  Rv1964
+    MT1919  Rv1870c
+    MT0488  Rv0471c
+    MT2889  Rv2822c
+    MT1998  Rv1947
+    MT2549  Rv2474c
+    MT3743.1  Rv3642c
+    PE18   MT1837  Rv1788
+    MT1484  Rv1439c
+    MT2012  Rv1962c
+    MT1521  Rv1474c
+    MT3118  Rv3033
+    MT2218.1  Rv2160c
+    MT3929  Rv3821
+    MT3421  Rv3320c
+    MT3456  Rv3349c
+    lppS   MT2594  Rv2518c
+    MT3763  Rv3662c
+    MT3494.1  Rv3387
+    MT1756  Rv1717
+    MT1811  Rv1762c
+    MT3596  Rv3492c
+    MT2781  Rv2708c
+    MT1958  Rv1907c
+    MT0637  Rv0608
+    MT1065  Rv1035c
+    MT3462  Rv3354
+    MT3573.6  Rv1579c
+    MT2630  Rv2553c
+    MT1941  Rv1891
+    MT0148  Rv0140
+    MT3697  Rv3591c
+    MT1241  Rv1203c
+    MT3354  Rv3256c
+    lprJ   MT1729  Rv1690
+    whiB1   MT3315  Rv3219
+    MT2692  Rv2617c
+    mce4B   MT3602  Rv3498c
+    MT3593  Rv3489
+    MT1720  Rv1680
+    MT0585  Rv0559c
+    MT3573.5  Rv1580c
+    MT1763  Rv1722
+    MT1830  Rv1780
+    MT0035  Rv0031
+    MT2507  Rv2433c
+    mce1B   MT0179  Rv0170
+    MT3809  Rv3706c
+    MT0873  Rv0850
+    MT3328  Rv3231c
+    MT3837  Rv3732
+    MT3573.7  Rv1578c
+    MT2602  Rv2527
+    MT3450  Rv3346c
+    MT3205  Rv3122
+    MT0952  Rv0925c
+    MT0662.1  Rv0634.1   Rv0634A
+    MT1520  Rv1473.1   Rv1473A
+    MT3075  Rv2997
+    entC   MT3311  Rv3215
+    MT1817  Rv1767
+    mce2D   MT0622  Rv0592
+    MT0836  MT3200  Rv0814c  Rv3118
+    accD4   pccB-5   MT3906  Rv3799c
+    mce4F   MT3598  Rv3494c
+    MT1730  Rv1691
+    MT0082  Rv0076c
+    MT3371  Rv3271c
+    MT0643  Rv0613c
+    MT1940  Rv1890c
+    MT2730  Rv2653c
+    MT1645  Rv1610
+    MT2883  Rv2816c
+    MT0194  Rv0185
+    MT3277  Rv3189
+    MT1052  Rv1024
+    MT1668  Rv1632c
+    MT1426  Rv1382
+    TB22.2   MT3121  Rv3036c
+    MT3776  Rv3675
+    lppH   MT3681  Rv3576
+    lppU   MT2854  Rv2784c
+    MT0253  Rv0239
+    metZ   MT0402  Rv0391
+    MT3801  Rv3698
+    MT2439  Rv2370c
+    yrbE1A   MT0176  Rv0167
+    MT0641  Rv0611c
+    MT0571  Rv0546c
+    MT1825  Rv1775
+    MT3288  Rv3196
+    MT1765  Rv1724c
+    MT3977  Rv3863
+    PE31   MT3581  Rv3477
+    MT2522  Rv2446c
+    MT2004  Rv1955
+    MT0213  Rv0203
+    MT0146  Rv0138
+    MT3627  Rv3527
+    MT3159  Rv3074
+    MT3319  Rv3222c
+    MT0628  Rv0598c
+    MT2767  Rv2693c
+    MT0627  Rv0597c
+    MT2596  Rv2520c
+    MT3634  Rv3531c
+    MT1074  Rv1044
+    MT0078  Rv0072
+    kdpE   MT1056  Rv1027c
+    MT1075  Rv1045
+    PE16   MT1474  Rv1430
+    MT2527  Rv2451
+    MT2728  Rv2651c
+    MT0387  Rv0372c
+    MT4020  Rv3902c
+    MT2399  Rv2336
+    MT1664  Rv1628c
+    MT0933  Rv0909
+    yrbE3B   MT2017  Rv1965
+    MT3853  Rv3745c
+    MT0892.1  Rv0870c
+    MT2770  Rv2696c
+    MT2024  Rv1972
+    MT0772  Rv0745
+    MT0408  Rv0398c
+    MT0722  Rv0695
+    MT1287  Rv1249c
+    MT0574  Rv0549c
+    MT2000  Rv1950c
+    lppG   MT1997  Rv1946c
+    MT2764  Rv2690c
+    MT2888  Rv2821c
+    MT1768  Rv1727
+    MT2867.1  Rv2799
+    MT0254  Rv0240
+    MT0844  Rv0822c
+    MT3308  Rv3212
+    PE8   MT1069  Rv1040c
+    MT0646  Rv0617
+    MT0048  Rv0042c
+    MT1711  Rv1673c
+    MT3276  Rv3188
+    esxD   MT4006  Rv3891c
+    MT2233  Rv2177c
+    MT2078  Rv2022c
+    MT1676  Rv1638.1   Rv1638A
+    MT1993  Rv1943c
+    MT0642  Rv0612
+    PE32   MT3724  Rv3622c
+    MT3287  Rv3195
+    MT2093  Rv2033c
+    MT2110  Rv2050
+    MT1791  Rv1748
+    MT2085  Rv2026c
+    fadD16   MT0875  Rv0852
+    PE7   MT0941  Rv0916c
+    fadE8   MT0701  Rv0672
+    MT3120  Rv3035
+    MT3585  Rv3481c
+    MT3880  Rv3771c
+    MT2076  Rv2020c
+    MT0968  Rv0941c
+    PE_PGRS62   MT3920  Rv3812
+    lpqO   MT0632  Rv0604
+    MT3050  Rv2972c
+    MT3961  Rv3847
+    MT2585  Rv2510c
+    MT1792  Rv1749c
+    MT3875  Rv3768
+    MT3524  Rv3415c
+    MT2605  Rv2530c
+    MT3808.1  Rv3705.1   Rv3705A
+    MT2164  Rv2104c
+    MT1586  Rv1535
+    MT3569  Rv3463
+    MT3965  Rv3850
+    MT3152  Rv3067
+    MT0149  Rv0141c
+    MT0465  Rv0449c
+    MT0263  Rv0249c
+    MT1491  Rv1444c
+    MT3750  Rv3647c
+    MT1096  Rv1066
+    papA3   MT1219  Rv1182
+    PE17   MT1684  Rv1646
+    lpqN   MT0611  Rv0583c
+    MT2832  Rv2762c
+    MT4022  Rv3903c
+    MT2378  Rv2315c
+    MT1225  Rv1188
+    MT0320  Rv0307c
+    MT0024  Rv0021c
+    lppR   MT2475  Rv2403c
+    MT0288  Rv0276
+    MT0828  Rv0807
+    mce3D   MT2021  Rv1969
+    fadE31   MT3667  Rv3562
+    MT2827  Rv2757c
+    MT2173  Rv2113
+    MT3592  Rv3488
+    hsdS.1   MT2825  Rv2755c
+    MT1563  Rv1513
+    MT3131  Rv3046c
+    MT2138  Rv2077.1   Rv2077A
+    MT4025  Rv3906c
+    MT3799  Rv3697c
+    MT0396  Rv0383c
+    MT1158  Rv1126c
+    MT0640  Rv0610c
+    MT0480  Rv0464c
+    MT3966  Rv3851
+    MT2884  Rv2817c
+    MT3183  Rv3099c
+    MT1231  Rv1194c
+    MT1534  Rv1489
+    PE20   MT1855  Rv1806
+    MT3924  Rv3815c
+    MT3122  Rv3037c
+    MT2568  Rv2493
+    PE22   MT2166  Rv2107
+    MT2179  Rv2119
+    PE12   MT1209  Rv1172c
+    MT1677  Rv1639c
+    MT0949  Rv0922
+    MT3132  Rv3047c
+    TB18.5   MT0173  Rv0164
+    MT1761  Rv1720c
+    MT3176.1  Rv3092c
+    MT0554  Rv0531
+    MT3257  Rv3168
+    MT1928  Rv1879
+    mce3B   MT2019  Rv1967
+    MT0335  Rv0320
+    MT2590  Rv2514c
+    MT2895.1  Rv2828c
+    MT1269  Rv1231c
+    MT0271  Rv0258c
+    MT3472  Rv3364c
+    lpqA   MT3096  Rv3016
+    MT3926  Rv3818
+    MT0143  Rv0135c
+    MT0562  Rv0537c
+    MT2774  Rv2700
+    MT4014  Rv3898c
+    MT1143.1  Rv1113
+    MT1420  Rv1376
+    MT2696  Rv2621c
+    MT0714  Rv0686
+    MT2906  Rv2840c
+    MT0685  Rv0656c
+    MT1523  Rv1476
+    MT3261  Rv3172c
+    MT3804  Rv3701c
+    MT1994  Rv1944c
+    MT1655  Rv1619
+    MT0327  Rv0313
+    MT1547  Rv1498.1   Rv1498A
+    MT1535  Rv1489.1   Rv1489A
+    MT1148  Rv1116.1   Rv1116A
+    Rv0385
+    mmaA4   Rv0642c
+    Rv0051
+    mmpL13a   Rv1145
+    Rv3526
+    Rv0627
+    Rv1247c
+    Rv2478c
+    Rv2024c
+    Rv3239c
+    Rv0110
+    ufaA1   Rv0447c
+    Rv1751
+    Rv2415c
+    yrbE4A   Rv3501c
+    Rv0204c
+    fabD2   Rv0649
+    PE_PGRS18   Rv0980c
+    PE9   Rv1088
+    PE10   Rv1089
+    PE_PGRS30   Rv1651c
+    Rv0958
+    Rv2432c
+    Rv1718
+    Rv0698
+    Rv1036c
+    Rv3435c
+    Rv1888c
+    Rv0543c
+    Rv1435c
+    Rv0333
+    dxs2   Rv3379c
+    Rv2016
+    Rv2049c
+    Rv3519
+    Rv0582
+    Rv0907
+    grcC2   Rv0989c
+    Rv0454
+    Rv1004c
+    Rv3197
+    Rv3751
+    Rv3167c
+    echA19   Rv3516
+    Rv0565c
+    Rv0827c
+    cut4   Rv3452
+    Rv3644c
+    Rv3631
+    Rv0517
+    dnaQ   Rv3711c
+    rne   Rv2444c
+    ctpH   Rv0425c
+    Rv0228
+    Rv0143c
+    Rv3103c
+    Rv3209
+    Rv2616
+    Rv0349
+    Rv2689c
+    Rv1171
+    Rv1186c
+    Rv3027c
+    Rv1073
+    Rv3587c
+    Rv1919c
+    Rv1232c
+    Rv0264c
+    Rv1957
+    moaB1   Rv3110
+    mesT   Rv3176c
+    lipI   Rv1400c
+    Rv1928c
+    qor   Rv1454c
+    Rv1050
+    pks12   Rv2048c
+    mbtE   Rv2380c
+    ppsC   Rv2933
+    Rv2943.1   Rv2943A
+    Rv0784
+    ribD   Rv2671
+    Rv1647
+    Rv1949c
+    Rv0424c
+    Rv0664
+    Rv0122
+    Rv3611
+    Rv1137c
+    Rv3311
+    Rv1069c
+    Rv3694c
+    Rv0792c
+    pks16   Rv1013
+    Rv1774
+    Rv3684
+    lpqD   Rv3390
+    Rv1477
+    Rv2812
+    fadE28   Rv3544c
+    Rv0653c
+    Rv0359
+    Rv1810
+    Rv3182
+    Rv0446c
+    Rv1716
+    Rv2818c
+    Rv0396
+    Rv0622
+    PE_PGRS11   Rv0754
+    PE_PGRS19   Rv1067c
+    PE_PGRS21   Rv1087
+    Rv1504c
+    echA18.1   Rv3374
+    nrp   Rv0101
+    Rv2830c
+    Rv3502c
+    pepD   Rv0983
+    mycP3   Rv0291
+    Rv3114
+    opcA   Rv1446c
+    Rv3833
+    Rv2991
+    Rv0218
+    parA   Rv3918c
+    Rv2661c
+    rocD2   Rv2321c
+    Rv2650c
+    Rv2668
+    Rv2805
+    Rv0525
+    Rv1154c
+    Rv0332
+    Rv0175
+    Rv1874
+    Rv0666
+    Rv2128
+    Rv2749
+    Rv0829
+    mmuM   Rv2458
+    Rv3805c
+    pbpB   Rv2163c
+    pnp   Rv0535
+    Rv1683
+    Rv2801c
+    fgd2   Rv0132c
+    fadE2   Rv0154c
+    fadD3   Rv3561
+    fadE32   Rv3563
+    Rv2507
+    Rv0356c
+    Rv0523c
+    Rv0176
+    Rv0599c
+    Rv2494
+    Rv2517c
+    Rv3304
+    Rv2036
+    Rv0750
+    Rv0862c
+    Rv3703c
+    Rv2401
+    Rv1669
+    Rv0430
+    mce1A   Rv0169
+    PE_PGRS15   Rv0872c
+    PE_PGRS28   Rv1452c
+    PE_PGRS29   Rv1468c
+    PE_PGRS37   Rv2126c
+    PE_PGRS43   Rv2490c
+    PE_PGRS50   Rv3345c
+    PE_PGRS61   Rv3653
+    epiA   Rv1512
+    Rv0585c
+    Rv0797
+    corA   Rv1239c
+    moaB2   Rv0984
+    serB2   Rv3042c
+    Rv3720
+    sppA   Rv0724
+    Rv2944
+    Rv1251c
+    Rv3714c
+    fdxB   Rv3554
+    Rv0012
+    Rv1515c
+    hycE   Rv0087
+    Rv0426c
+    Rv0996
+    Rv1575
+    Rv0192
+    Rv2961
+    Rv3604c
+    Rv1179c
+    Rv1246c
+    Rv3521
+    Rv0387c
+    Rv3337
+    Rv3249c
+    Rv3377c
+    lppM   Rv2171
+    Rv0473
+    Rv3737
+    Rv3765c
+    Rv0992c
+    Rv3124
+    Rv0662c
+    fecB   Rv3044
+    Rv3700c
+    pks15   Rv2947c
+    Rv2508c
+    Rv2473
+    Rv3190c
+    Rv3333c
+    Rv1075c
+    Rv1671
+    Rv1804c
+    Rv3760
+    Rv1233c
+    Rv2061c
+    Rv3553
+    Rv2546
+    Rv0395
+    Rv0269c
+    celA2a   Rv1089.1   Rv1089A
+    Rv1706.1   Rv1706A
+    PE_PGRS40   Rv2371
+    Rv2737.1   Rv2737A
+    Rv0492.1   Rv0492A
+    Rv3224.1   Rv3224A
+    Rv3395.1   Rv3395A
+    celA1   Rv0062
+    gnd1   Rv1844c
+    ptrBb   Rv0782
+    Rv3777
+    Rv0603
+    Rv2529
+    Rv0793
+    fadB   Rv0860
+    gpm2   Rv3214
+    Rv1290.1   Rv1290A
+    moxR1   Rv1479
+    PE_PGRS31   Rv1768
+    Rv1888.1   Rv1888A
+    Rv2160.1   Rv2160A
+    PE26   Rv2519
+    Rv0779c
+    Rv0775
+    Rv2402
+    Rv1867
+    Rv3453
+    Rv1585c
+    Rv1434
+    Rv1725c
+    Rv1929c
+    Rv3861
+    Rv0540
+    lppY   Rv2999
+    Rv1103c
+    Rv2053c
+    proX   Rv3759c
+    Rv1667c
+    idsB   Rv3383c
+    fadE20   Rv2724c
+    hsdM   Rv2756c
+    Rv3166c
+    Rv0111
+    Rv0681
+    proV   Rv3758c
+    Rv2506
+    Rv1903
+    hpx   Rv3171c
+    Rv1057
+    Rv2260
+    Rv3520c
+    Rv0576
+    atsB   Rv3299c
+    Rv3055
+    Rv2365c
+    Rv2360c
+    Rv3254
+    Rv2146c
+    narH   Rv1162
+    Rv1132
+    Rv0324
+    Rv1459c
+    Rv2018
+    Rv0368c
+    Rv0579
+    Rv0987
+    Rv2387
+    Rv2437
+    PPE6   Rv0305c
+    Rv0318c
+    PE_PGRS7   Rv0578c
+    PE_PGRS51   Rv3367
+    Rv0763c
+    ugpB   Rv2833c
+    Rv2454c
+    nirB   Rv0252
+    Rv3728
+    mbtF   Rv2379c
+    lipF   Rv3487c
+    Rv3548c
+    Rv3233c
+    Rv3242c
+    mbtJ   Rv2385
+    Rv1460
+    Rv1517
+    PE_PGRS25   Rv1396c
+    Rv0660c
+    Rv2706c
+    Rv0607
+    Rv2542
+    Rv2823c
+    Rv2466c
+    Rv3040c
+    Rv0979c
+    Rv2666
+    sigJ   Rv3328c
+    pks3   Rv1180
+    whiB2   Rv3260c
+    Rv0386
+    fadA   Rv0859
+    impA   Rv1604
+    Rv3160c
+    Rv3312c
+    Rv3058c
+    nadR   Rv0212c
+    Rv1211
+    Rv0360c
+    Rv3479
+    narI   Rv1164
+    Rv1119c
+    Rv0323c
+    Rv1184c
+    Rv3192
+    Rv3259
+    Rv0201c
+    Rv3686c
+    Rv3735
+    Rv2827c
+    Rv2975c
+    Rv2960c
+    Rv2337c
+    Rv1951c
+    PE_PGRS1   Rv0109
+    Rv0812
+    cysK2   Rv0848
+    PE_PGRS22   Rv1091
+    PE13   Rv1195
+    PE_PGRS5   Rv0297
+    Rv2998.1   Rv2998A
+    Rv1404
+    Rv2424c
+    Rv2865
+    Rv0581
+    pabB   Rv1005c
+    Rv0688
+    rbsK   Rv2436
+    Rv1931c
+    Rv2787
+    pdhC   Rv2495c
+    Rv3626c
+    Rv1873
+    Rv0443
+    Rv0748
+    Rv3468c
+    Rv1041c
+    Rv3769
+    phoR   Rv0758
+    Rv0699
+    pntAb   Rv0156
+    Rv0912
+    mce1F   Rv0174
+    Rv2811
+    Rv1371
+    Rv3643
+    Rv1769
+    Rv1866
+    Rv3217c
+    Rv2767c
+    Rv0381c
+    Rv3655c
+    Rv1046c
+    lpqF   Rv3593
+    bpoA   Rv3473c
+    Rv3627c
+    Rv1586c
+    Rv0127
+    Rv3034c
+    Rv3537
+    lipD   Rv1923
+    fadD7   Rv0119
+    aldC   Rv2858c
+    Rv1178
+    fadD32   Rv3801c
+    lipT   Rv2045c
+    Rv3899c
+    Rv0997
+    Rv2513
+    Rv2618
+    Rv3123
+    Rv1778c
+    Rv1100
+    lpqS   Rv0847
+    lprC   Rv1275
+    Rv2808
+    Rv2414c
+    Rv1377c
+    Rv3054c
+    Rv2980
+    Rv1927
+    Rv0207c
+    PPE34   Rv1917c
+    PE27   Rv2769c
+    PPE52   Rv3144c
+    PE_PGRS49   Rv3344c
+    PPE55   Rv3347c
+    Rv3784
+    Rv2541
+    Rv3555c
+    Rv3603c
+    Rv0828c
+    Rv2747
+    Rv3194c
+    Rv0148
+    galE1   Rv3634c
+    PE1   Rv0151c
+    galTa   Rv0618
+    galTb   Rv0619
+    PE19   Rv1791
+    Rv2331.1   Rv2331A
+    cut5a   Rv3724.1   Rv3724A
+    Rv0786c
+    Rv0756c
+    Rv2829c
+    Rv1730c
+    Rv3278c
+    Rv1772
+    Rv3897c
+    tesB1   Rv1618
+    Rv3845
+    Rv0541c
+    Rv2120c
+    Rv2023c
+    Rv0740
+    Rv0161
+    Rv1374c
+    Rv3654c
+    Rv3657c
+    Rv3748
+    accD2   Rv0974c
+    tatD   Rv1008
+    Rv1191
+    Rv2037c
+    Rv0077c
+    Rv0452
+    Rv3649
+    moeX   Rv1681
+    Rv1682
+    fadE7   Rv0400c
+    cysE   Rv2335
+    Rv0147
+    Rv3098c
+    esxU   Rv3445c
+    Rv3605c
+    mhpE   Rv3469c
+    Rv0556
+    Rv1597
+    rpfC   Rv1884c
+    Rv3178
+    Rv2183c
+    Rv0448c
+    Rv0826
+    Rv0836c
+    Rv0856
+    Rv2807
+    Rv2536
+    ureD   Rv1853
+    Rv2342
+    Rv1961
+    Rv3267
+    PPE56   Rv3350c
+    PPE60   Rv3478
+    PE_PGRS57   Rv3514
+    mmpL13b   Rv1146
+    Rv2866
+    Rv3669
+    lipJ   Rv1900c
+    mcr   Rv1143
+    Rv3007c
+    Rv2547
+    Rv2449c
+    pks6   Rv0405
+    Rv3353c
+    Rv0029
+    TB39.8   Rv0020c
+    ptrBa   Rv0781
+    phoP   Rv0757
+    Rv0785
+    Rv3796
+    Rv2405
+    Rv2532c
+    Rv1883c
+    Rv2798c
+    Rv3454
+    Rv3836
+    Rv1227c
+    rpfE   Rv2450c
+    Rv3719
+    aspB   Rv3565
+    Rv3329
+    Rv0187
+    Rv2864c
+    Rv0195
+    Rv1747
+    Rv1218c
+    fadD29   Rv2950c
+    fadD31   Rv1925
+    Rv3575c
+    Rv0918
+    Rv3486
+    Rv0538
+    Rv0121c
+    Rv1887
+    Rv0614
+    Rv2729c
+    Rv1176c
+    Rv1062
+    Rv2184c
+    Rv0116c
+    Rv0250c
+    Rv3277
+    PE_PGRS16   Rv0977
+    PE_PGRS23   Rv1243c
+    PPE39   Rv2353c
+    Rv2438.1   Rv2438A
+    Rv2614.1   Rv2614A
+    PE34   Rv3746c
+    Rv0296c
+    secE2   Rv0379
+    Rv0456.1   Rv0456A
+    PE_PGRS48   Rv2853
+    Rv3077
+    PE_PGRS56   Rv3512
+    Rv3207c
+    Rv0293c
+    Rv3327
+    Rv3485c
+    lipN   Rv2970c
+    lipW   Rv0217c
+    rubA   Rv3251c
+    Rv0516c
+    tsnR   Rv1644
+    uspC   Rv2318
+    Rv1505c
+    Rv2662
+    Rv0397
+    Rv3613c
+    Rv3637
+    Rv2740
+    Rv2732c
+    Rv3693
+    Rv2060
+    Rv2489c
+    Rv0246
+    Rv3241c
+    Rv3177
+    mce3C   Rv1968
+    Rv3762c
+    Rv3137
+    Rv1019
+    fadE34   Rv3573c
+    Rv3574
+    lipG   Rv0646c
+    Rv2854
+    narJ   Rv1163
+    glpQ2   Rv0317c
+    Rv0615
+    Rv3822
+    Rv2777c
+    Rv0199
+    Rv0455c
+    Rv0461
+    Rv1805c
+    Rv3741c
+    Rv2413c
+    Rv3142c
+    Rv0272c
+    lpqU   Rv1022
+    PE_PGRS2   Rv0124
+    PE_PGRS14   Rv0834c
+    PE21   Rv2099c
+    TB9.4   Rv3208.1   Rv3208A
+    mycP2   Rv3886c
+    ilvX   Rv3509c
+    Rv0315
+    fadH   Rv1175c
+    Rv2455c
+    Rv1155
+    fas   Rv2524c
+    Rv0052
+    Rv1482c
+    Rv2619c
+    Rv1576c
+    Rv0801
+    Rv2859c
+    Rv2255c
+    Rv0061
+    Rv0197
+    Rv0367c
+    Rv3656c
+    Rv3702c
+    aceAa   Rv1915
+    Rv2825c
+    Rv1587c
+    helZ   Rv2101
+    Rv1582c
+    Rv3300c
+    lprK   Rv0173
+    Rv0338c
+    cysW   Rv2398c
+    gltB   Rv3859c
+    Rv2174
+    Rv2739c
+    Rv1139c
+    Rv0658c
+    Rv1744c
+    Rv1453
+    Rv2705c
+    Rv0616c
+    Rv0515
+    Rv1456c
+    Rv3013
+    Rv3169
+    Rv2102
+    Rv0369c
+    Rv0460
+    Rv0831c
+    lpqQ   Rv0835
+    Rv1978
+    Rv3690
+    Rv3695
+    Rv2826c
+    Rv3072c
+    Rv1025
+    Rv0724.1   Rv0724A
+    PE_PGRS17   Rv0978c
+    Rv1503c
+    Rv2307.2   Rv2307B
+    PE_PGRS59   Rv3595c
+    PPE41   Rv2430c
+    gmdA   Rv1511
+    Rv0390
+    sugI   Rv3331
+    fadD15   Rv2187
+    Rv0457c
+    lipU   Rv1076
+    mbtD   Rv2381c
+    gdh   Rv2476c
+    PE2   Rv0152c
+    mce2A   Rv0589
+    Rv0609.1   Rv0609A
+    PE_PGRS27   Rv1450c
+    Rv1765.1   Rv1765A
+    PPE31   Rv1807
+    Rv2219.1   Rv2219A
+    Rv2306.1   Rv2306A
+    PE_PGRS47   Rv2741
+    rocD1   Rv2322c
+    Rv2652c
+    Rv1506c
+    uspA   Rv2316
+    Rv1958c
+    Rv0314c
+    mce2B   Rv0590
+    Rv1952
+    Rv3909
+    Rv2369c
+    Rv1125
+    Rv2998
+    Rv1765c
+    mce2C   Rv0591
+    Rv2810c
+    Rv2791c
+    Rv1104
+    Rv3060c
+    Rv0194
+    cycA   Rv1704c
+    Rv2989
+    nagA   Rv3332
+    mmsA   Rv0753c
+    Rv0818
+    ligC   Rv3731
+    Rv3744
+    Rv3640c
+    lpqR   Rv0838
+    dinF   Rv2836c
+    Rv0991c
+    Rv1635c
+    cpsA   Rv3484
+    Rv0552
+    Rv1116
+    Rv0163
+    Rv0595c
+    yrbE2B   Rv0588
+    Rv3819
+    Rv2722
+    Rv2114
+    Rv1455
+    Rv3081
+    cobN   Rv2062c
+    Rv2103c
+    Rv3517
+    Rv2680
+    Rv2797c
+    lppV   Rv2796c
+    atsA   Rv0711
+    Rv3071
+    Rv0412c
+    hemD   Rv0511
+    PE27A   Rv3018.1   Rv3018A
+    Rv3224.2   Rv3224B
+    Rv0300
+    Rv2129c
+    aroG   Rv2178c
+    Rv0439c
+    Rv0851c
+    Rv3894c
+    Rv0998
+    Rv3204
+    ppdK   Rv1127c
+    pks8   Rv1662
+    Rv2802c
+    esxS   Rv3020c
+    Rv0787
+    Rv2642
+    Rv3599c
+    Rv3636
+    Rv0669c
+    Rv0376c
+    Rv0378
+    echA18   Rv3373
+    Rv1105
+    Rv1668c
+    Rv3764c
+    Rv1516c
+    Rv2034
+    Rv2180c
+    fadD17   Rv3506
+    mycP1   Rv3883c
+    Rv1566c
+    Rv2794c
+    Rv0375c
+    Rv0406c
+    Rv0944
+    mbtC   Rv2382c
+    Rv0259c
+    Rv3901c
+    Rv3090
+    Rv3446c
+    Rv3471c
+    Rv1581c
+    Rv1770
+    Rv0299
+    Rv1906c
+    Rv2969c
+    Rv3691
+    Rv1864c
+    Rv1924c
+    Rv3840
+    Rv0236c
+    Rv3577
+    Rv0165c
+    Rv0755.1   Rv0755A
+    PE_PGRS12   Rv0832
+    Rv1508.1   Rv1508A
+    Rv3811
+    PPE8   Rv0355c
+    PPE9   Rv0388c
+    whiB7   Rv3197.1   Rv3197A
+    moaX   Rv3323c
+    Rv3538
+    PPE64   Rv3558
+    PE_PGRS60   Rv3652
+    Rv3093c
+    lipO   Rv1426c
+    Rv1895
+    Rv0068
+    Rv0842
+    Rv2132
+    Rv2775
+    pks1   Rv2946c
+    ilvB2   Rv3470c
+    mmaA2   Rv0644c
+    umaA   Rv0469
+    whiB5   Rv0022c
+    Rv0047c
+    Rv1358
+    oplA   Rv0266c
+    Rv1053c
+    Rv2251
+    Rv2262c
+    Rv1111c
+    Rv1054
+    sigM   Rv3911
+    Rv0071
+    Rv1703c
+    Rv2779c
+    Rv3175
+    Rv2017
+    ppm1   Rv2051c
+    Rv0082
+    Rv3629c
+    bpoB   Rv1123c
+    Rv2488c
+    mce3F   Rv1971
+    Rv2672
+    Rv0263c
+    fadE17   Rv1934c
+    Rv1021
+    Rv1523
+    Rv3108
+    Rv3440c
+    Rv0345
+    Rv1157c
+    Rv1429
+    Rv2694c
+    Rv1081c
+    Rv2172c
+    Rv0580c
+    Rv0825c
+    Rv0845
+    Rv1676
+    Rv1378c
+    Rv0692
+    Rv0633c
+    Rv0192.1   Rv0192A
+    PE_PGRS13   Rv0833
+    kdpF   Rv1028.1   Rv1028A
+    PE11   Rv1169c
+    PE_PGRS32   Rv1803c
+    Rv2306.2   Rv2306B
+    Rv2401.1   Rv2401A
+    PPE43   Rv2768c
+    PE_PGRS6   Rv0532
+    PE_PGRS52   Rv3388
+    PE_PGRS55   Rv3511
+    Rv2013
+    fadD9   Rv2590
+    Rv0530
+    Rv0648
+    pks4   Rv1181
+    tyrA   Rv3754
+    Rv3213c
+    Rv1904
+    Rv1059
+    Rv2175c
+    PE3   Rv0159c
+    PE_PGRS9   Rv0746
+    PPE26   Rv1789
+    PPE27   Rv1790
+    PPE67   Rv3739c
+    Rv1499
+    Rv1817
+    Rv2566
+    Rv3779
+    mihF   Rv1388
+    Rv0725c
+    Rv3281
+    Rv1012
+    Rv1158c
+    Rv1584c
+    Rv0606
+    Rv1572c
+    Rv1773c
+    ercc3   Rv0861c
+    lipV   Rv3203
+    fadD5   Rv0166
+    aglA   Rv2471
+    Rv2039c
+    Rv0567
+    Rv1678
+    Rv1779c
+    Rv0183
+    Rv3094c
+    Rv3113
+    ltp4   Rv3522
+    Rv2837c
+    lpqL   Rv0418
+    fadE3   Rv0215c
+    Rv3896c
+    Rv3104c
+    Rv0528
+    Rv1593c
+    Rv1431
+    Rv2125
+    Rv2742c
+    Rv2774c
+    Rv3384c
+    Rv1241
+    Rv2472
+    Rv0274
+    Rv1670
+    Rv1230c
+    Rv0584
+    Rv1942c
+    Rv0428c
+    PE_PGRS53   Rv3507
+    hflX   Rv2725c
+    pntAa   Rv0155
+    pks5   Rv1527c
+    nanT   Rv1902c
+    Rv2776c
+    Rv0744c
+    rocE   Rv2320c
+    lipL   Rv1497
+    Rv3776
+    ponA1   Rv0050
+    Rv2549c
+    yrbE1B   Rv0168
+    Rv0210
+    Rv0193c
+    Rv3747
+    Rv2406c
+    Rv3832c
+    aceAb   Rv1916
+    mce1C   Rv0171
+    ltp1   Rv2790c
+    Rv1055
+    Rv2481c
+    nirD   Rv0253
+    lppE   Rv1881c
+    mce2F   Rv0594
+    mce4D   Rv3496c
+    fadE29   Rv3543c
+    Rv0331
+    Rv3827c
+    sdhD   Rv3317
+    Rv3699
+    Rv3900c
+    galU   Rv0993
+    Rv3243c
+    Rv1574
+    Rv2771c
+    Rv3394c
+    Rv3179
+    Rv3338
+    Rv2044c
+    Rv2052c
+    Rv0108c
+    Rv3766
+    Rv1728c
+    fucA   Rv0727c
+    Rv2955c
+    Rv0434
+    PE_PGRS4   Rv0279c
+    Rv1222
+    PE_PGRS26   Rv1441c
+    PPE35   Rv1918c
+    Rv2250.1   Rv2250A
+    PE_PGRS41   Rv2396
+    PE24   Rv2408
+    PE_PGRS45   Rv2615c
+    cut5b   Rv3724.2   Rv3724B
+    PPE5   Rv0304c
+    PPE7   Rv0354c
+    PE29   Rv3022.1   Rv3022A
+    PPE53   Rv3159c
+Error: IEP+P violated:
+UniProt	UniProt:A0QWG5	MSMEG_2934		GO:0008415	PMID:12851411	IEP		F			protein	organism:246196	20100331	ralf@ark.in-berlin.de

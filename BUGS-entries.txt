@@ -1,0 +1,6 @@
+Rv1334: misses zinc ion binding
+        wrong cysteine-type carboxypeptidase activity, should be metalloexopeptidase activity
+
+Rv2131c: GO:50427  3'-phosphoadenosine 5'-phosphosulfate metabolic process IMP PMID 18454554
+
+

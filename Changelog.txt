@@ -1,0 +1,131 @@
+2011: Release of version 18
+Changes:
+========
++ additional process annotation from enzymatic activity for 13 papers
+* propagate ann. to its leaves in papers PMID 
+
+2011-Sep-18: Release of version 17
+Changes:
+========
++ added missing papers 10970762, 15749014, 16213523, 16472764, 17604051, 18220983, 18437316, 18479146, 19027363
++ added and corrected process annotations in dTDP-rhamnose biosynthesis
+
+2011-Aug-28: Release of version 16
+Changes:
+========
++ additional process annotation from enzymatic activity for over fifty proteins
++ additional annotations to PMID 16239227, 16354663, 16416128, 18089574
++ added missing papers 10879535, 18434308
+= fixed errors in annotation of PMID: 8959151, 16263329, 19671666, 19737009, 19846551
+= changed five occurrences of obsolete "acyltransferase activity"
+
+2011-Jul-26: Release of version 15
+Changes:
+========
++ additional process annotation from enzymatic activity for over fifty proteins
++ added missing papers PMID 19688379
+= fixed errors in annotation of PMID: 16461464, 16925585, 19114484, 19225166, 19516256, 19760663
+- removed Rv1086 as synonym from two dozen annotations
+
+2011-Jul-14: Release of version 14
+Changes:
+========
++ additional missing papers: PMID 19737561, 19933331, 20023019, 20025669, 20026069, 20027301, 20028978, 20031487, 20035876, 20036253, 20633027, 20688819, 20844580, 21045009, 21048946, 21118978
+= propagate from GO term to its leaves, changed ann. for papers PMID 19928961
+
+2011-Jun-18: Release of version 13
+Changes:
+========
++ updated with about 100 new papers from the year 2009 (PMID 19x)
++ additional process annotation from enzymatic activity for PMID: 15896710
++ additional missing papers: PMID 15322293, 16000729, 16291675, 16880544, 17264217, 17496888, 18031290, 18334639
+= changed obsolete GO annotation in PMID 12939267, 12949087, 15159542
+= more changes to obsolete GO entries (transcription, siderophore)
+= propagate from GO:0016763 to its leaves, changed ann. for papers PMID 11677227, 14507364, 15878857, 18174142, 18424526
+
+2011-Jun-03: Release of version 12
+Changes:
+========
++ additional process annotation from enzymatic activity for PMID 7961427, 9620974, 10542185, 10658666, 11073931, 12182836, 12393860, 14687575, 15019741, 15060088, 15065882, 15294302, 15708675, 16212940, 16239726, 16262797, 16436437, 16978361, 16984394, 17126561, 17921290, 18803397, 19028890
++ additional papers: PMID 9862811, 16938377, 17679145, 19194014, 19307712, 19364491, 19430702, 19543810, 19545132, 19923721
+
+2011-Mar-26: Release of version 11
+Changes:
+========
++ additional process annotation from enzymatic activity for PMID 1587598, 9098082, 10527947, 11267762, 12511575, 15471546, 15668250, 15752328, 15838030, 16487066, 16907737, 17567578, 18799456
++ other additional annotations for PMID 10768986, 12637582, 16684501, 17316682, 18560150, 18815415, 18952181
++ additional papers: PMID 9661660, 11911456, 12962488, 15683232, 16111681, 16199181, 17181146, 17577419, 17761677, 18054225, 18269631, 18304579, 18323599, 18627175, 18647358, 18778048 
+
+2011-Mar-09: Release of version 10
+Changes:
+========
++ additional papers: PMID 7910936, 8440471, 10521660, 11302803, 19680450, 20929442
+
+2011-Jan-24: Release of version 9
+Changes:
+========
+= fixed annotations for PMID 16452418
++ additional annotations for PMID 15471546
+= fixed script bug that gave KatG,RpoB,Tra9 an obsolete UniProt:ID
+
+2011-Jan-17: Release of version 8
+Changes:
+========
+= two UniProt: ids slipped through
++ additional papers: 9382887, 11052913, 16814781, 12540583, 11959913, 12741834, 11001062
++ additional annotations for PMID 11799204, 14871480
+= fixed annotations for PMID 16884737
+
+2011-Jan-01: Release of version 7
+Changes:
+========
+= changed obsolete GO:0000317, GO:0008954
++ additional annotations for PMID 12819062, 16210318
++ additional papers: PMID 15583379, 20808924
+= wrong taxon in PMID 9525903
+= propagate from GO:0071766 to its leaves, changed ann. for papers PMID 9525903, 9694888, 11677227, 12207710, 12730158, 12819062, 12855735, 15715645, 16210318, 16595677, 17360388, 17468241
+
+2010-Nov-11: Release of version 6
+Changes:
+========
+=  changed IMP to IDA in PMID: 10603413, 19016878
+=  corrected a wrong GOID in PMID: 10580156, 19121323, 10816587
++  additional annotations for PMID 16461464, 9831524, 16923875, 10348862, 10572116, 10531215, 10766746, 10869082, 10816587, 10986245, 11006082, 11181364, 11170413
++  additional papers: PMID 1329726
+-  redundant binding ann. on Rv2794c
+
+2010-Sep-10: Release of version 5
+Changes:
+========
+o  we now accept MT keys from the Phenote input
+=  remove two non-PMID annotations, replace with newer
+=  replace a dozen stale UniProt: with UniProtKB:
+
+2010-Sep-09: Release of version 4
+Changes:
+========
+o  change 'UniProt' to 'UniProtKB' in col.1 and 8, remove it from col.2
+
+2010-Sep-03: Release of version 3
+Changes:
+========
+o  remove duplicates (87)
+o  rename filename to gene_association.MTBBASE
+=  corrected two F/P errors
+
+2010-Aug-30: Release of version 2
+Changes from version 1 to 2:
+============================
+o  homodi-/oligomers have IPI and self in col.8
+o  remove col.8 when IDA/IEP
+o  col.15 is now "MTBBASE"
+=  detailed "response to chemical stimulus", removed With:CHEBI
+=  all non-response IEP --> IMP/IDA
+=  corrected PMID 11222859, 16026786, 17098899
++  added missing annotation to PMID 10986245, 18454554
+
+Changes key:
+------------
+o means change in script
+= means change in annotation
++ means additional annotation
