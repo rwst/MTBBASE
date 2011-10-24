@@ -18,7 +18,7 @@ synfile.each_line("\n") {|line|
       names = []
       id = line.sub(/ID +/, '').sub(/ +.*\n/, '')
     when 'AC' then
-      ac = line.sub(/AC +/, '').sub(/[,;].*\n/, '')
+      ac = line.sub(/AC +/, '').sub(/[,;].*\n/, '') unless !ac.empty?
     when 'GN' then
       gn = line.chomp.split(/[= ,;\/]/)
       gn.each {|word|
