@@ -10,14 +10,14 @@
 0000156 two-component response regulator activity
     0000160 two-component signal transduction system (phosphorelay)
 0000286 alanine dehydrogenase activity
-    0042853 L-alanine metabolic process
+    0042851 L-alanine metabolic process
     0019674 NAD metabolic process
     0055114 oxidation-reduction process
-    0042866 pyruvate metabolic process
+    0006090 pyruvate metabolic process
 0000318 protein-methionine-R-oxide reductase activity
     0055114 oxidation-reduction process
     0030091 protein repair
-    0051409 response to oxidative stress
+    0006979 response to oxidative stress
 !   thioredoxin metabolic process    
 0000702 oxidized base lesion DNA N-glycosylase activity
     0006284 base-excision repair
@@ -59,42 +59,117 @@
 0003854 3-beta-hydroxy-delta5-steroid dehydrogenase activity
     0006694 steroid biosynthetic process
     0019674 NAD metabolic process
+    0055114 oxidation-reduction process
 0003855 3-dehydroquinate dehydratase activity
+    0009073 aromatic amino acid family biosynthetic process
 0003856 3-dehydroquinate synthase activity
+    0009073 aromatic amino acid family biosynthetic process
 0003857 3-hydroxyacyl-CoA dehydrogenase activity
+    0006631 fatty acid metabolic process
+    0055114 oxidation-reduction process
+    0019674 NAD metabolic process
 0003862 3-isopropylmalate dehydrogenase activity
+    0009098 leucine biosynthetic process
+    0055114 oxidation-reduction process
+    0019674 NAD metabolic process
 0003864 3-methyl-2-oxobutanoate hydroxymethyltransferase activity
+    0015940 pantothenate biosynthetic process
+    0032259 methylation
+    0046653 tetrahydrofolate metabolic process
 0003866 3-phosphoshikimate 1-carboxyvinyltransferase activity
+    0009423 chorismate biosynthetic process
 0003869 4-nitrophenylphosphatase activity
+    0016311 dephosphorylation
 0003877 ATP adenylyltransferase activity
+    0046034 ATP metabolic process
+    0046031 ADP metabolic process
+    0015965 diadenosine tetraphosphate metabolic process
 0003879 ATP phosphoribosyltransferase activity
+    0000105 histidine biosynthetic process
+    0046034 ATP metabolic process
 0003887 DNA-directed DNA polymerase activity
+    0006260 DNA replication
 0003896 DNA primase activity
+    0006269 DNA replication, synthesis of RNA primer
 0003899 DNA-directed RNA polymerase activity
+    0006351 transcription, DNA-dependent
 0003906 DNA-(apurinic or apyrimidinic site) lyase activity
+    0006284 base-excision repair
 0003909 DNA ligase activity
+    0051103 DNA ligation involved in DNA repair
 0003910 DNA ligase (ATP) activity
+    0051103 DNA ligation involved in DNA repair
+    0046034 ATP metabolic process
+    0046033 AMP metabolic process
 0003911 DNA ligase (NAD+) activity
+    0051103 DNA ligation involved in DNA repair
+    0046033 AMP metabolic process
+    0019674 NAD metabolic process
 0003916 DNA topoisomerase activity
+    0006265 DNA topological change
 0003917 DNA topoisomerase type I activity
+    0006265 DNA topological change
 0003918 DNA topoisomerase (ATP-hydrolyzing) activity
+    0006265 DNA topological change
+    0046034 ATP metabolic process
 0003924 GTPase activity
+    0006184 GTP catabolic process
+    0046711 GDP biosynthetic process
 0003951 NAD+ kinase activity
+    0046034 ATP metabolic process
+    0046031 ADP metabolic process
+    0019674 NAD metabolic process
+    0006739 NADP metabolic process
 0003952 NAD+ synthase (glutamine-hydrolyzing) activity
+    0009435 NAD biosynthetic process
+    0006200 ATP catabolic process
+    0006543 glutamine catabolic process
+    0006167 AMP biosynthetic process
+    0006537 glutamate biosynthetic process
 0003953 NAD+ nucleosidase activity
+    0019677 NAD catabolic process
+    0006769 nicotinamide metabolic process
 0003955 NAD(P)H dehydrogenase (quinone) activity
-0003962 cystathionine gamma-synthase activity
+    0042375 quinone cofactor metabolic process
+    0055114 oxidation-reduction process
 0003977 UDP-N-acetylglucosamine diphosphorylase activity
+    0046051 UTP metabolic process
+    0009252 peptidoglycan biosynthetic process
 0003983 UTP:glucose-1-phosphate uridylyltransferase activity
+    0006011 UDP-glucose metabolic process
+    0046051 UTP metabolic process
 0003984 acetolactate synthase activity
+    0006090 pyruvate metabolic process
+    0009082 branched chain family amino acid biosynthetic process
 0003985 acetyl-CoA C-acetyltransferase activity
+    0015936 coenzyme A metabolic process
+    0006084 acetyl-CoA metabolic process
 0003988 acetyl-CoA C-acyltransferase activity
+    0006637 acyl-CoA metabolic process
+    0015936 coenzyme A metabolic process
+    0006084 acetyl-CoA metabolic process
 0003989 acetyl-CoA carboxylase activity
+    0006200 ATP catabolic process
+    0006172 ADP biosynthetic process
+    0006084 acetyl-CoA metabolic process
+    0006633 fatty acid biosynthetic process
 0003993 acid phosphatase activity
+    0016311 dephosphorylation
 0003994 aconitate hydratase activity
+    0006101 citrate metabolic process
+    0006102 isocitrate metabolic process
+    0006099 tricarboxylic acid cycle
 0003995 acyl-CoA dehydrogenase activity
+    0006637 acyl-CoA metabolic process
+    0055114 oxidation-reduction process
 0004003 ATP-dependent DNA helicase activity
+    0045740 positive regulation of DNA replication
+    0006200 ATP catabolic process
+    0006172 ADP biosynthetic process
 0004013 adenosylhomocysteinase activity
+    0046085 adenosine metabolic process
+    0050667 homocysteine metabolic process
+    0006730 one-carbon metabolic process
 0004015 adenosylmethionine-8-amino-7-oxononanoate transaminase activity
 0004016 adenylate cyclase activity
 0004017 adenylate kinase activity
@@ -305,7 +380,7 @@
 0008921 lipopolysaccharide-1,6-galactosyltransferase activity
 0008922 long-chain fatty acid [acyl-carrier-protein] ligase activity
 0008928 mannose-1-phosphate guanylyltransferase (GDP) activity
-0008934 inositol monophosphate phosphatase activity
+0008934 inositol monophosphate 1-phosphatase activity
 0008936 nicotinamidase activity
 0008941 nitric oxide dioxygenase activity
 0008970 phosphatidylcholine 1-acylhydrolase activity
@@ -341,7 +416,7 @@
 0016215 CoA desaturase activity
 0016229 steroid dehydrogenase activity
 0016289 CoA hydrolase activity
-0016291 acyl-CoA thioesterase activity
+0016291 acyl-CoA hydrolase activity
 0016298 lipase activity
 0016301 kinase activity
 0016403 dimethylargininase activity
