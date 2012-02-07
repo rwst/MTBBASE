@@ -16,6 +16,6 @@ goa :
 
 upl :
 	sh add_version.sh
-	scp -o "IdentityFile ../.ssh/kudu" MTB-GOA.zip MTB-GOA.html ark@kudu.in-berlin.de:
-	ssh -o "IdentityFile ../.ssh/kudu" ark@kudu.in-berlin.de ./newmtbgoa.sh
+	scp -i ../.ssh/kudu MTB-GOA.zip MTB-GOA.html ark@kudu.in-berlin.de:
+	ssh -i ../.ssh/kudu ark@kudu.in-berlin.de ./newmtbgoa.sh
 	
