@@ -171,12 +171,33 @@
     0050667 homocysteine metabolic process
     0006730 one-carbon metabolic process
 0004015 adenosylmethionine-8-amino-7-oxononanoate transaminase activity
+    0009102 biotin biosynthetic process
+    0046500 S-adenosylmethionine metabolic process
 0004016 adenylate cyclase activity
+    0006171 cAMP biosynthetic process
+    0006200 ATP catabolic process
 0004017 adenylate kinase activity
+    0046034 ATP metabolic process
+    0046031 ADP metabolic process
+    0046033 AMP metabolic process
+    0016310 phosphorylation
+    0016311 dephosphorylation
 0004020 adenylylsulfate kinase activity
+    0050428 3'-phosphoadenosine 5'-phosphosulfate biosynthetic process
+    0006200 ATP catabolic process
+    0006172 ADP biosynthetic process
+    0016310 phosphorylation
+    0016311 dephosphorylation
 0004035 alkaline phosphatase activity
+    0046165 alcohol biosynthetic process
+    0016311 dephosphorylation
 0004042 acetyl-CoA:L-glutamate N-acetyltransferase activity
+    0006526 arginine biosynthetic process
+    0015936 coenzyme A metabolic process
+    0046356 acetyl-CoA catabolic process
+    0006536 glutamate metabolic process
 0004045 aminoacyl-tRNA hydrolase activity
+    0006412 translation
 0004049 anthranilate synthase activity
 0004060 arylamine N-acetyltransferase activity
 0004065 arylsulfatase activity
