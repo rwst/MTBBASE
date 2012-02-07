@@ -1,8 +1,10 @@
-2011: Release of version 18
+2012-Feb-06: Release of version 18
 Changes:
 ========
++ add NOT and more annotations to Rv0899 as requested
++ fix some "C" annotations as requested, also secreted enzymes might no longer participate in pathways
 + additional process annotation from enzymatic activity for 13 papers
-* propagate ann. to its leaves in papers PMID 
+= replace obsolete "acyl-CoA thioesterase" with "... hydrolase"
 
 2011-Sep-18: Release of version 17
 Changes:
