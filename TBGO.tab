@@ -169,7 +169,7 @@ DB	DB_Object_ID	DB_Object_Symbol	Qualifier	Ontology_ID ID	Ontology_ID Name	Refer
 	Rv3223c	sigH		GO:0051409	response to nitrosative stress	PMID:14671303	IMP		P		rpoE	protein	organism:1773	20100317	rwst				
 	Rv2136c	Rv2136c		GO:0051409	response to nitrosative stress	PMID:14671303	IMP		P		Rv2136c	protein	organism:1773	20100317	rwst				
 	Rv3916c	Rv3916c		GO:0051409	response to nitrosative stress	PMID:14671303	IMP		P		Rv3916c	protein	organism:1773	20100317	rwst				
-	Rv3854c	ethA		GO:0004499	flavin-containing monooxygenase activity	PMID:11823459	IDA		F		etaA	protein	organism:1773	20100317	rwst				
+	Rv3854c	ethA		GO:0004499	N,N-dimethylaniline monooxygenase activity	PMID:11823459	IDA		F		etaA	protein	organism:1773	20100317	rwst				
 	Rv3854c	ethA		GO:0055114	oxidation-reduction process	PMID:11823459	IDA		P		etaA	protein	organism:1773	20100317	rwst				
 	Rv3854c	ethA		GO:0005886	plasma membrane	PMID:11823459	IDA		C		etaA	protein	organism:1773	20100317	rwst				
 	Rv0982	mprB		GO:0000160	two-component signal transduction system (phosphorelay)	PMID:14638785	IDA		P		Rv0982	protein	organism:1773	20100317	rwst				
@@ -177,7 +177,7 @@ DB	DB_Object_ID	DB_Object_Symbol	Qualifier	Ontology_ID ID	Ontology_ID Name	Refer
 	Rv0982	mprB		GO:0016301	kinase activity	PMID:14638785	IDA	Rv0981	F		Rv0982	protein	organism:1773	20100317	rwst				
 	Rv0982	mprB		GO:0004721	phosphoprotein phosphatase activity	PMID:14638785	IDA		F		Rv0982	protein	organism:1773	20100317	rwst				
 	Rv0981	mprA		GO:0000160	two-component signal transduction system (phosphorelay)	PMID:14638785	IDA		P		Rv0981	protein	organism:1773	20100317	rwst				
-	Rv3854c	ethA		GO:0004499	flavin-containing monooxygenase activity	PMID:14610090	IDA		F		etaA	protein	organism:1773	20100317	rwst1				
+	Rv3854c	ethA		GO:0004499	N,N-dimethylaniline monooxygenase activity	PMID:14610090	IDA		F		etaA	protein	organism:1773	20100317	rwst1				
 	Rv0018c	pstP		GO:0016021	integral to membrane	PMID:14575702	IDA		C		Rv0018c	protein	organism:1773	20100317	rwst				
 	Rv0018c	pstP		GO:0004647	phosphoserine phosphatase activity	PMID:14575702	IDA		F		Rv0018c	protein	organism:1773	20100317	rwst				
 	Rv1170	mshB		GO:0008270	zinc ion binding	PMID:12958317	IDA		F		Rv1170	protein	organism:1773	20100317	rwst				
@@ -462,7 +462,7 @@ DB	DB_Object_ID	DB_Object_Symbol	Qualifier	Ontology_ID ID	Ontology_ID Name	Refer
 	Rv1082	mca		GO:0008270	zinc ion binding	PMID:14556638	IDA		F			protein	organism:1773	20100405	rwst				
 	Rv1082	mca		GO:0010127	mycothiol-dependent detoxification	PMID:14556638	IDA		P			protein	organism:1773	20100405	rwst				
 	Rv1082	mca		GO:0010126	mycothiol metabolic process	PMID:14556638	IDA		P			protein	organism:1773	20100405	rwst				
-	Rv3051c	nrdE		GO:0004748	ribonucleoside-diphosphate reductase activity	PMID:7961427	IDA		F			protein	organism:1773	20100405	rwst				
+	Rv3051c	nrdE		GO:0004748	ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor	PMID:7961427	IDA		F			protein	organism:1773	20100405	rwst				
 	Rv3051c	nrdE		GO:0005971	ribonucleoside-diphosphate reductase complex	PMID:9335290	IDA		C			protein	organism:1773	20100405	rwst				
 	Rv3048c	nrdF2		GO:0005971	ribonucleoside-diphosphate reductase complex	PMID:9335290	IDA		C			protein	organism:1773	20100405	rwst				
 	Rv3051c	nrdE		GO:0055114	oxidation-reduction process	PMID:7961427	IDA		P			protein	organism:1773	20100405	rwst				
@@ -1379,7 +1379,6 @@ DB	DB_Object_ID	DB_Object_Symbol	Qualifier	Ontology_ID ID	Ontology_ID Name	Refer
 	Rv1656	argF		GO:0004585	ornithine carbamoyltransferase activity	PMID:1406593	IDA		F			protein	organism:1773	20100511	rwst				
 	Rv1656	argF		GO:0070207	protein homotrimerization	PMID:1406593	IDA		P			protein	organism:1773	20100511	rwst				
 	Rv2245	kasA		GO:0019367	fatty acid elongation, saturated fatty acid	PMID:12023885	IDA		P			protein	organism:1773	20100511	rwst				
-	Rv2245	kasA		GO:0009923	fatty acid elongase complex	PMID:12023885	IDA		C			protein	organism:1773	20100512	rwst				
 	Rv2245	kasA		GO:0005829	cytosol	PMID:12023885	IDA		C			protein	organism:1773	20100512	rwst				
 	Rv2245	kasA		GO:0004315	3-oxoacyl-[acyl-carrier-protein] synthase activity	PMID:12023885	IDA		F			protein	organism:1773	20100512	rwst				
 	Rv2234			GO:0004725	protein tyrosine phosphatase activity	PMID:12066895	IDA		F			protein	organism:1773	20100512	rwst				
@@ -5729,7 +5728,7 @@ DB	DB_Object_ID	DB_Object_Symbol	Qualifier	Ontology_ID ID	Ontology_ID Name	Refer
 	Rv3032			GO:0005978	glycogen biosynthetic process	PMID:17640872	IMP		P			protein	organism:1773	20100714	rwst				
 	Rv3409c	choD		GO:0009405	pathogenesis	PMID:17651430	IMP		P			protein	organism:1773	20100714	rwst				
 	Rv0462	lpdC		GO:0005515	protein binding	PMID:17652161	IPI	UniProtKB:P31146	F			protein	organism:1773	20100714	rwst				
-	Rv3151	nuoG		GO:0033668	negative regulation by symbiont of host apoptosis	PMID:17658950	IMP		P			protein	organism:1773	20100714	rwst				
+	Rv3151	nuoG		GO:0033668	negative regulation by symbiont of host apoptotic process	PMID:17658950	IMP		P			protein	organism:1773	20100714	rwst				
 	Rv3151	nuoG		GO:0009405	pathogenesis	PMID:17658950	IMP		P			protein	organism:1773	20100714	rwst				
 	Rv3676			GO:0042803	protein homodimerization activity	PMID:17702648	IDA		F			protein	organism:1773	20100714	rwst				
 	Rv3676			GO:0030552	cAMP binding	PMID:17702648	IDA		F			protein	organism:1773	20100714	rwst				
@@ -6047,7 +6046,7 @@ DB	DB_Object_ID	DB_Object_Symbol	Qualifier	Ontology_ID ID	Ontology_ID Name	Refer
 	Rv3423c	alr		GO:0030170	pyridoxal phosphate binding	PMID:15683232	IDA		F			protein	organism:1773	20110326	rwst				
 	Rv3003c			GO:0003984	acetolactate synthase activity	PMID:16111681	IDA		F			protein	organism:1773	20110326	rwst				
 	Rv3003c			GO:0000287	magnesium ion binding	PMID:16111681	IDA		F			protein	organism:1773	20110326	rwst				
-	Rv3003c			GO:0030975	thiamine binding	PMID:16111681	IDA		F			protein	organism:1773	20110326	rwst				
+	Rv3003c			GO:0030976	thiamine pyrophosphate binding	PMID:16111681	IDA		F			protein	organism:1773	20110326	rwst				
 	Rv3003c			GO:0009097	isoleucine biosynthetic process	PMID:16111681	IDA		P			protein	organism:1773	20110326	rwst				
 	Rv3003c			GO:0009099	valine biosynthetic process	PMID:16111681	IDA		P			protein	organism:1773	20110326	rwst				
 	Rv0500			GO:0006561	proline biosynthetic process	PMID:16199181	IDA		P			protein	organism:1773	20110326	rwst				
@@ -6156,7 +6155,7 @@ DB	DB_Object_ID	DB_Object_Symbol	Qualifier	Ontology_ID ID	Ontology_ID Name	Refer
 	Rv2163c	ftsI		GO:0051301	cell division	PMID:19109339	IDA		P			protein	organism:1773	20110606	rwst				
 	Rv0655	mceG		GO:0070508	cholesterol import	PMID:18334639	IDA		P			protein	organism:1773	20110606	rwst				
 	Rv1827			GO:0046777	protein autophosphorylation	PMID:19114043	IDA		P			protein	organism:1773	20110606	rwst				
-	Rv1247c			GO:0004519	endonuclease activity	PMID:19114484	IDA		F			protein	organism:1773	20110606	rwst				
+	Rv1246c			GO:0004519	endonuclease activity	PMID:19114484	IDA		F			protein	organism:1773	20110606	rwst				
 	Rv2866			GO:0004519	endonuclease activity	PMID:19114484	IDA		F			protein	organism:1773	20110606	rwst				
 	Rv3358			GO:0004519	endonuclease activity	PMID:19114484	IDA		F			protein	organism:1773	20110606	rwst				
 	Rv1985c			GO:0003688	DNA replication origin binding	PMID:19127296	IDA		F			protein	organism:1773	20110606	rwst				
@@ -6415,7 +6414,6 @@ DB	DB_Object_ID	DB_Object_Symbol	Qualifier	Ontology_ID ID	Ontology_ID Name	Refer
 	Rv2115c			GO:0022623	proteasome-activating nucleotidase complex	PMID:19836337	IDA		C			protein	organism:1773	20110615	rwst				
 	Rv2115c			GO:0070628	proteasome binding	PMID:19836337	IPI		F			protein	organism:1773	20110615	rwst				
 	Rv3545c			GO:0006707	cholesterol catabolic process	PMID:19846551	IDA		P			protein	organism:1773	20110615	rwst				
-	Rv3545c			GO:0031073	cholesterol 26-hydroxylase activity	PMID:19846551	IDA		F			protein	organism:1773	20110615	rwst				
 	Rv3545c			GO:0020037	heme binding	PMID:19846551	IDA		F			protein	organism:1773	20110615	rwst				
 	Rv3545c			GO:0008395	steroid hydroxylase activity	PMID:19846551	IDA		F			protein	organism:1773	20110615	rwst				
 	Rv2714			GO:0070207	protein homotrimerization	PMID:19851001	IDA		P			protein	organism:1773	20110615	rwst				
@@ -6579,7 +6577,7 @@ DB	DB_Object_ID	DB_Object_Symbol	Qualifier	Ontology_ID ID	Ontology_ID Name	Refer
 	Rv0386			GO:0004016	adenylate cyclase activity	PMID:19516256	IDA		F			protein	organism:1773	20110724	rwst				
 	Rv1346	mbtN		GO:0019540	siderophore biosynthetic process from catechol	PMID:16461464	IDA		P		fadE14	protein	organism:1773	20110724	rwst1				
 	Rv2502c	accD1		GO:0071616	acyl-CoA biosynthetic process	PMID:15308633	IDA		P			protein	organism:1773	20110724	rwst				
-	Rv2950c	fadD29		GO:0030639	polyketide biosynthetic process	PMID:15042094	IDA		P			protein	organism:1773	20110724	rwst				
+	Rv2950c	fadD29		GO:0097040	phthiocerol biosynthetic process	PMID:15042094	IDA		P			protein	organism:1773	20110724	rwst				
 	Rv1319c			GO:0006171	cAMP biosynthetic process	PMID:15182360	IDA		P			protein	organism:1773	20110724	rwst				
 	Rv1319c			GO:0006200	ATP catabolic process	PMID:15182360	IDA		P			protein	organism:1773	20110724	rwst				
 	Rv3252c	alkB		GO:0043448	alkane catabolic process	PMID:11872725	IDA		P		Rv3252c	protein	organism:1773	20110724	rwst				
@@ -6592,16 +6590,14 @@ DB	DB_Object_ID	DB_Object_Symbol	Qualifier	Ontology_ID ID	Ontology_ID Name	Refer
 	Rv1569	bioF		GO:0009102	biotin biosynthetic process	PMID:16769720	IDA		P			protein	organism:1773	20110724	rwst				
 	Rv3230c			GO:0070402	NADPH binding	PMID:17087501	IDA		F			protein	organism:1773	20100709	rwst				
 	Rv3230c			GO:0022900	electron transport chain	PMID:17087501	IDA		P			protein	organism:1773	20110724	rwst				
-	Rv1247c			GO:0006401	RNA catabolic process	PMID:19114484	IDA		P			protein	organism:1773	20110724	rwst				
-	Rv1247c			GO:0045892	negative regulation of transcription, DNA-dependent	PMID:19114484	IDA		P			protein	organism:1773	20110724	rwst				
+	Rv1246c			GO:0006401	RNA catabolic process	PMID:19114484	IDA		P			protein	organism:1773	20110724	rwst				
 	Rv2866			GO:0006401	RNA catabolic process	PMID:19114484	IDA		P			protein	organism:1773	20110724	rwst				
 	Rv2866			GO:0045892	negative regulation of transcription, DNA-dependent	PMID:19114484	IDA		P			protein	organism:1773	20110724	rwst				
 	Rv3358			GO:0006401	RNA catabolic process	PMID:19114484	IDA		P			protein	organism:1773	20110724	rwst				
 	Rv3358			GO:0045892	negative regulation of transcription, DNA-dependent	PMID:19114484	IDA		P			protein	organism:1773	20110724	rwst				
-	Rv1246c			GO:0015643	toxin binding	PMID:19114484	IDA	Rv1247c	F			protein	organism:1773	20110724	rwst				
+	Rv1247c			GO:0015643	toxin binding	PMID:19114484	IDA	Rv1246c	F			protein	organism:1773	20110724	rwst				
 	Rv2865			GO:0015643	toxin binding	PMID:19114484	IDA	Rv2866	F			protein	organism:1773	20110724	rwst				
 	Rv3357			GO:0015643	toxin binding	PMID:19114484	IDA	Rv3358	F			protein	organism:1773	20110724	rwst				
-	Rv1246c			GO:0006355	regulation of transcription, DNA-dependent	PMID:19114484	IDA		P			protein	organism:1773	20110724	rwst				
 	Rv2865			GO:0006355	regulation of transcription, DNA-dependent	PMID:19114484	IDA		P			protein	organism:1773	20110724	rwst				
 	Rv3357			GO:0006355	regulation of transcription, DNA-dependent	PMID:19114484	IDA		P			protein	organism:1773	20110724	rwst				
 	Rv1347c		NOT	GO:0034069	aminoglycoside N-acetyltransferase activity	PMID:12715873	IDA		F			protein	organism:1773	20100615	rwst				
@@ -6743,7 +6739,7 @@ DB	DB_Object_ID	DB_Object_Symbol	Qualifier	Ontology_ID ID	Ontology_ID Name	Refer
 	Rv1852	ureG		GO:0006184	GTP catabolic process	PMID:17309280	IDA		P			protein	organism:1773	20110828	rwst				
 	Rv3331			GO:0015798	myo-inositol transport	PMID:16940050	ISS		P			protein	organism:1773	20110828	rwst				
 	Rv2043c	pncA		GO:0006769	nicotinamide metabolic process	PMID:18201201	IDA		P			protein	organism:1773	20110828	rwst				
-	Rv2043c	pncA		GO:0017001	antibiotic catabolic process	PMID:18201201	IDA		P			protein	organism:1773	20110828	rwst				
+	Rv2043c	pncA		GO:0016999	antibiotic metabolic process	PMID:18201201	IDA		P			protein	organism:1773	20110828	rwst				
 	Rv1399c	nlhH		GO:0009056	catabolic process	PMID:15373841	IDA		P			protein	organism:1773	20110828	rwst				
 	Rv1318c			GO:0006200	ATP catabolic process	PMID:15182360	IDA		P			protein	organism:1773	20110828	rwst				
 	Rv1318c			GO:0006171	cAMP biosynthetic process	PMID:15182360	IDA		P			protein	organism:1773	20110828	rwst				
@@ -6861,7 +6857,823 @@ DB	DB_Object_ID	DB_Object_Symbol	Qualifier	Ontology_ID ID	Ontology_ID Name	Refer
 	Rv0001	dnaA		GO:0006200	ATP catabolic process	PMID:11931658	IDA		P		Rv0001	protein	organism:1773	20111018	rwst				
 	Rv0001	dnaA		GO:0006172	ADP biosynthetic process	PMID:11931658	IDA		P		Rv0001	protein	organism:1773	20111018	rwst				
 	Rv0001	dnaA		GO:0016311	dephosphorylation	PMID:11931658	IDA		P		Rv0001	protein	organism:1773	20111018	rwst				
-	Rv0899	ompA		GO:0042834	peptidoglycan binding	PMID:22206986	IDA		F			protein	organism:1773	20120206	rwst			07-Feb-2012	
-	Rv0899	ompA	NOT	GO:0015288	porin activity	PMID:21410778	IDA		F			protein	organism:1773	20120206	rwst			07-Feb-2012	
-	Rv0899	ompA		GO:0072488	ammonium transmembrane transport	PMID:21410778	IDA		P			protein	organism:1773	20120206	rwst			07-Feb-2012	
-	Rv0899	ompA		GO:0010447	response to acidity	PMID:21410778	IDA		P			protein	organism:1773	20120206	rwst			07-Feb-2012	
+	Rv0899	ompA		GO:0042834	peptidoglycan binding	PMID:22206986	IDA		F			protein	organism:1773	20120206	rwst				
+	Rv0899	ompA	NOT	GO:0015288	porin activity	PMID:21410778	IDA		F			protein	organism:1773	20120206	rwst				
+	Rv0899	ompA		GO:0072488	ammonium transmembrane transport	PMID:21410778	IDA		P			protein	organism:1773	20120206	rwst				
+	Rv0899	ompA		GO:0010447	response to acidity	PMID:21410778	IDA		P			protein	organism:1773	20120206	rwst				
+	Rv2801A			GO:0015643	toxin binding	PMID:20876537	IPI	Rv2801c	F			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1991A			GO:0015643	toxin binding	PMID:20876537	IPI	Rv1991c	F			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2801A			GO:0015643	toxin binding	PMID:20876537	IPI	Rv1991c	F			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0599c			GO:0015643	toxin binding	PMID:20876537	IPI	Rv1991c	F			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2595			GO:0015643	toxin binding	PMID:20876537	IPI	Rv1991c	F			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1247c			GO:0015643	toxin binding	PMID:20498855	IPI	Rv1246c	F			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2865			GO:0015643	toxin binding	PMID:20498855	IPI	Rv2866	F			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1247c			GO:0015643	toxin binding	PMID:20498855	IPI	Rv3358	F			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1247c			GO:0015643	toxin binding	PMID:20498855	IPI	Rv2866	F			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2865			GO:0015643	toxin binding	PMID:20498855	IPI	Rv1246c	F			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2865			GO:0015643	toxin binding	PMID:20498855	IPI	Rv3358	F			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0183			GO:0052151	positive regulation by symbiont of host apoptotic process	PMID:21076482	IDA		P			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0002			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0005			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0006			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0007			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0009			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0014c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0018c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0020c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0036c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0048c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0053			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0056			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0064			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0066c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0079			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0092			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0093c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0101			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0108c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0111			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0118c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0120c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0125			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0129c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0139			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0142			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0147			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0148			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0169			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0172			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0173			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0174			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0183			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0194			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0202c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0206c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0211			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0227c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0237			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0242c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0243			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0247c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0248c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0251c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0252			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0270			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0271c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0282			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0283			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0284			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0290			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0291			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0292			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0309			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0327c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0334			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0338c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0350			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0351			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0352			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0361			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0363c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0379			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0384c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0386			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0402c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0407			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0431			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0432			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0440			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0444c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0445c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0450c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0468			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0474			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0480c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0497			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0504c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0507			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0512			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0540			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0559c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0562			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0569			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0570			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0580c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0583c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0614			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0622			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0631c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0636			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0638			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0639			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0641			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0644c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0651			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0652			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0667			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0668			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0673			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0683			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0684			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0685			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0686			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0700			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0707			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0712			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0724			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0730			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0733			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0771			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0798c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0814c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0815c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0824c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0830			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0831c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0854			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0858c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0859			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0860			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0871			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0873			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0892			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0899			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0901			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0902c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0905			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0926c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0928			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0931c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0934			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0944			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0951			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0952			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0954			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0968			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0969			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0981			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1005c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1006			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1016c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1017c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1023			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1029			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1038c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1070c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1074c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1075c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1077			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1078			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1080c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1093			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1094			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1096			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1097c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1098c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1100			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1109c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1128c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1130			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1133c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1144			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1151c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1161			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1162			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1165			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1175c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1179c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1181			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1184c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1196			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1198			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1201c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1209			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1220c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1223			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1230c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1231c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1240			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1244			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1245c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1248c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1253			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1256c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1261c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1265			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1266c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1267c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1269c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1270c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1273c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1275			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1278			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1279			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1281c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1294			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1297			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1306			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1307			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1308			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1309			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1310			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1311			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1324			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1330c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1361c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1368			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1379			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1388			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1390			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1392			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1393c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1407			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1411c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1423			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1424c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1436			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1442			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1449c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1450c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1451			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1466			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1473			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1479			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1484			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1488			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1492			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1520			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1522c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1527c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1543			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1544			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1547			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1551			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1558			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1569			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1586c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1589			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1593c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1594			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1596			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1599			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1602			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1611			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1623c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1626			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1627c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1629			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1630			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1636			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1640c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1654			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1659			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1661			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1666c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1689			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1703c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1747			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1748			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1771			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1777			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1782			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1784			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1794			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1801			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1815			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1821			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1827			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1829			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1836c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1837c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1866			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1871c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1872c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1875			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1886c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1908c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1911c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1919c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1925			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1926c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1932			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1937			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1957			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1969			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1980c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1984c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv1996			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2005c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2028c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2030c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2031c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2032			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2047c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2048c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2050			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2063c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2074			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2091c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2095c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2096c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2100			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2101			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2115c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2122c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2129c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2145c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2159c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2171			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2178c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2185c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2187			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2191			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2195			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2198c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2205c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2211c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2213			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2214c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2215			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2216			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2220			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2221c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2223c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2241			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2244			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2245			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2246			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2247			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2258c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2260			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2280			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2296			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2298			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2299c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2302			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2307c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2314c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2326c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2345			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2373c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2376c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2383c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2391			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2428			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2431c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2441c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2444c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2455c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2460c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2462c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2466c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2471			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2476c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2477c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2488c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2495c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2496c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2509			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2518c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2524c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2528c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2531c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2536			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2555c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2556c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2576c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2579			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2587c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2622			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2623			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2625c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2626c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2629			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2631			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2691			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2703			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2711			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2712c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2713			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2720			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2721c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2744c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2748c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2756c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2773c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2780			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2783c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2789c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2839c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2841c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2864c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2868c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2880c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2881c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2882c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2888c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2889c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2890c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2921c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2931			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2935			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2936			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2938			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2940c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2945c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2953			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2955c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2969c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2971			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2986c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2996c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3002c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3003c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3006			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3012c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3028c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3029c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3038c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3046c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3071			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3075c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3083			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3086			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3089			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3099c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3105c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3106			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3107c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3127			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3132c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3133c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3134c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3136			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3139			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3140			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3143			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3151			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3153			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3193c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3205c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3206c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3211			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3223c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3224			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3237c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3240c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3243c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3244c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3248c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3269			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3274c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3280			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3281			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3282			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3285			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3371			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3373			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3389c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3396c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3411c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3416			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3417c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3418c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3421c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3443c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3448			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3457c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3458c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3462c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3490			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3496c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3509c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3515c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3520c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3534c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3547			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3565			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3584			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3592			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3596c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3597c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3614c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3615c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3623			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3646c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3651			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3666c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3670			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3671c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3676			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3682			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3688c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3690			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3699			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3708c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3709c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3718c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3720			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3725			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3763			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3778c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3780			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3786c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3792			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3799c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3800c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3801c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3804c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3809c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3816c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3823c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3825c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3835			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3841			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3849			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3852			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3865			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3869			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3870			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3871			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3874			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3877			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3880c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3894c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3903c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3914			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3323			GO:0006777	Mo-molybdopterin cofactor biosynthetic process	PMID:20971904	IDA		P			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0868c			GO:0006777	Mo-molybdopterin cofactor biosynthetic process	PMID:20971904	IDA		P			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3119			GO:0006777	Mo-molybdopterin cofactor biosynthetic process	PMID:20971904	IDA		P			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0866			GO:0006777	Mo-molybdopterin cofactor biosynthetic process	PMID:20971904	IDA		P			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0983			GO:0008236	serine-type peptidase activity	PMID:20061478	IDA		F			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0983			GO:0006508	proteolysis	PMID:20061478	IDA		P			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0983			GO:0006950	response to stress	PMID:20061478	IDA		P			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2228c			GO:0043755	alpha-ribazole phosphatase activity	PMID:20363939	IDA		F			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2228c			GO:0009236	cobalamin biosynthetic process	PMID:20363939	IDA		P			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2228c			GO:0004523	ribonuclease H activity	PMID:20363939	IDA		F			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2228c			GO:0071667	DNA/RNA hybrid binding	PMID:20363939	IDA		F			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2228c			GO:0032296	double-stranded RNA-specific ribonuclease activity	PMID:20363939	IDA		F			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv2228c			GO:0006401	RNA catabolic process	PMID:20363939	IDA		P			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3370c			GO:0042276	error-prone translesion synthesis	PMID:20615954	IDA		P			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3395c			GO:0006281	DNA repair	PMID:20615954	IDA		P			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3394c			GO:0006281	DNA repair	PMID:20615954	IDA		P			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3370c			GO:0006281	DNA repair	PMID:20615954	IDA		P			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv0969			GO:0046688	response to copper ion	PMID:20624225	IDA		P			protein	organism:1773	20120701	rwst			Jun 25, 2012	
+	Rv1992c			GO:0046688	response to copper ion	PMID:20624225	IDA		P			protein	organism:1773	20120701	rwst			Jun 25, 2012	
+	Rv0969			GO:0009405	pathogenesis	PMID:20624225	IDA		P			protein	organism:1773	20120701	rwst			Jun 25, 2012	
+	Rv0403c			GO:0005576	extracellular region	PMID:20585611	IDA		C			protein	organism:1773	20120701	rwst			Jun 25, 2012	
+	Rv3630			GO:0005576	extracellular region	PMID:20585611	IDA		C			protein	organism:1773	20120701	rwst			Jun 25, 2012	
+	Rv1022			GO:0005576	extracellular region	PMID:20585611	IDA		C			protein	organism:1773	20120701	rwst			Jun 25, 2012	
+	Rv0835			GO:0005576	extracellular region	PMID:20585611	IDA		C			protein	organism:1773	20120701	rwst			Jun 25, 2012	
+	Rv0361			GO:0005576	extracellular region	PMID:20585611	IDA		C			protein	organism:1773	20120701	rwst			Jun 25, 2012	
+	Rv0178			GO:0005576	extracellular region	PMID:20585611	IDA		C			protein	organism:1773	20120701	rwst			Jun 25, 2012	
+	Rv0015c			GO:0045717	negative regulation of fatty acid biosynthetic process	PMID:20178986	IDA		P			protein	organism:1773	20120701	rwst			Jun 25, 2012	
+	Rv0014c			GO:0045717	negative regulation of fatty acid biosynthetic process	PMID:20178986	IDA		P			protein	organism:1773	20120701	rwst			Jun 25, 2012	
+	Rv0931c			GO:0045717	negative regulation of fatty acid biosynthetic process	PMID:20178986	IDA		P			protein	organism:1773	20120701	rwst			Jun 25, 2012	
+	Rv1743			GO:0045717	negative regulation of fatty acid biosynthetic process	PMID:20178986	IDA		P			protein	organism:1773	20120701	rwst			Jun 25, 2012	
+	Rv2176			GO:0045717	negative regulation of fatty acid biosynthetic process	PMID:20178986	IDA		P			protein	organism:1773	20120701	rwst			Jun 25, 2012	
+	Rv2275			GO:0042803	protein homodimerization activity	PMID:20852636	IDA		F			protein	organism:1773	20120701	rwst			Jun 25, 2012	
+	Rv2275			GO:0016875	ligase activity, forming carbon-oxygen bonds	PMID:20852636	IDA		F			protein	organism:1773	20120701	rwst			Jun 25, 2012	
+	Rv0931c			GO:0016036	cellular response to phosphate starvation	PMID:20933472	IDA		P			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv0928			GO:0016036	cellular response to phosphate starvation	PMID:20933472	IDA		P			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv1843c		NOT	GO:0003938	IMP dehydrogenase activity	PMID:21081761	IDA		F			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv3410c		NOT	GO:0003938	IMP dehydrogenase activity	PMID:21081761	IDA		F			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv3411c			GO:0003938	IMP dehydrogenase activity	PMID:21081761	IDA		F			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv3411c			GO:0006177	GMP biosynthetic process	PMID:21081761	IDA		P			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv3411c			GO:0006204	IMP catabolic process	PMID:21081761	IDA		P			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv0736			GO:0008270	zinc ion binding	PMID:20184899	IDA		F			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv0468			GO:0008691	3-hydroxybutyryl-CoA dehydrogenase activity	PMID:20378648	IDA		F			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv0468			GO:0006635	fatty acid beta-oxidation	PMID:20378648	IDA		P			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv0468			GO:0030497	fatty acid elongation	PMID:20378648	IDA		P			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv0182c		NOT	GO:0006282	regulation of DNA repair	PMID:21169493	IDA		P			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv3632			GO:0019375	galactolipid biosynthetic process	PMID:21030587	IDA		P			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv3631			GO:0019375	galactolipid biosynthetic process	PMID:21030587	IDA		P			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv3779			GO:0016758	transferase activity, transferring hexosyl groups	PMID:21030587	IDA		F			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv2869c			GO:0006508	proteolysis	PMID:20545848	IDA		P			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv2869c			GO:0055072	iron ion homeostasis	PMID:20545848	IDA		P			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv2869c			GO:0046890	regulation of lipid biosynthetic process	PMID:20545848	IDA		P			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv2869c			GO:0043856	anti-sigma factor antagonist activity	PMID:20545848	IDA		F			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv0736	rslA		GO:0016989	sigma factor antagonist activity	PMID:16199577	IDA		F			protein	organism:1773	20100410	rwst			Jun 26, 2012	
+	Rv0444c			GO:0016989	sigma factor antagonist activity	PMID:17064366	IDA		F			protein	organism:1773	20100416	rwst			Jun 26, 2012	
+	Rv3465			GO:0008830	dTDP-4-dehydrorhamnose 3,5-epimerase activity	PMID:19969466	IDA		F			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv3465			GO:0019305	dTDP-rhamnose biosynthetic process	PMID:19969466	IDA		P			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv3266c			GO:0019305	dTDP-rhamnose biosynthetic process	PMID:19969466	IDA		P			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv3266c			GO:0008831	dTDP-4-dehydrorhamnose reductase activity	PMID:19969466	IDA		F			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv3464			GO:0008460	dTDP-glucose 4,6-dehydratase activity	PMID:19969466	IDA		F			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv3464			GO:0019305	dTDP-rhamnose biosynthetic process	PMID:19969466	IDA		P			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv1820c			GO:0003984	acetolactate synthase activity	PMID:20884690	IDA		F			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv1820c			GO:0000287	magnesium ion binding	PMID:20884690	IDA		F			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv1820c			GO:0030976	thiamine pyrophosphate binding	PMID:20884690	IDA		F			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv1820c			GO:0009082	branched chain family amino acid biosynthetic process	PMID:20884690	IDA		P			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv0189c			GO:0009082	branched chain family amino acid biosynthetic process	PMID:20864475	IDA		P			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv0189c			GO:0004160	dihydroxy-acid dehydratase activity	PMID:20864475	IDA		F			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv0189c			GO:0040007	growth	PMID:20864475	IDA		P			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv0189c			GO:0042803	protein homodimerization activity	PMID:20864475	IDA		F			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv0949			GO:0060543	negative regulation of strand invasion	PMID:20455546	IDA		P			protein	organism:1773	20120701	rwst			Jun 27, 2012	
+	Rv1638			GO:0060543	negative regulation of strand invasion	PMID:20455546	IDA		P			protein	organism:1773	20120701	rwst			Jun 27, 2012	
+	Rv1638			GO:0005515	protein binding	PMID:20455546	IPI	Rv2737c	F			protein	organism:1773	20120701	rwst			Jun 27, 2012	
+	Rv0949			GO:0005515	protein binding	PMID:20455546	IPI	Rv2737c	F			protein	organism:1773	20120701	rwst			Jun 27, 2012	
+	Rv2948c			GO:0071766	Actinobacterium-type cell wall biogenesis	PMID:20553505	IDA		P			protein	organism:1773	20120701	rwst			Jun 27, 2012	
+	Rv2948c			GO:0097041	phenolic phthiocerol biosynthetic process	PMID:20553505	IDA		P			protein	organism:1773	20120701	rwst			Jun 27, 2012	
+	Rv2948c			GO:0016878	acid-thiol ligase activity	PMID:20553505	IDA		F			protein	organism:1773	20120701	rwst			Jun 27, 2012	
+	Rv2930			GO:0016878	acid-thiol ligase activity	PMID:20553505	IDA		F			protein	organism:1773	20120701	rwst			Jun 27, 2012	
+	Rv2930			GO:0071766	Actinobacterium-type cell wall biogenesis	PMID:20553505	IDA		P			protein	organism:1773	20120701	rwst			Jun 27, 2012	
+	Rv2930			GO:0097040	phthiocerol biosynthetic process	PMID:20553505	IDA		P			protein	organism:1773	20120701	rwst			Jun 27, 2012	
+	Rv2950c			GO:0097040	phthiocerol biosynthetic process	PMID:20553505	IDA		P			protein	organism:1773	20120701	rwst			Jun 27, 2012	
+	Rv2950c			GO:0071766	Actinobacterium-type cell wall biogenesis	PMID:20553505	IDA		P			protein	organism:1773	20120701	rwst			Jun 27, 2012	
+	Rv2950c			GO:0016878	acid-thiol ligase activity	PMID:20553505	IDA		F			protein	organism:1773	20120701	rwst			Jun 27, 2012	
+	Rv2416c			GO:0052164	modulation by symbiont of defense-related host reactive oxygen species production	PMID:21187903	IDA		P			protein	organism:1773	20120701	rwst			Jun 27, 2012	
+	Rv2416c			GO:0052035	positive regulation by symbiont of host inflammatory response	PMID:21187903	IDA		P			protein	organism:1773	20120701	rwst			Jun 27, 2012	
+	Rv2416c			GO:0052040	modulation by symbiont of host programmed cell death	PMID:21187903	IDA		P			protein	organism:1773	20120701	rwst			Jun 27, 2012	
+	Rv0821c			GO:0022611	dormancy process	PMID:20360062	IDA		P			protein	organism:1773	20120701	rwst			Jun 27, 2012	
+	Rv2919c			GO:0005524	ATP binding	PMID:20521335	IDA		F			protein	organism:1773	20120701	rwst			Jun 27, 2012	
+	Rv2919c			GO:0070207	protein homotrimerization	PMID:20521335	IDA		P			protein	organism:1773	20120701	rwst			Jun 27, 2012	
+	Rv2745c			GO:0085016	dormancy exit of symbiont in host	PMID:20661284	IDA		P			protein	organism:1773	20120701	rwst			Jun 27, 2012	
+	Rv2745c			GO:0045893	positive regulation of transcription, DNA-dependent	PMID:20661284	IDA		P			protein	organism:1773	20120701	rwst			Jun 27, 2012	
+	Rv2745c			GO:0043565	sequence-specific DNA binding	PMID:20661284	IDA		F			protein	organism:1773	20120701	rwst			Jun 27, 2012	
+	Rv1739c			GO:0019001	guanyl nucleotide binding	PMID:21190940	IDA		F			protein	organism:1773	20120701	rwst			Jun 27, 2012	
+	Rv2462c			GO:0046677	response to antibiotic	PMID:20966518	IEP		P			protein	organism:1773	20120701	rwst			Jun 27, 2012	
+	Rv1080c			GO:0046677	response to antibiotic	PMID:20966518	IEP		P			protein	organism:1773	20120701	rwst			Jun 27, 2012	
+	Rv0251c			GO:0046677	response to antibiotic	PMID:20966518	IEP		P			protein	organism:1773	20120701	rwst			Jun 27, 2012	
+	Rv1636			GO:0046677	response to antibiotic	PMID:20966518	IEP		P			protein	organism:1773	20120701	rwst			Jun 27, 2012	
+	Rv0350			GO:0046677	response to antibiotic	PMID:20966518	IEP		P			protein	organism:1773	20120701	rwst			Jun 27, 2012	
+	Rv0242c			GO:0046677	response to antibiotic	PMID:20966518	IEP		P			protein	organism:1773	20120701	rwst			Jun 27, 2012	
+	Rv3867			GO:0046677	response to antibiotic	PMID:20966518	IEP		P			protein	organism:1773	20120701	rwst			Jun 27, 2012	
+	Rv0054			GO:0046677	response to antibiotic	PMID:20966518	IEP		P			protein	organism:1773	20120701	rwst			Jun 27, 2012	
+	Rv3418c			GO:0046677	response to antibiotic	PMID:20966518	IEP		P			protein	organism:1773	20120701	rwst			Jun 27, 2012	
+	Rv3418c			GO:0046677	response to antibiotic	PMID:20966518	IEP		P			protein	organism:1773	20120701	rwst			Jun 27, 2012	
+	Rv2043c	pncA		GO:0034355	NAD salvage	PMID:18201201	IDA		P			protein	organism:1773	20110828	rwst			Jun 28, 2012	
+	Rv2043c			GO:0008936	nicotinamidase activity	PMID:20879713	IDA		F			protein	organism:1773	20120701	rwst			Jun 28, 2012	
+	Rv2043c			GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides	PMID:20879713	IDA		F			protein	organism:1773	20120701	rwst			Jun 28, 2012	
+	Rv2043c			GO:0034355	NAD salvage	PMID:20879713	IDA		P			protein	organism:1773	20120701	rwst			Jun 28, 2012	
+	Rv0654			GO:0010436	carotenoid dioxygenase activity	PMID:20929460	IDA		F			protein	organism:1773	20120701	rwst			Jun 28, 2012	
+	Rv0654			GO:0016118	carotenoid catabolic process	PMID:20929460	IDA		P			protein	organism:1773	20120701	rwst			Jun 28, 2012	
+	Rv2440c			GO:0003924	GTPase activity	PMID:21352546	IDA		F			protein	organism:1773	20120701	rwst			Jun 28, 2012	
+	Rv2440c			GO:0000287	magnesium ion binding	PMID:21352546	IDA		F			protein	organism:1773	20120701	rwst			Jun 28, 2012	
+	Rv2440c			GO:0046777	protein autophosphorylation	PMID:21352546	IDA		P			protein	organism:1773	20120701	rwst			Jun 28, 2012	
+	Rv2440c			GO:0005886	plasma membrane	PMID:21352546	IDA		C			protein	organism:1773	20120701	rwst			Jun 28, 2012	
+	Rv2440c			GO:0005840	ribosome	PMID:21352546	IDA		C			protein	organism:1773	20120701	rwst			Jun 28, 2012	
+	Rv2440c			GO:0005515	protein binding	PMID:21352546	IPI	Rv3287c	F			protein	organism:1773	20120701	rwst			Jun 28, 2012	
+	Rv3875			GO:0052027	modulation by symbiont of host signal transduction pathway	PMID:20006311	IDA		P			protein	organism:1773	20120701	rwst			Jun 28, 2012	
+	Rv3875			GO:0052083	negative regulation by symbiont of host cell-mediated immune response	PMID:20006311	IDA		P			protein	organism:1773	20120701	rwst			Jun 28, 2012	
+	Rv0241c			GO:0018812	3-hydroxyacyl-CoA dehydratase activity	PMID:20511508	IDA		F			protein	organism:1773	20120701	rwst			Jun 28, 2012	
+	Rv0241c			GO:0006631	fatty acid metabolic process	PMID:20511508	IDA		P			protein	organism:1773	20120701	rwst			Jun 28, 2012	
+	Rv2883c			GO:0033862	UMP kinase activity	PMID:21035424	IDA		F			protein	organism:1773	20120701	rwst			Jun 28, 2012	
+	Rv2883c			GO:0000287	magnesium ion binding	PMID:21035424	IDA		F			protein	organism:1773	20120701	rwst			Jun 28, 2012	
+	Rv2883c			GO:0051289	protein homotetramerization	PMID:21035424	IDA		P			protein	organism:1773	20120701	rwst			Jun 28, 2012	
+	Rv2883c			GO:0006200	ATP catabolic process	PMID:21035424	IDA		P			protein	organism:1773	20120701	rwst			Jun 28, 2012	
+	Rv2883c			GO:0006225	UDP biosynthetic process	PMID:21035424	IDA		P			protein	organism:1773	20120701	rwst			Jun 28, 2012	
+	Rv1694			GO:0019836	hemolysis by symbiont of host erythrocytes	PMID:20854656	IDA		P			protein	organism:1773	20120701	rwst			Jun 28, 2012	
+	Rv1694			GO:0008649	rRNA methyltransferase activity	PMID:20854656	IDA		F			protein	organism:1773	20120701	rwst			Jun 28, 2012	
+	Rv1694			GO:0031167	rRNA methylation	PMID:20854656	IDA		P			protein	organism:1773	20120701	rwst			Jun 28, 2012	
+	Rv1694			GO:0051260	protein homooligomerization	PMID:20854656	IDA		P			protein	organism:1773	20120701	rwst			Jun 28, 2012	
+	Rv1326c			GO:0003844	1,4-alpha-glucan branching enzyme activity	PMID:20444687	IDA		F			protein	organism:1773	20120701	rwst			Jun 28, 2012	
+	Rv3545c			GO:0036199	cholest-4-en-3-one 26-monooxygenase activity	PMID:20545858	IDA		F			protein	organism:1773	20120701	rwst			Jun 28, 2012	
+	Rv3545c			GO:0006707	cholesterol catabolic process	PMID:20545858	IDA		P			protein	organism:1773	20120701	rwst			Jun 28, 2012	
+	Rv0669c			GO:0017040	ceramidase activity	PMID:20139604	IDA		F			protein	organism:1773	20120701	rwst			Jun 29, 2012	
+	Rv0669c			GO:0046514	ceramide catabolic process	PMID:20139604	IDA		P			protein	organism:1773	20120701	rwst			Jun 29, 2012	
+	Rv0669c			GO:0046512	sphingosine biosynthetic process	PMID:20139604	IDA		P			protein	organism:1773	20120701	rwst			Jun 29, 2012	
+	Rv0669c			GO:0042759	long-chain fatty acid biosynthetic process	PMID:20139604	IDA		P			protein	organism:1773	20120701	rwst			Jun 29, 2012	
+	Rv3883c			GO:0051046	regulation of secretion	PMID:20227664	IDA		P			protein	organism:1773	20120701	rwst			Jun 29, 2012	
+	Rv3883c			GO:0006508	proteolysis	PMID:20227664	IDA		P			protein	organism:1773	20120701	rwst			Jun 29, 2012	
+	Rv3883c			GO:0004252	serine-type endopeptidase activity	PMID:20227664	IDA		F			protein	organism:1773	20120701	rwst			Jun 29, 2012	
+	Rv3883c			GO:0009405	pathogenesis	PMID:20227664	IDA		P			protein	organism:1773	20120701	rwst			Jun 29, 2012	
+	Rv3918c			GO:0016887	ATPase activity	PMID:20810423	IDA		F			protein	organism:1773	20120701	rwst			Jun 29, 2012	
+	Rv3918c			GO:0000287	magnesium ion binding	PMID:20810423	IDA		F			protein	organism:1773	20120701	rwst			Jun 29, 2012	
+	Rv0998			GO:0030552	cAMP binding	PMID:20507997	IDA		F			protein	organism:1773	20120701	rwst			Jun 29, 2012	
+	Rv0998			GO:0016407	acetyltransferase activity	PMID:20507997	IDA		F			protein	organism:1773	20120701	rwst			Jun 29, 2012	
+	Rv1196			GO:0044031	modification by symbiont of host protein by phosphorylation	PMID:21451109	IDA		P			protein	organism:1773	20120701	rwst			Jun 29, 2012	
+	Rv1196			GO:0052036	negative regulation by symbiont of host inflammatory response	PMID:21451109	IDA		P			protein	organism:1773	20120701	rwst			Jun 29, 2012	
+	Rv1196			GO:0052026	modulation by symbiont of host transcription	PMID:21451109	IDA		P			protein	organism:1773	20120701	rwst			Jun 29, 2012	
+	Rv2613c			GO:0051289	protein homotetramerization	PMID:20208160	IDA		P			protein	organism:1773	20120701	rwst			Jun 29, 2012	
+	Rv3124			GO:0006355	regulation of transcription, DNA-dependent	PMID:20378651	IEP		P			protein	organism:1773	20120701	rwst			Jun 29, 2012	
+	Rv3124			GO:0003677	DNA binding	PMID:20378651	IDA		F			protein	organism:1773	20120701	rwst			Jun 29, 2012	
+	Rv3124			GO:0032324	molybdopterin cofactor biosynthetic process	PMID:20378651	IEP		P			protein	organism:1773	20120701	rwst			Jun 29, 2012	
+	Rv2745c			GO:0090062	regulation of trehalose metabolic process	PMID:20701538	IEP		P			protein	organism:1773	20120701	rwst			Jun 29, 2012	
+	Rv2745c			GO:0006950	response to stress	PMID:20701538	IEP		P			protein	organism:1773	20120701	rwst			Jun 29, 2012	
+	Rv3841			GO:0051260	protein homooligomerization	PMID:21139218	IDA		P			protein	organism:1773	20120701	rwst			Jun 29, 2012	
+	Rv0169			GO:0044121	growth of symbiont in host organelle	PMID:21148733	IDA		P			protein	organism:1773	20120701	rwst			Jun 29, 2012	
+	Rv0170			GO:0044121	growth of symbiont in host organelle	PMID:21148733	IDA		P			protein	organism:1773	20120701	rwst			Jun 29, 2012	
+	Rv0594			GO:0044121	growth of symbiont in host organelle	PMID:21148733	IDA		P			protein	organism:1773	20120701	rwst			Jun 29, 2012	
+	Rv0199			GO:0044121	growth of symbiont in host organelle	PMID:21148733	IDA		P			protein	organism:1773	20120701	rwst			Jun 29, 2012	
+	Rv2945c			GO:0044121	growth of symbiont in host organelle	PMID:21148733	IDA		P			protein	organism:1773	20120701	rwst			Jun 29, 2012	
+	Rv2200c			GO:0044121	growth of symbiont in host organelle	PMID:21148733	IDA		P			protein	organism:1773	20120701	rwst			Jun 29, 2012	
+	Rv0064			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0072			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0092			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0116c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0125			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0169			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0170			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0171			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0172			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0173			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0174			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0175			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0178			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0199			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0265c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0312			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0346c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0361			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0402c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0412c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0418			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0432			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0450c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0453			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0483			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0506			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0517			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0583c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0594			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0676c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0677c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0783c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0837c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0876c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0917			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0931c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0934			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv0983			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv1004c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv1009			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv1078			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv1096			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv1157c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv1164			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv1164			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv1174c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv1230c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv1239c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv1319c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv1368			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv1419			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv1435c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv1567c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv1591			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv1635c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv1648			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv1707			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv1728c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv1743			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv1779c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv1819c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv1836c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv1860			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv1886c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv1887			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv1891			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv1984c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv2040c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv2068c^			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv2080			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv2113			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv2127			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv2200c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv2203			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv2240c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv2264c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv2284			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv2290			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv2301			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv2320c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv2339			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv2394			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv2443			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv2585c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv2599			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv2639c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv2721c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv2905			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv2938			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv2945c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv3036c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv3090			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv3103c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv3209			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv3253c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv3267			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv3390			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv3413c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv3476c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv3484			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv3494c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv3496c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv3497c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv3498c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv3584			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv3689			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv3779			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv3802c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv3835			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv3869			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv3901c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv3910			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv1090			GO:0051275	beta-glucan catabolic process	PMID:20826214	IDA		P			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv1987			GO:0030248	cellulose binding	PMID:20826214	IDA		F			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv3377c			GO:0010350	cellular response to magnesium starvation	PMID:21244530	IDA		P			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv3918			GO:0043590	bacterial nucleoid	PMID:20006309	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv1708			GO:0043590	bacterial nucleoid	PMID:20006309	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv3213			GO:0043590	bacterial nucleoid	PMID:20006309	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv3917			GO:0060187	cell pole	PMID:20006309	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
