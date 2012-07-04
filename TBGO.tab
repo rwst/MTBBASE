@@ -1023,7 +1023,7 @@ DB	DB_Object_ID	DB_Object_Symbol	Qualifier	Ontology_ID ID	Ontology_ID Name	Refer
 	Rv0165c	mce1R		GO:0075182	negative regulation of symbiont transcription in response to host	PMID:17223927	IMP		P			protein	organism:1773	20100427	rwst				
 	Rv0153c	ptpB		GO:0004722	protein serine/threonine phosphatase activity	PMID:17584180	IDA		F			protein	organism:1773	20100427	rwst				
 	Rv0153c	ptpB		GO:0004725	protein tyrosine phosphatase activity	PMID:17584180	IDA		F			protein	organism:1773	20100427	rwst				
-	Rv0153c	ptpB		GO:0004437	inositol or phosphatidylinositol phosphatase activity	PMID:17584180	IDA		F			protein	organism:1773	20100427	rwst				
+	Rv0153c	ptpB		GO:0034594	phosphatidylinositol trisphosphate phosphatase activity	PMID:17584180	IDA		F			protein	organism:1773	20100427	rwst				
 	Rv0014c	pknB		GO:0005515	protein binding	PMID:15978616	IDA	Rv1827	F			protein	organism:1773	20100331	rwst				
 	Rv1827			GO:0005515	protein binding	PMID:15978616	IDA	Rv0014c	F			protein	organism:1773	20100331	rwst				
 	Rv1908c	katG		GO:0006979	response to oxidative stress	PMID:9864198	IMP		P			protein	organism:1773	20100429	rwst				
@@ -3449,15 +3449,15 @@ DB	DB_Object_ID	DB_Object_Symbol	Qualifier	Ontology_ID ID	Ontology_ID Name	Refer
 	Rv1700			GO:0030145	manganese ion binding	PMID:12906832	IDA		F			protein	organism:1773	20100616	rwst				
 	Rv0548c	menB		GO:0051260	protein homooligomerization	PMID:12909628	IDA		P			protein	organism:1773	20100616	rwst				
 	Rv1093	glyA1		GO:0004372	glycine hydroxymethyltransferase activity	PMID:12913008	IDA		F			protein	organism:1773	20100616	rwst				
-	Rv0070	glyA2		GO:0004372	glycine hydroxymethyltransferase activity	PMID:12913008	IDA		F			protein	organism:1773	20100616	rwst				
-	Rv0070	glyA2		GO:0042803	protein homodimerization activity	PMID:12913008	IDA		F			protein	organism:1773	20100616	rwst				
+	Rv0070c	glyA2		GO:0004372	glycine hydroxymethyltransferase activity	PMID:12913008	IDA		F			protein	organism:1773	20100616	rwst				
+	Rv0070c	glyA2		GO:0042803	protein homodimerization activity	PMID:12913008	IDA		F			protein	organism:1773	20100616	rwst				
 	Rv1093	glyA1		GO:0042803	protein homodimerization activity	PMID:12913008	IDA		F			protein	organism:1773	20100616	rwst				
 	Rv1093	glyA1		GO:0030170	pyridoxal phosphate binding	PMID:12913008	IDA		F			protein	organism:1773	20100616	rwst				
-	Rv0070	glyA2		GO:0030170	pyridoxal phosphate binding	PMID:12913008	IDA		F			protein	organism:1773	20100616	rwst				
-	Rv0070	glyA2		GO:0006563	L-serine metabolic process	PMID:12913008	IDA		P			protein	organism:1773	20100616	rwst				
+	Rv0070c	glyA2		GO:0030170	pyridoxal phosphate binding	PMID:12913008	IDA		F			protein	organism:1773	20100616	rwst				
+	Rv0070c	glyA2		GO:0006563	L-serine metabolic process	PMID:12913008	IDA		P			protein	organism:1773	20100616	rwst				
 	Rv1093	glyA1		GO:0006563	L-serine metabolic process	PMID:12913008	IDA		P			protein	organism:1773	20100616	rwst				
 	Rv1093	glyA1		GO:0006544	glycine metabolic process	PMID:12913008	IDA		P			protein	organism:1773	20100616	rwst				
-	Rv0070	glyA2		GO:0006544	glycine metabolic process	PMID:12913008	IDA		P			protein	organism:1773	20100616	rwst				
+	Rv0070c	glyA2		GO:0006544	glycine metabolic process	PMID:12913008	IDA		P			protein	organism:1773	20100616	rwst				
 	Rv1743	pknE		GO:0004674	protein serine/threonine kinase activity	PMID:12927792	IDA		F			protein	organism:1773	20100616	rwst				
 	Rv1743	pknE		GO:0046777	protein autophosphorylation	PMID:12927792	IDA		P			protein	organism:1773	20100616	rwst				
 	Rv1665	pks11		GO:0009715	chalcone biosynthetic process	PMID:12941968	IDA		P			protein	organism:1773	20100616	rwst				
@@ -4015,7 +4015,7 @@ DB	DB_Object_ID	DB_Object_Symbol	Qualifier	Ontology_ID ID	Ontology_ID Name	Refer
 	Rv0024			GO:0005886	plasma membrane	PMID:15525680	IDA		C			protein	organism:1773	20100622	rwst				
 	Rv0064			GO:0005886	plasma membrane	PMID:15525680	IDA		C			protein	organism:1773	20100622	rwst				
 	Rv0069c			GO:0005886	plasma membrane	PMID:15525680	IDA		C			protein	organism:1773	20100622	rwst				
-	Rv0070			GO:0005886	plasma membrane	PMID:15525680	IDA		C			protein	organism:1773	20100622	rwst				
+	Rv0070c			GO:0005886	plasma membrane	PMID:15525680	IDA		C			protein	organism:1773	20100622	rwst				
 	Rv0074			GO:0005886	plasma membrane	PMID:15525680	IDA		C			protein	organism:1773	20100622	rwst				
 	Rv0081			GO:0005886	plasma membrane	PMID:15525680	IDA		C			protein	organism:1773	20100622	rwst				
 	Rv0087			GO:0005886	plasma membrane	PMID:15525680	IDA		C			protein	organism:1773	20100622	rwst				
@@ -5195,7 +5195,7 @@ DB	DB_Object_ID	DB_Object_Symbol	Qualifier	Ontology_ID ID	Ontology_ID Name	Refer
 	UniProt:Q8NP45	Cgl1980		GO:0018215	protein phosphopantetheinylation	PMID:16709676	IMP		P			protein	organism:1718	20100623	rwst				
 	UniProt:A0QVP7	MSMEG_2648		GO:0018215	protein phosphopantetheinylation	PMID:16709676	IMP		P			protein	organism:246196	20100623	rwst				
 	UniProt:A0R1H6	MSMEG_4756		GO:0018215	protein phosphopantetheinylation	PMID:16709676	IMP		P			protein	organism:246196	20100623	rwst				
-	UniProt:Q7TXV1	Mb2817c		GO:0040007	growth	PMID:16709676	IMP		P			protein	organism:1765	20100623	rwst				
+	UniProtKB:Q7TXV1	Mb2817c		GO:0040007	growth	PMID:16709676	IMP		P			protein	organism:1765	20100623	rwst				
 	Rv2359	zur		GO:0045893	positive regulation of transcription, DNA-dependent	PMID:17098899	IDA	Rv1857	P			protein	organism:1773	20100623	rwst				
 	Rv3870			GO:0042783	active evasion of host immune response	PMID:17353284	IMP		P			protein	organism:1773	20100623	rwst				
 	Rv3871			GO:0042783	active evasion of host immune response	PMID:17353284	IMP		P			protein	organism:1773	20100623	rwst				
@@ -5571,8 +5571,8 @@ DB	DB_Object_ID	DB_Object_Symbol	Qualifier	Ontology_ID ID	Ontology_ID Name	Refer
 	Rv1464			GO:0005515	protein binding	PMID:16621837	IDA	Rv1461	F			protein	organism:1773	20100707	rwst				
 	Rv0934	pstS1		GO:0005515	protein binding	PMID:16622205	IDA	UniProtKB:O60603	F			protein	organism:1773	20100707	rwst				
 	Rv0934	pstS1		GO:0005515	protein binding	PMID:16622205	IDA	UniProtKB:O00206	F			protein	organism:1773	20100707	rwst				
-	UniProt:O60603			GO:0005515	protein binding	PMID:16622205	IDA	Rv0934	F			protein	organism:9606	20100707	rwst				
-	UniProt:O00206			GO:0005515	protein binding	PMID:16622205	IDA	Rv0934	F			protein	organism:9606	20100707	rwst				
+	UniProtKB:O60603			GO:0005515	protein binding	PMID:16622205	IDA	Rv0934	F			protein	organism:9606	20100707	rwst				
+	UniProtKB:O00206			GO:0005515	protein binding	PMID:16622205	IDA	Rv0934	F			protein	organism:9606	20100707	rwst				
 	Rv3246c	mtrA		GO:0045893	positive regulation of transcription, DNA-dependent	PMID:16629667	IDA	Rv0001	P			protein	organism:1773	20100707	rwst				
 	Rv3246c	mtrA		GO:0044117	growth of symbiont in host	PMID:16629667	IMP		P			protein	organism:1773	20100707	rwst				
 	Rv1170	mshB		GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides	PMID:16630724	IDA		F			protein	organism:1773	20100707	rwst				
@@ -5582,8 +5582,8 @@ DB	DB_Object_ID	DB_Object_Symbol	Qualifier	Ontology_ID ID	Ontology_ID Name	Refer
 	Rv1837c			GO:0005618	cell wall	PMID:16677310	IDA		C			protein	organism:1773	20100707	rwst				
 	Rv1837c			GO:0005515	protein binding	PMID:16677310	IDA	UniProtKB:P25391	F			protein	organism:1773	20100707	rwst				
 	Rv1837c			GO:0005515	protein binding	PMID:16677310	IDA	UniProtKB:P02751	F			protein	organism:1773	20100707	rwst				
-	UniProt:P25391			GO:0005515	protein binding	PMID:16677310	IDA	Rv1837c	F			protein	organism:9606	20100707	rwst				
-	UniProt:P02751			GO:0005515	protein binding	PMID:16677310	IDA	Rv1837c	F			protein	organism:9606	20100707	rwst				
+	UniProtKB:P25391			GO:0005515	protein binding	PMID:16677310	IDA	Rv1837c	F			protein	organism:9606	20100707	rwst				
+	UniProtKB:P02751			GO:0005515	protein binding	PMID:16677310	IDA	Rv1837c	F			protein	organism:9606	20100707	rwst				
 	Rv3710	leuA		GO:0030955	potassium ion binding	PMID:16684501	IDA		F			protein	organism:1773	20100707	rwst				
 	Rv3710	leuA		GO:0000287	magnesium ion binding	PMID:16684501	IDA		F			protein	organism:1773	20100707	rwst				
 	Rv3710	leuA		GO:0030145	manganese ion binding	PMID:16684501	IDA		F			protein	organism:1773	20100707	rwst				
@@ -7169,7 +7169,6 @@ DB	DB_Object_ID	DB_Object_Symbol	Qualifier	Ontology_ID ID	Ontology_ID Name	Refer
 	Rv2047c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
 	Rv2048c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
 	Rv2050			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
-	Rv2063c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
 	Rv2074			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
 	Rv2091c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
 	Rv2095c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
@@ -7400,7 +7399,7 @@ DB	DB_Object_ID	DB_Object_Symbol	Qualifier	Ontology_ID ID	Ontology_ID Name	Refer
 	Rv3894c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
 	Rv3903c			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
 	Rv3914			GO:0005618	cell wall	PMID:20825248	IDA		C			protein	organism:1773	20120701	rwst			Jun 24, 2012	
-	Rv3323			GO:0006777	Mo-molybdopterin cofactor biosynthetic process	PMID:20971904	IDA		P			protein	organism:1773	20120701	rwst			Jun 24, 2012	
+	Rv3323c			GO:0006777	Mo-molybdopterin cofactor biosynthetic process	PMID:20971904	IDA		P			protein	organism:1773	20120701	rwst			Jun 24, 2012	
 	Rv0868c			GO:0006777	Mo-molybdopterin cofactor biosynthetic process	PMID:20971904	IDA		P			protein	organism:1773	20120701	rwst			Jun 24, 2012	
 	Rv3119			GO:0006777	Mo-molybdopterin cofactor biosynthetic process	PMID:20971904	IDA		P			protein	organism:1773	20120701	rwst			Jun 24, 2012	
 	Rv0866			GO:0006777	Mo-molybdopterin cofactor biosynthetic process	PMID:20971904	IDA		P			protein	organism:1773	20120701	rwst			Jun 24, 2012	
@@ -7460,10 +7459,10 @@ DB	DB_Object_ID	DB_Object_Symbol	Qualifier	Ontology_ID ID	Ontology_ID Name	Refer
 	Rv3266c			GO:0008831	dTDP-4-dehydrorhamnose reductase activity	PMID:19969466	IDA		F			protein	organism:1773	20120701	rwst			Jun 26, 2012	
 	Rv3464			GO:0008460	dTDP-glucose 4,6-dehydratase activity	PMID:19969466	IDA		F			protein	organism:1773	20120701	rwst			Jun 26, 2012	
 	Rv3464			GO:0019305	dTDP-rhamnose biosynthetic process	PMID:19969466	IDA		P			protein	organism:1773	20120701	rwst			Jun 26, 2012	
-	Rv1820c			GO:0003984	acetolactate synthase activity	PMID:20884690	IDA		F			protein	organism:1773	20120701	rwst			Jun 26, 2012	
-	Rv1820c			GO:0000287	magnesium ion binding	PMID:20884690	IDA		F			protein	organism:1773	20120701	rwst			Jun 26, 2012	
-	Rv1820c			GO:0030976	thiamine pyrophosphate binding	PMID:20884690	IDA		F			protein	organism:1773	20120701	rwst			Jun 26, 2012	
-	Rv1820c			GO:0009082	branched chain family amino acid biosynthetic process	PMID:20884690	IDA		P			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv1820			GO:0003984	acetolactate synthase activity	PMID:20884690	IDA		F			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv1820			GO:0000287	magnesium ion binding	PMID:20884690	IDA		F			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv1820			GO:0030976	thiamine pyrophosphate binding	PMID:20884690	IDA		F			protein	organism:1773	20120701	rwst			Jun 26, 2012	
+	Rv1820			GO:0009082	branched chain family amino acid biosynthetic process	PMID:20884690	IDA		P			protein	organism:1773	20120701	rwst			Jun 26, 2012	
 	Rv0189c			GO:0009082	branched chain family amino acid biosynthetic process	PMID:20864475	IDA		P			protein	organism:1773	20120701	rwst			Jun 26, 2012	
 	Rv0189c			GO:0004160	dihydroxy-acid dehydratase activity	PMID:20864475	IDA		F			protein	organism:1773	20120701	rwst			Jun 26, 2012	
 	Rv0189c			GO:0040007	growth	PMID:20864475	IDA		P			protein	organism:1773	20120701	rwst			Jun 26, 2012	
@@ -7625,7 +7624,7 @@ DB	DB_Object_ID	DB_Object_Symbol	Qualifier	Ontology_ID ID	Ontology_ID Name	Refer
 	Rv1891			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
 	Rv1984c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
 	Rv2040c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
-	Rv2068c^			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv2068c			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
 	Rv2080			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
 	Rv2113			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
 	Rv2127			GO:0005576	extracellular region	PMID:21148733	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
@@ -7672,10 +7671,10 @@ DB	DB_Object_ID	DB_Object_Symbol	Qualifier	Ontology_ID ID	Ontology_ID Name	Refer
 	Rv1090			GO:0051275	beta-glucan catabolic process	PMID:20826214	IDA		P			protein	organism:1773	20120701	rwst			Jun 30, 2012	
 	Rv1987			GO:0030248	cellulose binding	PMID:20826214	IDA		F			protein	organism:1773	20120701	rwst			Jun 30, 2012	
 	Rv3377c			GO:0010350	cellular response to magnesium starvation	PMID:21244530	IDA		P			protein	organism:1773	20120701	rwst			Jun 30, 2012	
-	Rv3918			GO:0043590	bacterial nucleoid	PMID:20006309	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv3918c			GO:0043590	bacterial nucleoid	PMID:20006309	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
 	Rv1708			GO:0043590	bacterial nucleoid	PMID:20006309	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
-	Rv3213			GO:0043590	bacterial nucleoid	PMID:20006309	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
-	Rv3917			GO:0060187	cell pole	PMID:20006309	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv3213c			GO:0043590	bacterial nucleoid	PMID:20006309	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
+	Rv3917c			GO:0060187	cell pole	PMID:20006309	IDA		C			protein	organism:1773	20120701	rwst			Jun 30, 2012	
 	Rv2869c			GO:0071766	Actinobacterium-type cell wall biogenesis	PMID:16034419	IDA		P			protein	organism:1773	20120701	rwst			Jun 30, 2012	
 	Rv2869c			GO:0019216	regulation of lipid metabolic process	PMID:16034419	IDA		P			protein	organism:1773	20120701	rwst			Jun 30, 2012	
 	Rv3790			GO:0035884	arabinan biosynthetic process	PMID:20934382	IDA		P			protein	organism:1773	20120701	rwst			Jun 30, 2012	
@@ -7741,8 +7740,8 @@ DB	DB_Object_ID	DB_Object_Symbol	Qualifier	Ontology_ID ID	Ontology_ID Name	Refer
 	Rv3616c			GO:0009405	pathogenesis	PMID:20585630	IDA		P			protein	organism:1773	20120701	rwst			Jul 2, 2012	
 	Rv3616c			GO:0071766	Actinobacterium-type cell wall biogenesis	PMID:20585630	IDA		P			protein	organism:1773	20120701	rwst			Jul 2, 2012	
 	Rv1956			GO:0045892	negative regulation of transcription, DNA-dependent	PMID:20585061	IDA		P			protein	organism:1773	20120701	rwst			Jul 2, 2012	
-	UniProt:E2FZM4			GO:0046688	response to copper ion	PMID:21166899	IDA		P			protein	organism:1773	20120701	rwst			Jul 2, 2012	
-	UniProt:E2FZM5			GO:0046688	response to copper ion	PMID:21166899	IDA		P			protein	organism:1773	20120701	rwst			Jul 2, 2012	
+	UniProtKB:E2FZM4			GO:0046688	response to copper ion	PMID:21166899	IDA		P			protein	organism:83332	20120701	rwst			Jul 2, 2012	
+	UniProtKB:E2FZM5			GO:0046688	response to copper ion	PMID:21166899	IDA		P			protein	organism:83332	20120701	rwst			Jul 2, 2012	
 	Rv2963			GO:0046688	response to copper ion	PMID:21166899	IDA		P			protein	organism:1773	20120701	rwst			Jul 2, 2012	
 	Rv0847			GO:0046688	response to copper ion	PMID:21166899	IDA		P			protein	organism:1773	20120701	rwst			Jul 2, 2012	
 	Rv0186A			GO:0046688	response to copper ion	PMID:21166899	IDA		P			protein	organism:1773	20120701	rwst			Jul 2, 2012	
@@ -7750,7 +7749,7 @@ DB	DB_Object_ID	DB_Object_Symbol	Qualifier	Ontology_ID ID	Ontology_ID Name	Refer
 	Rv0969			GO:0046688	response to copper ion	PMID:21166899	IDA		P			protein	organism:1773	20120701	rwst			Jul 2, 2012	
 	Rv0190			GO:0046688	response to copper ion	PMID:21166899	IDA		P			protein	organism:1773	20120701	rwst			Jul 2, 2012	
 	Rv0190			GO:0045892	negative regulation of transcription, DNA-dependent	PMID:21166899	IDA		P			protein	organism:1773	20120701	rwst			Jul 2, 2012	
-	Rv2457c			GO:0005515	protein binding	PMID:20625433	IDA	Rv2150c	P			protein	organism:1773	20120701	rwst			Jul 2, 2012	
+	Rv2457c			GO:0005515	protein binding	PMID:20625433	IPI	Rv2150c	F			protein	organism:1773	20120701	rwst			Jul 2, 2012	
 	Rv2216			GO:0020037	heme binding	PMID:20843794	IDA		F			protein	organism:1773	20120701	rwst			Jul 2, 2012	
 	Rv3518c			GO:0020037	heme binding	PMID:20843794	IDA		F			protein	organism:1773	20120701	rwst			Jul 2, 2012	
 	Rv3518c			GO:0036199	cholest-4-en-3-one 26-monooxygenase activity	PMID:20843794	IDA		F			protein	organism:1773	20120701	rwst			Jul 2, 2012	
@@ -7792,3 +7791,69 @@ DB	DB_Object_ID	DB_Object_Symbol	Qualifier	Ontology_ID ID	Ontology_ID Name	Refer
 	Rv3411c			GO:0003938	IMP dehydrogenase activity	PMID:20491506	IDA		F			protein	organism:1773	20120701	rwst			Jul 3, 2012	
 	Rv3411c			GO:0097293	XMP biosynthetic process	PMID:20491506	IDA		P			protein	organism:1773	20120701	rwst			Jul 3, 2012	
 	Rv3411c			GO:0006204	IMP catabolic process	PMID:20491506	IDA		P			protein	organism:1773	20120701	rwst			Jul 3, 2012	
+	Rv0754			GO:0004619	phosphoglycerate mutase activity	PMID:20558725	IDA		F			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv0754			GO:0006096	glycolysis	PMID:20558725	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv0754			GO:0000287	magnesium ion binding	PMID:20558725	IDA		F			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv0754			GO:0001666	response to hypoxia	PMID:20558725	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv0754			GO:0005618	cell wall	PMID:20558725	IDA		C			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv2112c			GO:0070490	protein pupylation	PMID:20636328	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv0180c			GO:0005618	cell wall	PMID:20883740	IDA		C			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv2112c			GO:0070490	protein pupylation	PMID:20705495	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv2981c			GO:0042803	protein homodimerization activity	PMID:20956591	IDA		F			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv2981c			GO:0008716	D-alanine-D-alanine ligase activity	PMID:20956591	IDA		F			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv2981c			GO:0009252	peptidoglycan biosynthetic process	PMID:20956591	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv2981c			GO:0006200	ATP catabolic process	PMID:20956591	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv2628			GO:0040007	growth	PMID:20172995	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv2858c			GO:0040007	growth	PMID:20172995	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv3865		NOT	GO:0046903	secretion	PMID:21196469	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv3866		NOT	GO:0046903	secretion	PMID:21196469	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv0467			GO:0009405	pathogenesis	PMID:21203517	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv3671c			GO:0009405	pathogenesis	PMID:21203517	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv2109c			GO:0009405	pathogenesis	PMID:21203517	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv2110c			GO:0009405	pathogenesis	PMID:21203517	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv1146			GO:0052556	positive regulation by symbiont of host immune response	PMID:21170273	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv0404			GO:0052556	positive regulation by symbiont of host immune response	PMID:21170273	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv0017c			GO:0052556	positive regulation by symbiont of host immune response	PMID:21170273	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv2608			GO:0052556	positive regulation by symbiont of host immune response	PMID:21170273	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv3347c			GO:0052556	positive regulation by symbiont of host immune response	PMID:21170273	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv0431			GO:0052556	positive regulation by symbiont of host immune response	PMID:21170273	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv3549c			GO:0052556	positive regulation by symbiont of host immune response	PMID:21170273	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv0927c			GO:0052556	positive regulation by symbiont of host immune response	PMID:21170273	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv1633			GO:0052556	positive regulation by symbiont of host immune response	PMID:21170273	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv1082			GO:0052556	positive regulation by symbiont of host immune response	PMID:21170273	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv0146			GO:0052556	positive regulation by symbiont of host immune response	PMID:21170273	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv1590			GO:0052556	positive regulation by symbiont of host immune response	PMID:21170273	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv2082			GO:0052556	positive regulation by symbiont of host immune response	PMID:21170273	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv2928			GO:0052562	negative regulation by symbiont of host immune response	PMID:21170273	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv3087			GO:0052562	negative regulation by symbiont of host immune response	PMID:21170273	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv2284			GO:0052562	negative regulation by symbiont of host immune response	PMID:21170273	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv3867			GO:0052562	negative regulation by symbiont of host immune response	PMID:21170273	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv0165c			GO:0052562	negative regulation by symbiont of host immune response	PMID:21170273	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv0458			GO:0052562	negative regulation by symbiont of host immune response	PMID:21170273	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv3191c			GO:0052562	negative regulation by symbiont of host immune response	PMID:21170273	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv0264c			GO:0052562	negative regulation by symbiont of host immune response	PMID:21170273	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv2307c			GO:0052562	negative regulation by symbiont of host immune response	PMID:21170273	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv2051c			GO:0052553	modulation by symbiont of host immune response	PMID:21170273	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv3869			GO:0052553	modulation by symbiont of host immune response	PMID:21170273	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv3006			GO:0052553	modulation by symbiont of host immune response	PMID:21170273	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv2626c			GO:0052553	modulation by symbiont of host immune response	PMID:20201990	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv2158c			GO:0008765	UDP-N-acetylmuramoylalanyl-D-glutamate-2,6-diaminopimelate ligase activity	PMID:19945374	IDA		F			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv2158c			GO:0006200	ATP catabolic process	PMID:19945374	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv2158c			GO:0009252	peptidoglycan biosynthetic process	PMID:19945374	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv0645c			GO:0071768	mycolic acid biosynthetic process	PMID:20472794	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv0644c			GO:0071768	mycolic acid biosynthetic process	PMID:20472794	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv0503c			GO:0071768	mycolic acid biosynthetic process	PMID:20472794	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv1917c			GO:0052553	modulation by symbiont of host immune response	PMID:20837474	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv1218c			GO:0046677	response to antibiotic	PMID:20921309	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv2351c			GO:0052008	disassembly by symbiont of host cellular component	PMID:20736081	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv2350c			GO:0052008	disassembly by symbiont of host cellular component	PMID:20736081	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv2349c			GO:0052008	disassembly by symbiont of host cellular component	PMID:20736081	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv1755c			GO:0052008	disassembly by symbiont of host cellular component	PMID:20736081	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv1092c			GO:0004594	pantothenate kinase activity	PMID:20576686	IDA		F			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv3600c		NOT	GO:0004594	pantothenate kinase activity	PMID:20576686	IDA		F			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv1092c			GO:0015937	coenzyme A biosynthetic process	PMID:20576686	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv2088			GO:0016151	nickel cation binding	PMID:20520732	IDA		F			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv2088			GO:0050897	cobalt ion binding	PMID:20520732	IDA		F			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv2088			GO:0042803	protein homodimerization activity	PMID:20520732	IDA		F			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv2088			GO:0046777	protein autophosphorylation	PMID:20520732	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
+	Rv2088			GO:2000505	regulation of energy homeostasis	PMID:20520732	IDA		P			protein	organism:1773	20120701	rwst			Jul 4, 2012	
