@@ -16,7 +16,7 @@ synfile.each_line("\n") {|line|
       names.each {|key| syn[key] = n if key =~ /^Rv/ or key =~ /^MT/ }
       ac = ""
       names = []
-      id = line.sub(/ID +/, '').sub(/ +.*\n/, '')
+      id = line.sub(/ID +/, '').sub(/ +.*\n/, '').sub(/\n/, '')
     when 'AC' then
       ac = line.sub(/AC +/, '').sub(/[,;].*\n/, '') unless !ac.empty?
     when 'GN' then

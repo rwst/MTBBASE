@@ -1,3 +1,10 @@
+2012-Jul: Release of version 19
+Changes:
+========
++ annotated 110 papers
+= replaced 'toxin binding' annotations
+= fixed errors in annotation of KasA, RelBE, more
+
 2012-Feb-06: Release of version 18
 Changes:
 ========
